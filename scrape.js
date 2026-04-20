@@ -2,17 +2,27 @@ const fs = require('fs');
 
 async function scrapeMalayalamMovies() {
     try {
-        console.log('Fetching https://www.1tamilmv.frl/ ...');
-        const response = await fetch('https://www.1tamilmv.frl/', {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-                'Accept-Language': 'en-US,en;q=0.5'
+        let response;
+        for (let i = 0; i < 3; i++) {
+            try {
+                console.log(`Fetching https://www.1tamilmv.frl/ (Attempt ${i + 1})...`);
+                response = await fetch('https://www.1tamilmv.frl/', {
+                    headers: {
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+                        'Accept-Language': 'en-US,en;q=0.5'
+                    }
+                });
+                if (response.ok) break;
+            } catch (err) {
+                if (i === 2) throw err;
+                console.log(`Attempt ${i + 1} failed: ${err.message}. Retrying in 2 seconds...`);
+                await new Promise(r => setTimeout(r, 2000));
             }
-        });
+        }
         
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+        if (!response || !response.ok) {
+            throw new Error(`HTTP error! status: ${response ? response.status : 'unknown'}`);
         }
         
         const html = await response.text();
@@ -31,7 +41,7 @@ async function scrapeMalayalamMovies() {
                                           .replace(/<[^>]+>/g, ' ');
         
         // Split by lines, trim whitespace, and decode basic HTML entities
-        const decodeEntities = (text) => text.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/&nbsp;/g, ' ');
+        const decodeEntities = (text) => text.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/&nbsp;/g, ' ').replace(/\u200b/g, '').replace(/&hellip;/g, '...');
         
         const lines = textWithNewlines.split('\n')
             .map(line => decodeEntities(line.trim()).replace(/\s+/g, ' ').replace(/\[\s*\[/g, '[').replace(/\]\s*\]/g, ']'))
@@ -47,6 +57,7 @@ async function scrapeMalayalamMovies() {
         // Quality rank: higher = better. Used to keep the best version per title.
         function qualityRank(line) {
             const l = line.toLowerCase();
+            if (l.includes('bluray') || l.includes('blu-ray')) return 4;
             if (l.includes('uhd') || l.includes('4k')) return 3;
             if (l.includes(' hd ') || l.includes(' hd+') || l.includes('web-dl') || l.includes('web dl') || l.includes('webhd')) return 2;
             return 1;
@@ -59,8 +70,10 @@ async function scrapeMalayalamMovies() {
             // Skip PreDVD entries entirely
             if (preDvdRegex.test(line)) continue;
 
-            if (malRegex.test(line) && line.length > 10 && line.length < 300 && yearRegex.test(line)) {
-                const keyMatch = line.match(movieKeyRegex);
+            if (malRegex.test(line) && line.length > 10 && yearRegex.test(line)) {
+                // Strip leading brackets and spaces from the line before extracting the key
+                const cleanLineForMatch = line.replace(/^\[\s*/, '');
+                const keyMatch = cleanLineForMatch.match(movieKeyRegex);
                 if (!keyMatch) continue;
                 // Normalize key: lowercase, strip markdown link syntax for comparison
                 const key = keyMatch[1].replace(/\[|\]/g, '').toLowerCase().trim();
@@ -75,6 +88,11 @@ async function scrapeMalayalamMovies() {
         const sortedMovies = Array.from(movieMap.values()).sort((a, b) => a.localeCompare(b));
         console.log(`Found ${sortedMovies.length} Malayalam titles.`);
         
+        if (sortedMovies.length === 0) {
+            console.error('No movies found — skipping write to avoid data loss.');
+            process.exit(1);
+        }
+        
         sortedMovies.forEach(m => console.log(`- ${m}`));
         
         const readmePath = 'README.md';
@@ -84,7 +102,7 @@ async function scrapeMalayalamMovies() {
             
             if (readmeContent.includes(startMarker)) {
                 const before = readmeContent.substring(0, readmeContent.indexOf(startMarker) + startMarker.length);
-                const formattedMovies = sortedMovies.map(m => `- ${m}`).join('\n');
+                const formattedMovies = sortedMovies.map(m => `- ${m.replace(/^\[\s+/, '[')}`).join('\n');
                 
                 readmeContent = `${before}\n\n${formattedMovies}\n`;
                 fs.writeFileSync(readmePath, readmeContent);

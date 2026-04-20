@@ -2,8 +2,9 @@ name: Update Malayalam Movies List
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
+    # Runs at 00:00 UTC and 12:00 UTC every day
     - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
 
 jobs:
@@ -27,6 +28,7 @@ jobs:
 
       - name: Commit and Push changes
         run: |
+          set -e
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
