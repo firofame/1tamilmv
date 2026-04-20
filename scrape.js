@@ -102,11 +102,54 @@ async function scrapeMalayalamMovies() {
             
             if (readmeContent.includes(startMarker)) {
                 const before = readmeContent.substring(0, readmeContent.indexOf(startMarker) + startMarker.length);
-                const formattedMovies = sortedMovies.map(m => `- ${m.replace(/^\[\s+/, '[')}`).join('\n');
                 
-                readmeContent = `${before}\n\n${formattedMovies}\n`;
+                const tableHeader = '\n\n| 🎬 Movie | 📅 Year | 🎞️ Quality | 🔗 Link |\n| :--- | :---: | :---: | :---: |';
+                
+                const formattedMovies = sortedMovies.map(m => {
+                    const linkMatch = m.match(/\[(.*?)\]\((.*?)\)/);
+                    let url = '';
+                    if (linkMatch) {
+                        url = linkMatch[2];
+                    }
+                    
+                    // Remove markdown link formatting to get clean text for parsing
+                    let cleanText = m.replace(/\[(.*?)\]\(.*?\)/, ' $1 ').replace(/\[|\]/g, '').replace(/\|/g, '-');
+                    
+                    const yearMatch = cleanText.match(/^(.*?)\s*\((\d{4})\)/);
+                    let title = cleanText;
+                    let year = '-';
+                    
+                    if (yearMatch) {
+                        title = yearMatch[1].trim();
+                        // Remove common leading language tags
+                        title = title.replace(/^(Malayalam|Tamil|Telugu|Hindi)\s*[-:]?\s*/i, '').trim();
+                        year = yearMatch[2];
+                    } else {
+                        title = cleanText.split('-')[0].trim();
+                    }
+                    
+                    // Truncate title if it's too long
+                    if (title.length > 50) title = title.substring(0, 47) + '...';
+                    
+                    const l = cleanText.toLowerCase();
+                    let quality = 'Unknown';
+                    if (l.includes('4k') || l.includes('uhd')) quality = '4K UHD';
+                    else if (l.includes('bluray') || l.includes('blu-ray') || l.includes('bdrip')) quality = l.includes('1080p') ? '1080p BluRay' : 'BluRay';
+                    else if (l.includes('1080p')) quality = '1080p';
+                    else if (l.includes('720p')) quality = '720p';
+                    else if (l.includes('web-dl') || l.includes('webrip') || l.includes('web')) quality = 'WEB-DL';
+                    else if (l.includes('hdrip') || l.includes(' hd ')) quality = 'HDRip';
+                    else if (l.includes('dvd')) quality = 'DVD';
+                    else quality = 'HDRip';
+                    
+                    const linkCol = url ? `[⬇️ Download](${url})` : 'No Link';
+                    return `| **${title}** | ${year} | \`${quality}\` | ${linkCol} |`;
+                }).join('\n');
+                
+                const dateStr = new Date().toUTCString();
+                readmeContent = `${before}\n\n*Last updated: ${dateStr}*\n${tableHeader}\n${formattedMovies}\n`;
                 fs.writeFileSync(readmePath, readmeContent);
-                console.log('\nSaved movies directly to README.md');
+                console.log('\nSaved movies directly to README.md in a beautiful table format');
             } else {
                 console.error('\nCould not find "# Latest Malayalam Movies" in README.md to insert movies.');
             }
