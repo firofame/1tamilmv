@@ -37,22 +37,42 @@ async function scrapeMalayalamMovies() {
             .map(line => decodeEntities(line.trim()).replace(/\s+/g, ' ').replace(/\[\s*\[/g, '[').replace(/\]\s*\]/g, ']'))
             .filter(line => line.length > 0);
         
-        const movies = new Set();
         // Regex rules similar to the Tampermonkey script
         const malRegex = /(malayalam|\bmal\b)/i;
-        const yearRegex = /\(20\d{2}\)/; // Most movie releases have a year in parentheses
-        
+        const preDvdRegex = /pre[- ]?dvd/i;
+        const yearRegex = /\(20\d{2}\)/;
+        // Extract "Movie Title (YEAR)" as a dedup key
+        const movieKeyRegex = /^(.*?\(\d{4}\))/;
+
+        // Quality rank: higher = better. Used to keep the best version per title.
+        function qualityRank(line) {
+            const l = line.toLowerCase();
+            if (l.includes('uhd') || l.includes('4k')) return 3;
+            if (l.includes(' hd ') || l.includes(' hd+') || l.includes('web-dl') || l.includes('web dl') || l.includes('webhd')) return 2;
+            return 1;
+        }
+
+        // Map from dedup key -> best line seen so far
+        const movieMap = new Map();
+
         for (const line of lines) {
-            if (malRegex.test(line) && line.length > 10 && line.length < 300) {
-                // Ensure it looks like a movie title (contains a year)
-                if (yearRegex.test(line)) {
-                     // Clean up trailing dashes or specific trailing bracket patterns if desired
-                     movies.add(line);
+            // Skip PreDVD entries entirely
+            if (preDvdRegex.test(line)) continue;
+
+            if (malRegex.test(line) && line.length > 10 && line.length < 300 && yearRegex.test(line)) {
+                const keyMatch = line.match(movieKeyRegex);
+                if (!keyMatch) continue;
+                // Normalize key: lowercase, strip markdown link syntax for comparison
+                const key = keyMatch[1].replace(/\[|\]/g, '').toLowerCase().trim();
+
+                const existing = movieMap.get(key);
+                if (!existing || qualityRank(line) > qualityRank(existing)) {
+                    movieMap.set(key, line);
                 }
             }
         }
-        
-        const sortedMovies = Array.from(movies).sort();
+
+        const sortedMovies = Array.from(movieMap.values()).sort((a, b) => a.localeCompare(b));
         console.log(`Found ${sortedMovies.length} Malayalam titles.`);
         
         sortedMovies.forEach(m => console.log(`- ${m}`));
