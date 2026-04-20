@@ -21,9 +21,12 @@ async function scrapeMalayalamMovies() {
         const cleanHtml = html.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, ' ')
                               .replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, ' ');
                               
+        // Convert <a href="URL">TEXT</a> to [TEXT](URL)
+        const htmlWithLinks = cleanHtml.replace(/<a\s+(?:[^>]*?\s+)?href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi, '[$2]($1)');
+        
         // Strip HTML tags to get plain text
         // Replace closing tags or common block tags with newlines to keep lines separate
-        const textWithNewlines = cleanHtml.replace(/<\/(div|p|li|tr|h\d|section|article)>/gi, '\n')
+        const textWithNewlines = htmlWithLinks.replace(/<\/(div|p|li|tr|h\d|section|article)>/gi, '\n')
                                           .replace(/<br\s*\/?>/gi, '\n')
                                           .replace(/<[^>]+>/g, ' ');
         
@@ -31,7 +34,7 @@ async function scrapeMalayalamMovies() {
         const decodeEntities = (text) => text.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/&nbsp;/g, ' ');
         
         const lines = textWithNewlines.split('\n')
-            .map(line => decodeEntities(line.trim()).replace(/\s+/g, ' '))
+            .map(line => decodeEntities(line.trim()).replace(/\s+/g, ' ').replace(/\[\s*\[/g, '[').replace(/\]\s*\]/g, ']'))
             .filter(line => line.length > 0);
         
         const movies = new Set();
@@ -57,19 +60,17 @@ async function scrapeMalayalamMovies() {
         const readmePath = 'README.md';
         if (fs.existsSync(readmePath)) {
             let readmeContent = fs.readFileSync(readmePath, 'utf8');
-            const startMarker = '<!-- MOVIES START -->';
-            const endMarker = '<!-- MOVIES END -->';
+            const startMarker = '# Latest Malayalam Movies';
             
-            if (readmeContent.includes(startMarker) && readmeContent.includes(endMarker)) {
+            if (readmeContent.includes(startMarker)) {
                 const before = readmeContent.substring(0, readmeContent.indexOf(startMarker) + startMarker.length);
-                const after = readmeContent.substring(readmeContent.indexOf(endMarker));
                 const formattedMovies = sortedMovies.map(m => `- ${m}`).join('\n');
                 
-                readmeContent = `${before}\n\n### Latest Malayalam Movies\n\n${formattedMovies}\n\n${after}`;
+                readmeContent = `${before}\n\n${formattedMovies}\n`;
                 fs.writeFileSync(readmePath, readmeContent);
                 console.log('\nSaved movies directly to README.md');
             } else {
-                console.error('\nCould not find markers in README.md to insert movies.');
+                console.error('\nCould not find "# Latest Malayalam Movies" in README.md to insert movies.');
             }
         } else {
             console.error('\nREADME.md not found.');

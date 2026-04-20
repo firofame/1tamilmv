@@ -1,396 +1,259 @@
 # Latest Malayalam Movies
 
-- 12A Railway Colony (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 15GB + Rips]
-- 13th: Some Lessons Aren't Taught In Classrooms (2025) S01 EP (01-05) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL]
-- 2 BHK (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.3GB + Rips]
-- 4 Girls (2023) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 3GB + Rips]
-- 45 (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6GB + Rips]
-- 56 Days (2026) S01 EP(01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 4GB + Rips]
-- 90's : A Middle Class Biopic (2025) S01 EP (01-06) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 6.5GB + Rips]
-- AIR: All India Rankers (2025) S01 EP (01-07) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 8GB + Rips]
-- Aabhyanthara Kuttavaali (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips]
-- Aadu 3 (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips] - [W]
-- Aan Paavam Pollathathu (2025) UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - [Malayalam + Hindi + Kannada] - 9GB + Rips]
-- Aanandam (2016) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DTS5.1 - 754Kbps) - 8.4GB + Rips]
-- Aap Kaise Ho? (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips]
-- Aaromaley (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [MAL + HIN + KAN] - 10GB + Rips]
-- Aaryan (2025) UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - [Malayalam + Hindi + Kannada] - 15GB + Rips]
-- Aashaan (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB & 1.4GB + Rips]
-- After the Hunt (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 5.7GB + Rips]
-- Akhanda 2 (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 18GB + Rips]
-- Amoz Alexander (2026) Malayalam HD +ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips]
-- Anaganaga Oka Raju (2026) UHD + ESub - [ 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 8.7GB + Rips]
-- Andhakaara (2024) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips]
-- Andhra King Taluka (2025) HD + ESub - [ 1080p & 720p - AVC - [Malayalam + Hindi] - 8.8GB + Rips] - [WATCH]
-- Anjaam Vedham (2024) Malayalam HD - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9.9GB + Rips]
-- Anomie: The Equation of Death (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB & 1.4GB + Rips]
-- Antharam (2023) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 5.4GB + Rips]
-- Apoorva Puthranmaar (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 3.2GB + Rips] -
-- Appuram (2024) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 1.4GB + Rips]
-- Arjun Chakravarthy (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.8GB + Rips]
-- Ashakal Aayiram (2026) Malayalam HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.9GB + Rips]
-- Ashakal Aayiram (2026) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB & 1.4GB + Rips]
-- Athi Bheekara Kaamukan (2025) Malayalam HD + ESub - [ 1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 3GB + Rips]
-- Athibheekara Kaamukan (2025) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.3GB + Rips]
-- Avatar The Way of Water (2022) (BluRay + Org Auds) - [4K, 1080p - x264 - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 14.5GB + Rips]
-- Avihitham (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7.8GB + Rips]
-- Baahubali (2015) Malayalam BluRay + ESub - [1080p & 720p - AVC / HEVC - (DTS5.1 - 1509Kbps) - 22GB + Rips]
-- Baahubali 2 : The Conclusion (2017) Malayalam BluRay + ESub - [1080p & 720p - AVC / HEVC - (DTS5.1 - 1509Kbps) - 22GB + Rips]
-- Baby Girl (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 6.5GB + Rips]
-- Baby Girl (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 5GB & 2.5GB + Rips]
-- Bad Girl (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 14GB + Rips]
-- Balls Up (2026) (HD + Original Audios) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]
-- Bandwaale (2026) S01 EP (01-08) WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - (DD+5.1 - 640Kbps) - 17GB + Rips]
-- Bank of Bhagyalakshmi (2025) HD + ESub - [1080p & 720p - AVC - (Hindi + Malayalam) - 4GB + Rips]
-- Beast Games (2025) S02 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips]
-- Beast Games (2025) S02 EP (01-09) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips]
-- Besty (2025) Malayalam UHD - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips]
-- Bha Bha Ba (2025) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.9GB & 1.4GB + Rips] - [WATCH]
-- Bha. Bha. Ba. (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 8.5GB + Rips]
-- Bharathanyam 2 Mohiniyattam (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips ] - [W]
-- Bharathanyam 2 Mohiniyattam (2026) Malayalam HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio
-- Bhartha Mahasayulaku Wignyapthi (2026) HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 8GB + Rips]
-- Bhishmar (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips] - [W]
-- Bison (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 24.3GB + Rips]
-- Brat (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Hindi] - 2.2GB + Rips]
-- Brinda (2024) S01 EP (01-08) WEB-DL - [4K, 1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannnada] - (DD+ 5.1 - 256Kbps) 26GB + Rips]
-- Bun Butter Jam (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7.4GB + Rips]
-- Champion (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 17GB + Rips]
-- Chatha Pacha: The Ring of Rowdies (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips]
-- Chatha Pacha: The Ring of Rowdies (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips]
-- Chatha Pacha: The Ring of Rowdies (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8.5GB + Rips] - [W]
-- Chattuli (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips]
-- Checkmate (2025) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.7GB + Rips]
-- Cherukkanum Pennum (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.2GB + Rips] - [WATCH]
-- Chiraiya (2026) S01 EP(01-06) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 5GB + Rips]
-- Christina (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips]
-- Communist Pacha Adhava Appa (2025) Malayalam HD + ESub - [ 1080p & 720p - AVC - (AAC 2.0) - 2GB + Rips]
-- Confidence Queen (2025) S01 EP (01-12) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips]
-- Coolie (2025) Malayalam Proper UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20.8GB + Rips] -
-- Countdown (2025) S01 EP (01-12) WEB-DL - [1080p & 720p - x264 - [TAM + TEL + HIN + MAL + KAN + ENG] - 2GB + Rips]
-- Couple Friendly (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.9GB + Rips]
-- Crime 101 (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 5GB + Rips] - [W]
-- Cross (2024) S01 EP(01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 6.8GB + Rips]
-- Cross (2026) S02 EP(01-03) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips]
-- Cross (2026) S02 EP(01-04) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips]
-- Cross (2026) S02 EP(01-06) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips]
-- Cross (2026) S02 EP(01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips]
-- Daaro (2025) S01 EP(01-08) WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL] - 3.9GB + Rips]
-- Date with Saie (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 2.2GB + Rips]
-- Dhandoraa (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 4.2GB + Rips]
-- Dheeram (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.2GB + Rips]
-- Dheeran (2025) Malayalam HD + ESub - [1star080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips] -
-- Dial 100 (2025) Malayalam HD - [ 1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2GB + Rips]
-- Dies Irae (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 768Kbps) - 9GB + Rips] - [WATCH]
-- Dies lrae (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2GB + Rips]
-- Diesel (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 3.6GB + Rips]
-- Dominic and the Ladies Purse (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.5GB + Rips] - [WATCH]
-- Drive (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 6.6GB + Rips] - [WATCH]
-- Dubai (2025) HD + ESub - [1080p & 720p - AVC / HEVC - [Tamil + Malayalam] - (AAC 2.0) - 3GB + Rips]
-- Dude (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 15GB + Rips]
-- Eesha [Isha] (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Hindi] - 5GB + Rips]
-- Eko (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips] - [WATCH]
-- Eko (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 15GB + Rips] - [WATCH]
-- Eliza (2025) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 2GB + Rips]
-- Ellam Sheriyakum (2026) Tamil HD - [1080p & 720p - AVC - [Tamil + Malayalam] - 2.2GB + Rips]
-- Ennitte Enthayi (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.2GB + Rips]
-- Ezhuthola (2024) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips]
-- Fallout (2025) S02 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips]
-- Far (2023) Malayalam UHD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2GB + Rips]
-- Feminichi Fathima (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.4GB + Rips]
-- Flask (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.4GB + Rips]
-- Footage (2024) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6GB + Rips]
-- Freedom At Midnight (2026) S02 EP (01-07) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 10GB + Rips]
-- Funky (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 7.2GB + Rips]
-- Gandhi Talks (2026) HD + ESub - [1080p & 720p - AVC - [Telugu + Malayalam] - 2GB + Rips]
-- Gatha Vaibhava (2025) Malayalam HD - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.5GB + Rips]
-- Gen V (2025) S02 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 1GB + Rips]
-- Ghaati (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 19.1GB + Rips]
-- God Bless You (2026) HD - [1080p & 720p - AVC - [Tamil + Malayalam] - 2.2GB + Rips]
-- Grahanam 2.0 (2026) Malayalam HD + ESub - [1080p & 720p - AVC- (DD+2.0 - 224Kbps) - 1.6GB + Rips]
-- Guardian Angel (2024) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 10GB + Rips]
-- Gurram Paapi Reddy (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 7.3GB + Rips]
-- Haal (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB & 1.4GB + Rips] - [WATCH]
-- Haal (2026) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9GB + Rips]
-- Hari Hara Veera Mallu (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 18GB + Rips] -
-- Harlan Coben's Lazarus (2025) S01 EP (01-06) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 4.8GB + Rips]
-- Hathane Udaya (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9.8GB + Rips]
-- Her (2026) HD + ESub - [1080p & 720p - AVC - [Tamil + Malayalam] - 1.7GB + Rips]
-- Hey Balwanth (2026) HD + ESub - [1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 2.8GB + Rips]
-- Honey (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 5.7GB + Rips]
-- Honeymoon Se Hatya (2026) S01 EP (01-05) - [1080p - 720p - AVC - (Tamil + Telugu + Hindi + Malayalam + Kannada) - (AAC 2.0) - 3.3GB]
-- Hridayapoorvam (2025) Malayalam HQ HDTS (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips]
-- Hridayapoorvam (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.5GB + Rips] -
-- I Am God (2025) HD + ESub - [1080p & 720p - AVC - [Hindi + Malayalam] - (DD+ 5.1 - 640Kbps) - 7.4GB + Rips]
-- ID:The Fake (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 2.3GB + Rips]
-- Ice Road: Vengeance (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 5GB + Rips]
-- Idli Kadai (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20GB + Rips]
-- Imbam (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.7GB + Rips]
-- Inland (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 1.8GB + Rips]
-- Innocent (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.3GB + Rips]
-- Innocent (2025) Malayalam v2 HD + ESub - [ 1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 4.2GB + Rips] - [WATCH]
-- Inspection Bungalow (2025) S01 EP (01-07) Malayalam TRUE WEB-DL - [1080p & 720p - x264 - (DD+5.1 - 192Kbps) - 2GB + Rips]
-- Iravan (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips]
-- Iru Dhuruvam 2 (2023) S02 - EP(01-10) WEB-DL - [1080p & 720p - AVC - (AAC) [Tamil + Telugu + Hindi + Malayalam + Kannada] - 5.6GB]
-- Iru Mugan (2017) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 10GB + Rips]
-- Irunda Nilalin Ragasiyam [Dark Shades Of A Secret] (2026) HD - [1080p & 720p - AVC - [Tamil + Malayalam] - 1.5GB + Rips]
-- Ithiri Neram (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.5GB + Rips] - [WATCH]
-- J.S.K : Janaki V v/s State of Kerala (2025) Malayalam UHD + ESub - [4K,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips]
-- Jagala (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.5GB + Rips]
-- Jazz City (2026) S01 EP(01-10) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL] - 11GB + Rips]
-- Jeevan (2025) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips]
-- Jerry (2024) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.5GB + Rips ]
-- Jharokh (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 1.4GB + Rips]
-- Jockey (2026) HD + ESub - [1080p & 720p - AVC - [TEL + HIN + MAL] - 4.3GB + Rips]
-- Juliet 2 (2023) Malayalam HD + HC-ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.1GB + Rips]
-- Junior (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 6GB + Rips]
-- Kaantha (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 16GB + Rips] - [WATCH]
-- Kadhikan (2025) Malayalam UHD + ESub - [4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.4GB + Rips]
-- Kalamkaval (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [WATCH]
-- Kalamkaval (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 7.4GB + Rips] - [WATCH]
-- Kammattam (2025) S01 EP (01-06) Malayalam TRUE WEB-DL - [1080p & 720p - x264 - (DD+5.1 - 192Kbps) - 1.7GB + Rips]
-- Kanimangalam Kovilakam (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.4GB + Rips]
-- Kannappa (2025) Proper HD + ESub - [1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 7.4GB + Rips]
-- Kantara A Legend: Chapter 1 (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20.7GB + Rips]
-- Karam (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9GB + Rips]
-- Karthavu Kriya Karmam (2024) Malayalam HD + ESub - [1080p & 720p - AVC- (DD+5.1 - 384Kbps) - 2.4GB + Rips]
-- Kasargod Embassy (2026) S01 EP (01-07) Malayalam TRUE WEB-DL - [1080p - 720p - AVC - (DD+5.1 - 192Kbps) - 2,.9GB + Rips]
-- Kasba Singhai Kheri (2026) S01 EP (01-03) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL] - 2.4GB + Rips]
-- Khajuraho Dreams (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 3GB + Rips] - [W]
-- Khedda (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6GB + Rips]
-- Kingdom (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 6.2GB + Rips]
-- Kirkkan (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.6GB + Rips]
-- Kishkindhapuri (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.8GB + Rips]
-- Kolahalam (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips] -
-- Koodal (2025) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.7GB + Rips]
-- Kothalavadi (2025) HD + ESub - [1080p & 720p - AVC - [Hin + Mal] - (DD+2.0 - 224Kbps) - 2.9GB + Rips]
-- Kurinji (2024) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.4GB + Rips]
-- Kurukshetra (2025) S01 EP(01-09) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 6.2GB + Rips]
-- Kurukshetra (2025) S01 EP(01-18) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 6.2GB + Rips]
-- Kuttram Purindhavan (2025) S01 EP (01-07) TRUE WEB-DL - [1080p - 720p - x264 - [Tamil + Telugu + Hindi + Malayalam] - 4.4GB + Rips]
-- L (2024) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 1.8GB + Rips]
-- LBW - Love Beyond Wicket (2025) S01 EP (01-36) TRUE WEB-DL - [ 4K , 1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - (AAC 2.0) - 5GB]
-- LBW - Love Beyond Wicket (2025) S01 EP (01-64) TRUE WEB-DL - [4K, 1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - (AAC 2.0) - 5GB]
-- Lara (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 1.8GB + Rips]
-- Leech (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.9GB + Rips]
-- Lights, Camera, Achhan! (2025) TRUE HD - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.5GB + Rips]
-- Lily (2023) HD - [1080p & 720p - AVC - [TAM + TEL + HIN + KAN + MAL] - 3GB + Rips]
-- Little Hearts (2025) HD + ESub - [1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 7.5GB + Rips]
-- Lokah Chapter 1: Chandra (2025) Malayalam HQ HDTS (Org Audio) - [1080p & 720p - x264 - 8GB + Rips] -
-- Lokah Chapter 1: Chandra (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 768Kbps) - 16GB + Rips]
-- Love FM (2020) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips]
-- Love Me Love Me (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN) - 3.8GB + Rips]
-- Love You Muddu (2025) HD + ESub - [1080p & 720p - AVC - [Telugu + Hindi + Malayalam] - 4.4GB + Rips]
-- Lucky the Superstar (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Hindi + Kannada + Malayalam] - 12GB + Rips]
-- Ma Ka Sum (2026) S01 EP (01-8) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 4.8GB + Rips]
-- Maareesan (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.3GB + Rips] -
-- Made In Korea (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 8GB + Rips]
-- Madharasi (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 21.4GB + Rips] -
-- Madhura Kanakku (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips]
-- Madhuram Jeevamruthabindu (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.3GB + Rips]
-- Magic Mushrooms (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips]
-- Maharani (2025) S04 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 8.8GB + Rips] - EP8 Added!
-- Mahavatar Narimha (2025) Malayalam Proper HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7GB + Rips] -
-- Main Woh Aur Fuji (2026) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL] - 3GB + Rips]
-- Maine Pyar Kiya (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4GB + Rips] -
-- Maintenance Required (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]
-- Malice (2025) S01 EP (01-06) TRUE WEB-DL - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 5GB + Rips]
-- Mana Shankara Vara Prasad Garu (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 8.7GB + Rips]
-- Marco (2024) Malayalam BluRay + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 256Kbps) - 21GB]
-- Mark (2026) Malayalam HD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 11GB + Rips] - [WATCH]
-- Mass Jathara (2025) UHD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 15GB + Rips]
-- Masthishka Maranam (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 3.2GB + Rips] - [W]
-- Masthishka Maranam (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]
-- Maxton Hall (2025) S01 EP (01-06) TRUE WEB-DL - [1080p - 720p - x264 - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.9GB + Rips]
-- Meesha (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips] -
-- Memory Plus (2025) Malayalam UHD - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9GB + Rips] - [WATCH]
-- Mercy (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 6GB + Rips]
-- Merry Christmas (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips]
-- Mindiyum Paranjum (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB & 1.2GB + Rips] - [WATCH]
-- Mindiyum Paranjum (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 4GB + Rips]
-- Mirage (2025) Malayalam UHD + ESub - [4K ,1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 10GB + Rips]
-- Mirai (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 15GB + Rips]
-- Mithra Mandali (2025) HD - [1080p & 720p - AVC - [Malayalam + Kannada] - 3.6GB + Rips]
-- Moppala (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 4.9GB + Rips]
-- Mowgli (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 4.9GB + Rips]
-- Mrithyunjay (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 7GB + Rips]
-- Mrs. Deshpande (2025) S01 EP (01-06) WEB-DL - [1080p - 720p - AVC - (DD+5.1 - 192Kbps) - (Tamil + Telugu + Hindi + Malayalam + Kannada) - 10GB]
-- Mrudhu Bhave Dhruda Kruthye (2024) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 10GB + Rips]
-- Muthu Alias Kaattaan (2026) S01 EP(01-10) TRUE WEB-DL - [4K,1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 5GB + Rips]
-- Naalppathukalile Pranayam (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.5GB + Rips]
-- Nadu Center (2025) S01 EP (01-09) TRUE WEB-DL - [1080p - 720p - x264 - [TAM + TEL + HIN + MAL + KAN] - 2.2GB + Rips]
-- Nadu Center (2025) S01 EP (01-17) TRUE WEB-DL - [1080p - 720p - x264 - [TAM + TEL + HIN + MAL] - 2.1GB + Rips]
-- Nari Nari Naduma Murari (2026) UHD + ESub - [ 4K, 1080p & 720p - AVC - [HIN + MAL + KAN] - 14GB + Rips]
-- Nellikkampoyil Night Riders (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips]
-- Nellikkampoyil Night Riders (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+ 5.1 ATMOS - 448Kbps) - 4.4GB + Rips]
-- Nidhiyum Bhoothavum (2025) Malayalam UHD - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.1GB + Rips] - [WATCH]
-- Nithari: Truth, Lies & Murder (2025) S01 EP (01-03) WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.3GB + Rips]
-- Not All Movies Are the Same: Dual (2025) HD + ESub - [1080p & 720p - AVC - [Hindi + Kannada + Malayalam] -(AAC 2.0) - 3.2GB + Rips]
-- Ochu (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+ 5.1 - 384Kbps) - 2.3GB + Rips]
-- Odiyangam (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.3GB + Rips]
-- Odum Kuthira Chaadum Kuthira (2025) Malayalam HD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 22GB + Rips] -
-- OffRoad (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.6GB + Rips]
-- Oggy and the Cockroaches: The Movie (2013) (BluRay + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + FRE)]
-- Oh. What. Fun. (2025) (HD + Original Audios) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]
-- Once Upon A Time There Was A Kallan (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.4GB + Rips]
-- Ondu Sarala Prema Kathe (2025) HD + ESub - [ 4K , 1080p & 720p - AVC - [Telugu + Malayalam] - 2.4GB + Rips]
-- Oru Durooha Saahacharyathil (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]
-- Oru Durooha Saahacharyathil (2026) Malayalam HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio
-- Oru Ronaldo Chithram (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.7GB + Rips] -
-- Oru Srilankan Sundari in AUH (2023) Malayalam HD + HC-ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.1GB + Rips]
-- Oru Vadakkan Pranaya Parvam (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 3.2GB + Rips]
-- Oru Wayanadan Pranayakadha (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.2GB + Rips]
-- Ottayan (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.8GB + Rips]
-- Our Fault (2025) HD + ESub - [1080p & 720p - AVC / HEVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 5GB + Rips]
-- Paanch Minar (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.5GB + Rips]
-- Paathirathri (2025) Malayalam HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 4.7GB + Rips]
-- Paathirathri (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.3GB + Rips]
-- Pallichattambi (2026) Malayalam New HQ PreDVD (Org Audio) - [1080p & 720p - x264 - 4.5GB + Rips] - [W]
-- Pallichattambi (2026) Malayalam New HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - Original Audio
-- Paradha (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.3GB + Rips] -
-- Parasakthi (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 8.8GB + Rips]
-- Patang (2025) HD + ESub - [1080p & 720p - AVC / HEVC - [Hindi + Malayalam + Kannada] - 8.9GB + Rips]
-- Pennu Case (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5GB + Rips]
-- Pennu Case (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 5GB & 2.8GB + Rips] - [WATCH]
-- Pennum Porattum (2025) Malayalam HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.9GB + Rips]
-- Pennum Porattum (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.2GB + Rips]
-- Perumani (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips]
-- Pharma (2025) S01 EP (01-08) WEB-DL - [1080p - 720p - AVC - (DD+5.1 - 192Kbps) - (Tamil + Telugu + Hindi + Malayalam + Kannada)] - EP05 Added
-- Play Dirty (2025) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 5.2GB + Rips] -
-- Playdate (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 3.8GB + Rips]
-- Police Day (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 1.7GB + Rips]
-- Police Police (2025) S01 EP(01-100) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips]
-- Police Police (2025) S01 EP(01-48) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips]
-- Police Police (2025) S01 EP(01-92) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips]
-- Police Police (2025) S01 EP(01-96) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips]
-- Pongala (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [WATCH]
-- Ponnapurathu Yakshi (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips]
-- Pookie (2026) HD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Kannada] - 6.1GB + Rips]
-- Poovu (2024) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.1GB + Rips]
-- Poyyamozhi (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips] -
-- Prakambanam (2026) Malayalam HQ PreDVD - [1080p & 720p - x264 - 2.4GB + Rips]
-- Prakambanam (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips]
-- Prathichaya (2026) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips] - [W]
-- Premante (2025) UHD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 15GB + Rips]
-- Pretty Lethal (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 3.3GB + Rips] - [W]
-- Private (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3GB + Rips]
-- Pullu (2020) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3GB + Rips]
-- Pupa (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.7GB + Rips]
-- Purple Poppins (2023) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6.4GB + Rips]
-- Rambo In Love (2025) S01 EP (01-64) TRUE WEB-DL - [1080p - 720p - x264 - [Tamil + Telugu + Hindi + Malayalam] - 2GB + Rips]
-- Randaam Yaamam (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB+ Rips]
-- Randaam Yaamam (2026) HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Tamil + Malayalam] - 9.8GB + Rips]
-- Randam Mukham (2026) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6GB + Rips]
-- Rasa (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+ 5.1 - 384Kbps) - 2.4GB + Rips]
-- Raveendra Nee Evide? (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 1.4GB + Rips]
-- Real Kashmir Football Club (2025) S01 EP (01-02) WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL] - (DD+5.1 - 256Kbps) - 10GB + Rips]
-- Resort (2026) S01 EP (01-24) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - (AAC 2.0) - 2.9GB + Rips]
-- Revolver Rita (2025) UHD + ESub - [ 4K ,1080p & 720p - AVC - [Malayalam + Kannada] - 19GB + Rips]
-- Rippan Swamy (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 -224Kbps) - 5GB + Rips] - [WATCH]
-- S.Saraswathi (2026) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 3.5GB + Rips]
-- S.Saraswathi (2026) TRUE WEB-DL - 1080p & 720p - AVC - [Malayalam + Kannada] - (DD+5.1 - 640Kbps) - 2.8GB - 1.4GB] - [x264 - 700MB - 400MB] - ESub
-- Sahasam (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+ 192Kbps & AAC) - 7GB + Rips] -
-- Sambavam Adhyayam Onnu (2026) Malayalam UHD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 13GB + Rips] - [W]
-- Sambhavam Adhyayam Onnu (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.2GB + Rips]
-- Sampradayani Suppini Sudhapoosani (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 8.5GB + Rips]
-- Sangamarmar (2026) S01 EP (01-09) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 6.2GB + Rips]
-- Sangamarmar (2026) S01 EP (01-33) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 6GB + Rips]
-- Sangamarmar (2026) S01 EP (01-37) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 6GB + Rips]
-- Sangarsha Ghadana (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 5.3GB + Rips]
-- Sarkeet (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.9GB + Rips] -
-- Sarvam Maya (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB & 1.4GB + Rips] - [WATCH]
-- Sarvam Maya (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8GB + Rips]
-- Scarpetta (2026) S01 EP(01-08) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 5GB + Rips]
-- Sea of Love (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6.6GB + Rips]
-- Search - The Naina Murder Case (2025) S01 EP (01-06) WEB-DL - [1080p - AVC - [Tam + Tel + Hin + Mal + Kan] - (DD+5.1 - 192Kbps) - 6.4GB + Rips]
-- Secret (2025) HD + ESub - [1080p & 720p - AVC - [Tamil + Malayalam] - 2GB + Rips]
-- Secret Stories: Roslin (2026) S01 EP (01-06) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 5.5GB + Rips]
-- Seetha Payanam (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Kannada] - 9.9GB + Rips]
-- Shades of Life (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.7GB + Rips]
-- Shahkot (2024) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL] - 2.7GB + Rips]
-- Shakthi Thirumagan (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 14GB + Rips]
-- Shanthamee Raathriyil (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.7GB]
-- She Rides Shotgun (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 5.2GB + Rips]
-- Sheshippu (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 2.8GB + Rips]
-- Shinchan: Our Dinosaur Diary (2025) (BluRay + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + JAP) - 2.5GB + Rips]
-- Shinchan: The Spicy Kasukabe Dancers in India (2025) HDTVRip - [1080p & 720p - [TAM + TEL + HIN + MAL + KAN] - x264 - 2GB + Rips]
-- Sirai (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.5GB + Rips]
-- Solomon Kane (2009) (BluRay + Original Auds) - [1080p & 720p - x264 - (Tam + Tel + Hin + Mal + Kan + Eng) - 2.1GB + Rips]
-- Soothravakyam (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 3.6GB + Rips] -
-- Space Gen - Chandrayaan (2026) S01 EP (01-05) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 4.5GB + Rips]
-- Spring Fever (2026) S01 EP(01-12) WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips]
-- Sree Ayyappan (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.8GB + Rips]
-- Stephen (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [MAL + HIN + KAN] - 7.4GB + Rips]
-- Su From So (2025) Malayalam HD + ESub - [ 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 3.6GB + Rips] -
-- Sukran (2026) Malayalam HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.4GB + Rips]
-- Sumathi Valavu (2025) Malayalam HD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] -
-- Sun darakanda (2025) HD + ESub - [1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 4.3GB + Rips] -
-- Surely Tomorrow (2025) S01 EP02 TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips]
-- Surely Tomorrow (2025) S01 EP03 TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips]
-- Surely Tomorrow (2025) S01 EP05 TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips]
-- Surely Tomorrow (2025) S01 EP10 WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips]
-- Surely Tomorrow (2025) S01 EP12 WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips] - EP12 Added!
-- Tamil Rockerz (2022) S01 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 6.5GB + Rips]
-- Tell Me Softly (2025) (HD + Original Audios) - [1080p & 720p - x264 - (TAM + TEL + HIN + KAN + MAL + ENG) - 5.3GB + Rips]
-- Telusu Kada (2025) UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - [Malayalam + Hindi + Kannada] - 13GB + Rips]
-- Thaai Kizhavi (2026) UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - [TEL + HIN + MAL + KAN] - 13GB + Rips]
-- Thadayam (2026) S01 EP (01-06) TRUE WEB-DL - [4K, 1080p - 720p - AVC - [Tamil + Telugu + Malayalam + Kannada] - 2.4GB + Rips]
-- Thala (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips]
-- Thala (2026) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB - 1.1GB] - [x264 - 600MB - 350MB] - ESub
-- Thalaivar Thambi Thalaimaiyil (2026) HD + ESub - [1080p & 720p - AVC - [TEL + MAL + KAN] - 8.7GB + Rips]
-- Thalavara (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.3GB + Rips]
-- Thampachi (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.2GB + Rips]
-- Thanal (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 2.3GB + Rips]
-- Thayyal Machine (2024) Malayalam UHD - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6.5GB + Rips]
-- The 100 (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 2.4GB]
-- The Amazing Spider-Man (2012) (BluRay + Original Auds) - [4K, 1080p & 720p - AVC / HEVC - (Tamil + Telugu + Hindi + Malayalam + Eng) - 8.5GB]
-- The Anacondas (2025) (HD + Original Audios) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 1.8GB + Rips]
-- The Beast in the River (2023) (HD + Org Auds) - [1080p - 720p - x264 - [TAM + TEL + HIN + MAL + KAN + CHI] - 1.3GB + Rips]
-- The Bluff (2026) HD + ESub - [1080p & 720p - AVC / HEVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 5GB + Rips] - [W]
-- The Boys (2026) S05 EP (01-02) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 1GB + Rips]
-- The Boys (2026) S05 EP (01-03) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 1GB + Rips]
-- The Case Diary (2025) Malayalam UHD - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9.8GB + Rips]
-- The Chosen (2017) S03 EP (01-08) TRUE WEB-DL - [1080p - 720p - x264 - [TAM + TEL + HIN + MAL + KAN + ENG] - 6.1GB + Rips]
-- The Chronicles Of The 4.5 Gang (2025) S01 EP(01-06) WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 5.4GB + Rips]
-- The Game: You Never Play Alone (2025) S02 EP(01-07) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIn + MAL + KAN] - 5GB + Rips]
-- The Girlfriend (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 20GB + Rips]
-- The Map That Leads to You (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]
-- The Pet Detective (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips]
-- The Pet Detective (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2GB + Rips]
-- The Protector (2025) Malayalam HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+ 5.1 - 384Kbps) - 8.3GB + Rips]
-- The Raja Saab (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Kannada] - 14GB + Rips]
-- The Summer I Turned Pretty (2025) S03 EP(01-08) WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2GB]
-- The Summer I Turned Pretty (2025) S03 EP(01-11) WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2GB]
-- The Terminal List: Dark Wolf (2025) S01 EP(01-07) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 3GB + Rips] - [W]
-- The Trial (2025) S02 EP(01-06) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 7.9GB + Rips]
-- The Wrecking Crew (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]
-- Theatre: The Myth of Reality (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.3GB + Rips]
-- Thelivu Sahitham (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.5GB + Rips]
-- Themmadi Kunnile Thanthonnikal (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips]
-- Thetta (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips] -
-- They Call Him OG (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 16.6GB + Rips]
-- Thug CR 143/24 (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.7GB + Rips]
-- Trap House (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]
-- Two Men (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.3GB+ Rips]
-- Uduppu (2023) Malayalam UHD + ESub - [4K,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips]
-- Ustaad Bhagat Singh (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 20GB + Rips]
-- Uttavar (2025) Malayalam UHD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2GB + Rips]
-- Vaa Vaathiyaar (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Hindi + Malayalam + Kannada] - 17GB + Rips]
-- Vaazha 2: Biopic of a Billion Bros (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips] - [W]
-- Vala: Story of a Bangle (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2.4GB + Rips]
-- Valathu Vasathe Kallan (2026) Malayalam HQ PreDVD - [1080p & 720p - x264 - 2.4GB + Rips]
-- Valathu Vashathe Kallan (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 3.3GB + Rips] - [W]
-- Valsala Club (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips]
-- Vasanthi (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.3GB + Rips]
-- Velleppam (2026) Malayalam HD + ESub - [ 4K, 1080p & 720p - AVC / HEVC- (DD+5.1 - 192Kbps) - 5GB + Rips]
-- Vikram (2022) Malayalam BluRay + ESub - [1080p & 720p - AVC / HEVC - (DTS5.1 - 1509Kbps + Rips]
-- Vikram On Duty (2026) S01 EP (01-28) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - (AAC 2.0) - 2.4GB]
-- Vishnu Vinyasam (2026) UHD + ESub - [1080p & 720p - AVC - [Hindi + Telugu + Malayalam] - 6GB + Rips]
-- Vishwaroopam (2013) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 9.5GB + Rips]
-- Vritta (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Hindi] - 2.2GB + Rips]
-- Vrusshabha (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB & 1.4GB + Rips] - [WATCH]
-- With Love (2026) HD + ESub - [1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 7GB + Rips]
-- Written & Directed by God (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips]
-- Young Sherlock (2026) S01 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 6.8GB + Rips]
-- Youth (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20GB + Rips] - [W]
-- Ziddi Ishq (2025) S01 EP (01-07) TRUE WEB-DL - [1080p - 720p - AVC - [Tam + Tel + Hin + Mal + Kan] - (DD+5.1 - 192Kbps) - 7.5GB + Rips]
+- 12A Railway Colony (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 15GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194842-12a-railway-colony-2025-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-malayalam-kannada-63gb-27gb-14gb-x264-75mb-450mb-esub/)
+- 2 BHK (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196892-2-bhk-2023-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- 4 Girls (2023) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192364-4-girls-2023-true-web-dl-1080p-720p-avc-dd51-224kbps-tamil-telugu-hindi-malayalam-kannada-3gb-16gb-x264-800mb-500mb-esub/)
+- 45 (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196214-45-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Aadu 3 (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197267-aadu-3-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/) - [W](https://luluvid.com/e/4q4rjbmsly5r)
+- Aanandam (2016) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DTS5.1 - 754Kbps) - 8.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194532-aanandam-2016-malayalam-true-web-dl-1080p-720p-avc-hevc-dts51-754kbps-84gb-26gb-23gb-14gb-900mb-x264-700mb-400mb-esub/)
+- Aap Kaise Ho? (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197670-aap-kaise-ho-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Aaromaley (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [MAL + HIN + KAN] - 10GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194874-aaromaley-2025-true-web-dl-4k-1080p-720p-avc-hevc-malayalam-hindi-kannada-dd51-192kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Aaryan (2025) UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - [Malayalam + Hindi + Kannada] - 15GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194434-aaryan-2025-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Aashaan (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB & 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196404-aashaan-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Akhanda 2 (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 18GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195653-akhanda-2-2025-true-web-dl-4k-1080p-720p-avc-hevc-malayalam-kannada-dd51-640kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Amoz Alexander (2026) Malayalam HD +ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196702-amoz-alexander-2026-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- Andhakaara (2024) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194876-andhakaara-2024-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Anjaam Vedham (2024) Malayalam HD - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193428-anjaam-vedham-2024-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-99gb-35gb-14gb-x264-700mb-400mb/)
+- Anomie: The Equation of Death (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB & 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196471-anomie-the-equation-of-death-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Antharam (2023) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 5.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194124-antharam-2023-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-54gb-19gb-700mb-x264-250mb-hc-esub/)
+- Apoorva Puthranmaar (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 3.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192482-apoorva-puthranmaar-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-32gb-14gb-900mb-x264-700mb-400mb-esub/) -
+- Appuram (2024) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195486-appuram-2024-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-14gb-x264-700mb-250mb%C2%A0/)
+- Arjun Chakravarthy (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194251-arjun-chakravarthy-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-27gb-14gb-x264-700mb-400mb-esub/)
+- Ashakal Aayiram (2026) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB & 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196470-ashakal-aayiram-2026-malayalam-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Athi Bheekara Kaamukan (2025) Malayalam HD + ESub - [ 1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195295-0)
+- Athibheekara Kaamukan (2025) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194249-athibheekara-kaamukan-2025-malayalam-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Avihitham (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194090-avihitham-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Baahubali (2015) Malayalam BluRay + ESub - [1080p & 720p - AVC / HEVC - (DTS5.1 - 1509Kbps) - 22GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193363-baahubali-2015-malayalam-bluray-1080p-720p-avc-hevc-dts51-1509kbps-dd51-640kbps-aac-20-22gb-rips-esub/)
+- Bad Girl (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 14GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193614-bad-girl-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-14gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Bank of Bhagyalakshmi (2025) HD + ESub - [1080p & 720p - AVC - (Hindi + Malayalam) - 4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195847-bank-of-bhagyalakshmi-2025%C2%A0true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-28gb-14gb-x264-400mb-esub/)
+- Besty (2025) Malayalam UHD - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194953-besty-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Bha Bha Ba (2025) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.9GB & 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195079-bha-bha-ba-2025-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/) - [WATCH](https://strmup.cc/qKZAIBsIVCBQ)
+- Bha. Bha. Ba. (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 8.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195841-bha-bha-ba-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-25gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Bhishmar (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197283-bhishmar-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/) - [W](https://luluvid.com/e/8xw6dynbenev)
+- Brat (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Hindi] - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195137-brat-2025-true-web-dl-1080p-720p-avc-aac-20-malayalam-hindi-22gb-14gb-x264-700mb-400mb/)
+- Bun Butter Jam (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191979-0)
+- Champion (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 17GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196186-champion-2025-true-web-dl-4k-1080p-720p-avc-hevc-malayalam-kannada-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Chatha Pacha: The Ring of Rowdies (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196025-chatha-pacha-the-ring-of-rowdies-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Chattuli (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193138-chattuli-2025-malayalam-true-web-dl-1080p-720p-avc-aac-20-26gb-14gb-850mb-x264-700mb-400mb-250mb/)
+- Checkmate (2025) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192616-checkmate-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Cherukkanum Pennum (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195237-cherukkanum-pennum-2025-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-2gb-1gb-x264-700mb-400mb/) - [WATCH](https://strmup.cc/e0039f3094312)
+- Christina (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197249-christina-2026-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-esub/)
+- Communist Pacha Adhava Appa (2025) Malayalam HD + ESub - [ 1080p & 720p - AVC - (AAC 2.0) - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194653-0)
+- Coolie (2025) Malayalam Proper UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192112-coolie-2025-malayalam-proper-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-168gb-28gb-14gb-900mb-x264-700mb-400mb-250mb-esub/) -
+- Couple Friendly (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197218-couple-friendly-2026-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- Date with Saie (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195101-date-with-saie-2025-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-malayalam-kannada-22gb-14gb-850mb-x264-700mb-400mb/)
+- Dhandoraa (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 4.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195798-dhandoraa%C2%A02025-true-web-dl-1080p-720p-avc-hindi-malayalam-kannada-dd51-640kbps-42gb-16gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Dheeram (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196986-dheeram-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Dheeran (2025) Malayalam HD + ESub - [1star080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191651-0) -
+- Dial 100 (2025) Malayalam HD - [ 1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195310-dial-100-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-2gb-1b-x264-600mb-300mb/)
+- Dies lrae (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193551-dies-irae-2025-malayalam-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Diesel (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 3.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195755-diesel-2025%C2%A0true-web-dl-1080p-720p-avc-malayalam-kannada%C2%A0-dd51-640kbps-36gb-15gb-x264-700mb-400mb/)
+- Dominic and the Ladies Purse (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195080-0) - [WATCH](https://strmup.cc/brDob8EDRjqw)
+- Dubai (2025) HD + ESub - [1080p & 720p - AVC / HEVC - [Tamil + Malayalam] - (AAC 2.0) - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196162-dubai-2025-true-web-dl-1080p-720p-avc-hevc-tamil-malayalam-3gb-14gb-800mb-x264-700mb-400mb-esub/)
+- Eesha [Isha] (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Hindi] - 5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197438-eesha-isha-2025-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-malayalam-kannada-4gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Eko (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194380-eko-2025-malayalam-hq-predvd-1080p-720p-x264-2gb-1gb-x264-700mb-400mb-250mb-hq-clean-audio/) - [WATCH](https://strmup.cc/86c2c6f67bef9)
+- Eliza (2025) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195086-0)
+- Ellam Sheriyakum (2026) Tamil HD - [1080p & 720p - AVC - [Tamil + Malayalam] - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196523-ellam-sheriyakum-2026-true-web-dl-1080p-720p-avc-hevc-tamil-malayalam-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/)
+- Ennitte Enthayi (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195583-ennitte-enthayi-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Ezhuthola (2024) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197194-ezhuthola-2024-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- Far (2023) Malayalam UHD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194954-far-2023-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb/)
+- Flask (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192009-0)
+- Footage (2024) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192015-0)
+- Funky (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 7.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197103-funky-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Gandhi Talks (2026) HD + ESub - [1080p & 720p - AVC - [Telugu + Malayalam] - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197015-gandhi-talks-2026-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-telugu-malayalam-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Gatha Vaibhava (2025) Malayalam HD - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196338-gatha-vaibhava-2025-malayalam-true-web-dl-1080p-720p-avc-dd20-224kbps-25gb-12gb-x264-700mb-400mb-esub/)
+- Ghaati (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 19.1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192477-ghaati-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-31gb-15gb-900mb-x264-700mb-400mb-250mb-esub/)
+- God Bless You (2026) HD - [1080p & 720p - AVC - [Tamil + Malayalam] - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196967-god-bless-you-2026%C2%A0true-web-dl-1080p-720p-avc-hevc-tamil-malayalam-26gb-14gb-800mb-x264-700mb-400mb-250mb/#comment-403494)
+- Grahanam 2.0 (2026) Malayalam HD + ESub - [1080p & 720p - AVC- (DD+2.0 - 224Kbps) - 1.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197336-grahanam-20-2026-malayalam-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Haal (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB & 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195359-haal-2025-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/) - [WATCH](https://strmup.cc/d306c1246f851)
+- Haal (2026) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197574-haal-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Hari Hara Veera Mallu (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 18GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191584-0) -
+- Her (2026) HD + ESub - [1080p & 720p - AVC - [Tamil + Malayalam] - 1.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197617-h)
+- Hey Balwanth (2026) HD + ESub - [1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197396-hey-balwanth-2026-true-web-dl-4k-1080p-720p-avc-hevc-malayalam-kannada-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- Honey (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 5.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196874-honey-2026-true-web-dl-1080p-720p-avc-hevc-hindi-malayalam-kannada-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Hridayapoorvam (2025) Malayalam HQ HDTS (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191956-0)
+- I Am God (2025) HD + ESub - [1080p & 720p - AVC - [Hindi + Malayalam] - (DD+ 5.1 - 640Kbps) - 7.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196564-i-am-god-2025-true-web-dl-1080p-720p-avc-hevc-hindi-malayalam-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- ID:The Fake (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192384-id-the-fake-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-aac-20-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Idli Kadai (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193451-idli-kadai-2025-malayalam-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-18gb-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Imbam (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193070-imbam-2023-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Inland (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 1.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194388-inland-2025-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-18gb-1gb-x264-700mb-400mb/)
+- Innocent (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193913-innocent-2025-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Iravan (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197030-iravan-2026-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-384kbps-27gb-1gb-x264-700mb-400mb-esub/)
+- Iru Mugan (2017) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 10GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195047-iru-mugan-2017-malayalam-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-10b-26gb-14gb-1gb-x264-700mb-400mb/)
+- J.S.K : Janaki V v/s State of Kerala (2025) Malayalam UHD + ESub - [4K,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191456-0)
+- Jagala (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195457-jagala-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Jeevan (2025) Malayalam HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194757-jeevan-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-26gb-14gb-x264-700mb-400mb-esub/)
+- Jerry (2024) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.5GB + Rips ](https://www.1tamilmv.frl/index.php?/forums/topic/195065-jerry-2024-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-75gb-28gb-12gb-850mb-x264-700mb-400mb-250mb-esub/) ]
+- Jharokh (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195889-jharokh-2023-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-224kbps-14gb-400mb-x264-200mb-esub/)
+- Jockey (2026) HD + ESub - [1080p & 720p - AVC - [TEL + HIN + MAL] - 4.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196983-jockey-2026-true-web-dl-1080p-720p-avc-telugu-hindi-malayalam-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Juliet 2 (2023) Malayalam HD + HC-ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195696-juliet-2-2023-malayalam-true-web-dl-1080p-720p-avc-aac-20-21gb-1gb-x264-700mb-400mb/)
+- Junior (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193396-junior-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Kaantha (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 16GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194878-0) - [WATCH](https://strmup.cc/1337ff4e4b9f6)
+- Kadhikan (2025) Malayalam UHD + ESub - [4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192014-0)
+- Kalamkaval (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194676-kalamkaval-2025-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/) - [WATCH](https://strmup.cc/30735c1c2e90d)
+- Kannappa (2025) Proper HD + ESub - [1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 7.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192006-0)
+- Karam (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193732-karam-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Karthavu Kriya Karmam (2024) Malayalam HD + ESub - [1080p & 720p - AVC- (DD+5.1 - 384Kbps) - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197344-karthavu-kriya-karmam-2024-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Khedda (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195659-khedda-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Kingdom (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 6.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191792-0)
+- Kirkkan (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195817-kirkkan%C2%A02026-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-26gb-12gb-x264-650mb-350mb-esub/)
+- Kishkindhapuri (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193299-kishkindhapuri-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-22gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Kolahalam (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192118-kolahalam-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Koodal (2025) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191893-0)
+- Kothalavadi (2025) HD + ESub - [1080p & 720p - AVC - [Hin + Mal] - (DD+2.0 - 224Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193487-kothalavadi-2025-true-web-dl-1080p-720p-avc-dd-20-224kbps-aac-20-hindi-malayalam-29gb-17b-x264-750mb-450mb-esub/)
+- Kurinji (2024) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196772-kurinji-2024-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-6gb-28gb-14gb-x264-700mb-400mb-esub/)
+- L (2024) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 1.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194464-l-2024-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-18gb-11gb-x264-700mb-400mb-esub/#comment-398479)
+- Lara (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 1.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194354-lara-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-18gb-12gb-x264-700mb-400mb-esub/)
+- Leech (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195661-leech-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-19gb-1gb-x264-700mb-400mb-esub/)
+- Lily (2023) HD - [1080p & 720p - AVC - [TAM + TEL + HIN + KAN + MAL] - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196497-lily-2023%C2%A0true-web-dl-1080p-720p-avc-hevc-aac-20-3gb-16gb-x264-800mb-500mb/)
+- Little Hearts (2025) HD + ESub - [1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 7.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195110-little-hearts-2025-true-web-dl-1080p-720p-avc-dd51-640kbps-hindi-malayalam-kannada-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Lokah Chapter 1: Chandra (2025) Malayalam HQ HDTS (Org Audio) - [1080p & 720p - x264 - 8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191950-0) -
+- Love FM (2020) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194463-love-fm-2020-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-dd51-384kbps-26gb-14gb-850mb-x264-700mb-400mb-esub/#comment-398478)
+- Love You Muddu (2025) HD + ESub - [1080p & 720p - AVC - [Telugu + Hindi + Malayalam] - 4.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195258-love-you-muddu-2025-true-web-dl-1080p-720p-avc-telugu%C2%A0-hindi-malayalam-dd51-640kbps-8gb-26gb-16gb-x264-850mb-500mb-esub/)
+- Maareesan (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191637-0) -
+- Made In Korea (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197091-made-in-korea-2026-true-web-dl-1080p-720p-avc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Madharasi (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 21.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192566-madharasi-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-191gb-33gb-15gb-950mb-x264-700mb-400mb-250mb-esub/) -
+- Madhura Kanakku (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197485-madhura-kanakku-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-esub/#comment-404677)
+- Madhuram Jeevamruthabindu (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193606-madhuram-jeevamruthabindu-2025-malayalam-true-web-dl-1080p-720p-avc-aac-20-23gb-13gb-x264-700mb-400mb-esub/)
+- Main Woh Aur Fuji (2026) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL] - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197639-main-woh-aur-fuji-2026-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-dd51-256kbps-28gb-14gb-800mb-500mb-esub/)
+- Maine Pyar Kiya (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192571-maine-pyar-kiya-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Marco (2024) Malayalam BluRay + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 256Kbps) - 21GB](https://www.1tamilmv.frl/index.php?/forums/topic/196174-marco-2024-malayalam-bluray-4k-1080p-720p-avc-hevc-dts-hdma51-2035kbps-21gb-15gb-26gb-18gb-14gb-1gb-x264-700mb-400mb-esub/)
+- Mass Jathara (2025) UHD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 15GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194450-mass-jathara-2025-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-malayalam-kannada-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Meesha (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192145-meesha-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-3gb-16gb-x264-700mb-400mb-esub/) -
+- Mirage (2025) Malayalam UHD + ESub - [4K ,1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 10GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193163-mirage-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-448kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Mirai (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 15GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192858-mirai-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Mithra Mandali (2025) HD - [1080p & 720p - AVC - [Malayalam + Kannada] - 3.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194324-mithra-mandali-2025-true-web-dl-080p-720p-avc-dd51-640kbps-malayalam-kannada-36gb-16gb-x264-750mb-450mb/)
+- Moppala (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 4.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194033-moppala-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-49gb-2gb-1gb-750mb-x264-650mb-350mb-esub/)
+- Mowgli (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 4.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195698-mowgli-2025-true-web-dl-1080p-720p-avc-malayalam-kannada-dd20-224kbps-49gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Mrithyunjay (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197450-mrithyunjay-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Nellikkampoyil Night Riders (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193354-nellikkampoyil-night-riders-2025-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Ochu (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+ 5.1 - 384Kbps) - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196597-ochu-2023-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-384kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- Odiyangam (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196200-odiyangam-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- OffRoad (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192293-offroad-2025-malayalam-true-web-dl-1080p-720p-avc-dd20-224kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Ondu Sarala Prema Kathe (2025) HD + ESub - [ 4K , 1080p & 720p - AVC - [Telugu + Malayalam] - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194340-ondu-sarala-prema-kathe-2025-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-telugu-malayalam-24gb-12gb-x264-750mb-450mb/)
+- Oru Ronaldo Chithram (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192307-oru-ronaldo-chithram-2025-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Oru Srilankan Sundari in AUH (2023) Malayalam HD + HC-ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195695-oru-srilankan-sundari-in-auh-2023-malayalam-true-web-dl-1080p-720p-avc-aac-20-21gb-1gb-x264-700mb-400mb-hc-esub/)
+- Oru Vadakkan Pranaya Parvam (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 3.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192670-oru-vadakkan-pranaya-parvam-2025-malayalam-true-web-dl-1080p-720p-avc-aac-20-32gb-14gb-x264-700mb-400mb-250mb/)
+- Oru Wayanadan Pranayakadha (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197165-oru-wayanadan-pranayakadha-2026-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Ottayan (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196885-ottayan-2023-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-384kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- Paanch Minar (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194655-paanch-minar-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-640kbps-26gb-14gb-x264-700mb-400mb-esub/)
+- Paathirathri (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193129-paathirathri-2025-malayalam-hq-predvd-1080p-720p-x264-5gb-3gb-14gb-950mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Paradha (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192147-paradha-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Parasakthi (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 8.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196436-parasakthi-2026-true-web-dl-4k-1080p-720p-avc-hevc-malayalam-kannada-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Patang (2025) HD + ESub - [1080p & 720p - AVC / HEVC - [Hindi + Malayalam + Kannada] - 8.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196208-patang-2025-true-web-dl-1080p-720p-avc-hevc-hindi-malayalam-kannada-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Pennu Case (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197067-pennu-case-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Pennum Porattum (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196616-pennum-porattum-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Perumani (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191633-0)
+- Police Day (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 1.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192010-0)
+- Pongala (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194734-pongala-2025-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/) - [WATCH](https://strmup.cc/a197666c680ee)
+- Ponnapurathu Yakshi (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197195-ponnapurathu-yakshi-2026-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-x264-700mb-400mb-esub/)
+- Pookie (2026) HD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Kannada] - 6.1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197166-pookie-2026-true-web-dl-4k-1080p-720p-avc-malayalam-kannada-dd51-192kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-esub/#comment-403975)
+- Poovu (2024) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195518-poovu-2024%C2%A0malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb/)
+- Poyyamozhi (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192119-poyyamozhi-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Prakambanam (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197142-prakambanam-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-4gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Prathichaya (2026) Malayalam PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197359-prathichaya-2026-malayalam-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/) - [W](https://luluvid.com/e/actrymh1weoa)
+- Premante (2025) UHD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 15GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195090-premante-2025-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-malayalam-kannada-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb/)
+- Private (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194291-private-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-192kbps-26gb-14gb-x264-700mb-400mb-250mb-esub/)
+- Pullu (2020) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197007-pullu-2020-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-27gb-1gb-x264-700mb-400mb-esub/)
+- Pupa (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196754-pupa-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-28gb-14gb-x264-700mb-400mb-esub/)
+- Purple Poppins (2023) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195059-purple-poppins-2023-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-x264-700mb-400mb-250mb-esub/)
+- Randaam Yaamam (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB+ Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192306-randaam-yaamam-2025-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-26gb-14gb-850mb-x264-700mb-400mb/)
+- Randaam Yaamam (2026) HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [Tamil + Malayalam] - 9.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195908-randaam)
+- Randam Mukham (2026) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195839-randam-mukham-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Rasa (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+ 5.1 - 384Kbps) - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196565-rasa-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Raveendra Nee Evide? (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191990-0)
+- Revolver Rita (2025) UHD + ESub - [ 4K ,1080p & 720p - AVC - [Malayalam + Kannada] - 19GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195263-revolver-rita-2025-true-web-dl-1080p-720p-avc-dd51-640kbps-hindi-malayalam-kannada-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- S.Saraswathi (2026) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 3.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197662-youth-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Sahasam (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+ 192Kbps & AAC) - 7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192573-sahasam-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-7gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Sambhavam Adhyayam Onnu (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197183-sambhavam-adhyayam-onnu-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- Sarkeet (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192462-sarkeet-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-89gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Sarvam Maya (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB & 1.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195300-0) - [WATCH](https://strmup.cc/aba39b4bc7fbf)
+- Sea of Love (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193295-sea-of-love-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-66gb-26gb-14gb-x264-700mb-400mb-250mb/)
+- Secret (2025) HD + ESub - [1080p & 720p - AVC - [Tamil + Malayalam] - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196975-secret%C2%A02025-true-web-dl-1080p-720p-avc-tamil-malayalam-2gb-11gb-x264-700mb-400mb-esub/)
+- Seetha Payanam (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Kannada] - 9.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197217-seetha-payanam-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Shades of Life (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194314-shades-of-life-2025-malayalamtrue-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Shahkot (2024) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL] - 2.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196374-shahkot-2024%C2%A0true-web-dl-1080p-720p-avc-hevc-tamil-telugu-hindi-malayalam-aac-20-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Shanthamee Raathriyil (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 7.7GB](https://www.1tamilmv.frl/index.php?/forums/topic/191646-s)
+- Sheshippu (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196006-sheshippu-2026-malayalam-true-web-dl-1080p-720p-avc-hevc-aac-20-28gb-14gb-x264-700mb-400mb-esub/)
+- Sirai (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196008-sirai-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-25gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Soothravakyam (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 3.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191592-0) -
+- Sree Ayyappan (2026) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195891-sree-ayyappan-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-8gb-24gb-14gb-x264-700mb-400mb-250mb-esub/)
+- Stephen (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - [MAL + HIN + KAN] - 7.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194626-stephen-2025-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-malayalam-hindi-kannada-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Su From So (2025) Malayalam HD + ESub - [ 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 3.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192088-su-from-so-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-15gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Sukran (2026) Malayalam HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197114-sukran-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Sumathi Valavu (2025) Malayalam HD + ESub - [ 4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192475-sumathi-valavu-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-2gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Sun darakanda (2025) HD + ESub - [1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 4.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192410-sundarakanda-2025-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-hindi-malayalam-kannada-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Thala (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197725-thala-2026-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-384kbps-29gb-11gb-x264-600mb-350mb-esub/)
+- Thalavara (2025) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193455-thalavara-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-23gb-16gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Thampachi (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192671-thampachi-2025-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-22gb-1gb-x264-700mb-400mb/)
+- Thanal (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194324-mithra-mandali-2025-true-web-dl-080p-720p-avc-dd51-640kbps-malayalam-kannada-36gb-16gb-x264-750mb-450mb/)
+- Thayyal Machine (2024) Malayalam UHD - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 6.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193775-thayyal-machine-2024-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-24gb-900mb-x264-550mb-300mb/)
+- The 100 (2025) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 2.4GB](https://www.1tamilmv.frl/index.php?/forums/topic/191870-0)
+- The Case Diary (2025) Malayalam UHD - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 9.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194435-the-case-diary-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- The Girlfriend (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 20GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194612-0)
+- The Pet Detective (2025) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193120-the-pet-detective-2025-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- The Pet Detective (2025) Malayalam UHD + ESub - [ 4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194458-the-pet-detective-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-2gb-950mb-700mb-x264-700mb-400mb-250mb-esub/)
+- The Protector (2025) Malayalam HD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+ 5.1 - 384Kbps) - 8.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196551-the-protector-2025-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-328kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- The Raja Saab (2026) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Kannada] - 14GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196385-the-raja-saab-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Thelivu Sahitham (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192922-thelivu-sahitham-2025-malayalam-true-web-dl-1080p-720p-avc-dd20-224kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/)
+- Themmadi Kunnile Thanthonnikal (2025) Malayalam UHD + ESub - [ 4K , 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195138-them)
+- Thetta (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192120-thetta-2025-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/) -
+- Thug CR 143/24 (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192017-0)
+- Two Men (2025) Malayalam HD - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.3GB+ Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192305-two-men-2025-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-23gb-12gb-850mb-x264-700mb-400mb-250mb/)
+- Uduppu (2023) Malayalam UHD + ESub - [4K,1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194620-uduppu-2023-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-26gb-14gb-850mb-x264-700mb-400mb-250mb/)
+- Uttavar (2025) Malayalam UHD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195868-uttavar-2025-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Valsala Club (2025) Malayalam HD - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193185-valsala-club-2025-malayalam-true-web-dl-1080p-720p-avc-aac-20-2gb-900mb-x264-600mb-300mb/)
+- Vasanthi (2025) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191871-0)
+- Velleppam (2026) Malayalam HD + ESub - [ 4K, 1080p & 720p - AVC / HEVC- (DD+5.1 - 192Kbps) - 5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197455-velleppam-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Vikram (2022) Malayalam BluRay + ESub - [1080p & 720p - AVC / HEVC - (DTS5.1 - 1509Kbps + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/193200-vikram-2022-malayalam-bluray-1080p-720p-avc-hevc-dd51-192kbps-aac-20-19gb-rips-esub/)
+- Vishnu Vinyasam (2026) UHD + ESub - [1080p & 720p - AVC - [Hindi + Telugu + Malayalam] - 6GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197255-vishnu-vinyasam-2026-true-web-dl-4k-1080p-720p-avc-hindi-malayalam-kannada-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- Vishwaroopam (2013) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 9.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195404-vishwaroopam-2013-malayalam-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-95gb-26gb-14gb-1gb-x264-700mb-400mb-esub/)
+- Vritta (2025) UHD + ESub - [ 4K , 1080p & 720p - AVC - [Malayalam + Hindi] - 2.2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195231-vritta-2025-true-web-dl-1080p-720p-avc-hevc-malayalam-hindi-dd51-192kbps-22gb-14gb-x264-700mb-400mb-esub/)
+- With Love (2026) HD + ESub - [1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197003-with-love-2026-true-web-dl-4k-1080p-720p-avc-hevc-hindi-malayalam-kannada-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/)
+- [ 56 Days (2026) S01 EP(01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196643-56-days-2026-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-640kbps-5gb-35gb-1gb-esub/)
+- [ Baby Girl (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 5GB & 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196050-baby-girl-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- [ Beast Games (2025) S02 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195603-beast-games-2025-s02-ep-01-03-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-eng-aac-20-39gb-15gb-950mb-esub/)
+- [ Beast Games (2025) S02 EP (01-09) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195603-beast-games-2025-s02-ep-01-03-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-eng-aac-20-39gb-15gb-950mb-esub/)
+- [ Cashero (2025) S01 EP(01-08) - [1080p - 720p - AVC - [TAM+ TEL + HIN + ENG] - (DD+5.1 - 192Kbps) - 5.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195290-cashero-2025-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-eng-dd51-640kbps-5gb-35gb-1gb-esub/)
+- [ Chatha Pacha: The Ring of Rowdies (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196025-chatha-pacha-the-ring-of-rowdies-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- [ Chiraiya (2026) S01 EP(01-06) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197250-chiraiya-2026-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-640kbps-5gb-35gb-1gb-esub/)
+- [ Confidence Queen (2025) S01 EP (01-12) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192053-0)
+- [ Countdown (2025) S01 EP (01-12) WEB-DL - [1080p & 720p - x264 - [TAM + TEL + HIN + MAL + KAN + ENG] - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/189657-0)
+- [ Cross (2026) S02 EP(01-03) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196524-cross-2026-s02-ep-01-03-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ Cross (2026) S02 EP(01-04) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196524-cross-2026-s02-ep-01-03-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ Cross (2026) S02 EP(01-06) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196524-cross-2026-s02-ep-01-03-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ Cross (2026) S02 EP(01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2.8GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196524-cross-2026-s02-ep-01-03-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ Daaro (2025) S01 EP(01-08) WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL] - 3.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/189929-0)
+- [ Fallout (2025) S02 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195040-fallout%C2%A02025-s02-ep-01-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-1gb-500mb-300mb-esub/)
+- [ Gen V (2025) S02 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192279-gen-v-2025-s02-ep-01-03-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ Ice Road: Vengeance (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191970-0)
+- [ Jazz City (2026) S01 EP(01-10) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL] - 11GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197220-jazz-city-2026-s01-ep-01-10-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-aac-20-5gb-35gb-1gb-esub/)
+- [ Kammattam (2025) S01 EP (01-06) Malayalam TRUE WEB-DL - [1080p & 720p - x264 - (DD+5.1 - 192Kbps) - 1.7GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192011-0)
+- [ Kasargod Embassy (2026) S01 EP (01-07) Malayalam TRUE WEB-DL - [1080p - 720p - AVC - (DD+5.1 - 192Kbps) - 2,.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/197251-kasargod-embassy-2026-s01-ep-01-07-malayalam-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ Malice (2025) S01 EP (01-06) TRUE WEB-DL - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194092-malice-2025-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ Nadu Center (2025) S01 EP (01-17) TRUE WEB-DL - [1080p - 720p - x264 - [TAM + TEL + HIN + MAL] - 2.1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194253-nadu-center%C2%A02025-s01-ep-01-03-true-web-dl-1080p-720p-avc-aac-20-tamil-telugu-hindi-malayalam-kannada-24gb-11gb-350mb-esub/)
+- [ Oggy and the Cockroaches: The Movie (2013) (BluRay + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + FRE)](https://www.1tamilmv.frl/index.php?/forums/topic/193387-0)
+- [ Police Police (2025) S01 EP(01-100) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192303-police-police-2025-s01-ep-01-04-true-web-dl-1080p-720p-avc-aac-20-tamil-telugu-hindi-3gb-12gb-600mb-esub/)
+- [ Police Police (2025) S01 EP(01-48) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192303-police-police-2025-s01-ep-01-04-true-web-dl-1080p-720p-avc-aac-20-tamil-telugu-hindi-3gb-12gb-600mb-esub/)
+- [ Police Police (2025) S01 EP(01-92) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192303-police-police-2025-s01-ep-01-04-true-web-dl-1080p-720p-avc-aac-20-tamil-telugu-hindi-3gb-12gb-600mb-esub/)
+- [ Police Police (2025) S01 EP(01-96) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 2.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192303-police-police-2025-s01-ep-01-04-true-web-dl-1080p-720p-avc-aac-20-tamil-telugu-hindi-3gb-12gb-600mb-esub/)
+- [ Prakambanam (2026) Malayalam HQ PreDVD - [1080p & 720p - x264 - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196235-prakambanam-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- [ Solomon Kane (2009) (BluRay + Original Auds) - [1080p & 720p - x264 - (Tam + Tel + Hin + Mal + Kan + Eng) - 2.1GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195883-solo)
+- [ Space Gen - Chandrayaan (2026) S01 EP (01-05) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 4.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196007-spac)
+- [ Spring Fever (2026) S01 EP(01-12) WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/195573-spring-fever-2026%C2%A0s01-ep01-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-eng-aac-20-1gb-500mb-200mb-esub/)
+- [ Surely Tomorrow (2025) S01 EP02 TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194662-surely-tomorrow-2025-s01-ep01-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-aac-20-800mb-400mb-esub/)
+- [ Surely Tomorrow (2025) S01 EP03 TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194662-surely-tomorrow-2025-s01-ep01-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-aac-20-800mb-400mb-esub/)
+- [ Surely Tomorrow (2025) S01 EP05 TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194662-surely-tomorrow-2025-s01-ep01-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-aac-20-800mb-400mb-esub/)
+- [ Surely Tomorrow (2025) S01 EP10 WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + ENG] - 800MB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194662-surely-tomorrow-2025-s01-ep01-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-aac-20-800mb-400mb-esub/)
+- [ Tamil Rockerz (2022) S01 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 6.5GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/167747-tamil-rockerz-2025-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-5gb-35gb-1gb-esub/)
+- [ Thadayam (2026) S01 EP (01-06) TRUE WEB-DL - [4K, 1080p - 720p - AVC - [Tamil + Telugu + Malayalam + Kannada] - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196870-thadayam-2025-s01-ep-01-06-tamil-true-web-dl-1080p-720p-avc-dd51-192kbps-5gb-35gb-1gb-esub/)
+- [ The Chronicles Of The 4.5 Gang (2025) S01 EP(01-06) WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 5.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191824-0)
+- [ The Summer I Turned Pretty (2025) S03 EP(01-08) WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2GB](https://www.1tamilmv.frl/index.php?/forums/topic/190439-0)
+- [ The Summer I Turned Pretty (2025) S03 EP(01-11) WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 2GB](https://www.1tamilmv.frl/index.php?/forums/topic/190439-0)
+- [ The Terminal List: Dark Wolf (2025) S01 EP(01-07) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 3GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191803-0) - [W](https://casthq.to//e/a9qxuxc70wpx?serv1.casthq.to/i/07/00001/a9qxuxc70wpx)
+- [ The Trial (2025) S02 EP(01-06) TRUE WEB-DL - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 7.9GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/192304-the-trial-2025-s02-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-dd51-192kbps-79gb-3gb-12gb-esub/)
+- [Inspection Bungalow (2025) S01 EP (01-07) Malayalam TRUE WEB-DL - [1080p & 720p - x264 - (DD+5.1 - 192Kbps) - 2GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/194093-inspection-bungalow-2025-s01-ep-01-07-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-2gb-12gb-500mb-esub/)
+- [Magic Mushrooms (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196105-magic-mushrooms-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
+- [Thala (2026) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB - 1.1GB] - [x264 - 600MB - 350MB] - ESub](https://www.1tamilmv.frl/index.php?/forums/topic/197725-thala-2026-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-384kbps-29gb-11gb-x264-600mb-350mb-esub/)
+- [The Map That Leads to You (2025) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/191587-0)
+- [Valathu Vasathe Kallan (2026) Malayalam HQ PreDVD - [1080p & 720p - x264 - 2.4GB + Rips](https://www.1tamilmv.frl/index.php?/forums/topic/196240-valathu-vasathe-kallan-2026-malayalam-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/)
