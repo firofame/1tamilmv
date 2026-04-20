@@ -85,15 +85,15 @@ async function scrapeMalayalamMovies() {
             }
         }
 
-        const sortedMovies = Array.from(movieMap.values()).sort((a, b) => a.localeCompare(b));
-        console.log(`Found ${sortedMovies.length} Malayalam titles.`);
+        const movies = Array.from(movieMap.values());
+        console.log(`Found ${movies.length} Malayalam titles.`);
         
-        if (sortedMovies.length === 0) {
+        if (movies.length === 0) {
             console.error('No movies found — skipping write to avoid data loss.');
             process.exit(1);
         }
         
-        sortedMovies.forEach(m => console.log(`- ${m}`));
+        movies.forEach(m => console.log(`- ${m}`));
         
         const readmePath = 'README.md';
         if (fs.existsSync(readmePath)) {
@@ -105,7 +105,7 @@ async function scrapeMalayalamMovies() {
                 
                 const tableHeader = '\n\n| 🎬 Movie | 📅 Year | 🎞️ Quality | 🔗 Link |\n| :--- | :---: | :---: | :---: |';
                 
-                const formattedMovies = sortedMovies.map(m => {
+                const formattedMovies = movies.map(m => {
                     const linkMatch = m.match(/\[(.*?)\]\((.*?)\)/);
                     let url = '';
                     if (linkMatch) {
