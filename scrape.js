@@ -1,5 +1,33 @@
 const fs = require('fs');
 
+const POSTER_CACHE_PATH = 'posters.json';
+// Max NEW poster fetches per run (to avoid spamming the site)
+const MAX_NEW_FETCHES_PER_RUN = 5;
+// Delay between detail-page requests (ms)
+const FETCH_DELAY_MS = 2000;
+
+// ─── Poster Cache ───────────────────────────────────────────────────────────
+
+function loadPosterCache() {
+    try {
+        if (fs.existsSync(POSTER_CACHE_PATH)) {
+            const data = JSON.parse(fs.readFileSync(POSTER_CACHE_PATH, 'utf8'));
+            console.log(`Loaded poster cache with ${Object.keys(data).length} entries.`);
+            return data;
+        }
+    } catch (err) {
+        console.log(`Warning: could not read poster cache: ${err.message}`);
+    }
+    return {};
+}
+
+function savePosterCache(cache) {
+    fs.writeFileSync(POSTER_CACHE_PATH, JSON.stringify(cache, null, 2));
+    console.log(`Saved poster cache with ${Object.keys(cache).length} entries.`);
+}
+
+// ─── HTTP Helpers ───────────────────────────────────────────────────────────
+
 async function fetchWithRetry(url, maxRetries = 3) {
     for (let i = 0; i < maxRetries; i++) {
         try {
@@ -19,6 +47,8 @@ async function fetchWithRetry(url, maxRetries = 3) {
     }
     return null;
 }
+
+// ─── Poster Extraction ─────────────────────────────────────────────────────
 
 /**
  * Fetch the poster image URL from a movie's detail page.
@@ -74,6 +104,8 @@ async function fetchPosterImage(detailUrl) {
         return null;
     }
 }
+
+// ─── Main Scraper ───────────────────────────────────────────────────────────
 
 async function scrapeMalayalamMovies() {
     try {
@@ -182,23 +214,39 @@ async function scrapeMalayalamMovies() {
             return { title, url };
         });
         
-        // Fetch poster images for the first 3 movies
-        console.log('\nFetching poster images for the top 3 movies...');
-        const posterImages = [];
-        for (let i = 0; i < Math.min(3, parsedMovies.length); i++) {
-            const movie = parsedMovies[i];
-            if (movie.url) {
-                const posterUrl = await fetchPosterImage(movie.url);
-                posterImages.push(posterUrl);
-                console.log(`  ${movie.title}: ${posterUrl || 'No poster found'}`);
-            } else {
-                posterImages.push(null);
+        // ─── Poster fetching with cache ─────────────────────────────────
+        const posterCache = loadPosterCache();
+        let newFetchCount = 0;
+        
+        // Resolve posters for ALL movies: use cache first, fetch only if missing
+        for (const movie of parsedMovies) {
+            if (!movie.url) continue;
+            
+            // Already cached — skip
+            if (posterCache[movie.url] !== undefined) continue;
+            
+            // Budget exhausted for this run — skip (will be fetched next run)
+            if (newFetchCount >= MAX_NEW_FETCHES_PER_RUN) continue;
+            
+            const posterUrl = await fetchPosterImage(movie.url);
+            // Store result (even null) so we don't re-fetch failures
+            posterCache[movie.url] = posterUrl || null;
+            newFetchCount++;
+            console.log(`  ${movie.title}: ${posterUrl || 'No poster found'}`);
+            
+            // Be polite — wait between requests
+            if (newFetchCount < MAX_NEW_FETCHES_PER_RUN) {
+                await new Promise(r => setTimeout(r, FETCH_DELAY_MS));
             }
-            // Small delay between requests
-            if (i < 2) await new Promise(r => setTimeout(r, 1000));
         }
         
-        // Build README content
+        console.log(`\nFetched ${newFetchCount} new poster(s) this run.`);
+        savePosterCache(posterCache);
+        
+        // Build poster lookup for easy access
+        const getPoster = (url) => posterCache[url] || null;
+        
+        // ─── Build README ───────────────────────────────────────────────
         const readmePath = 'README.md';
         if (fs.existsSync(readmePath)) {
             let readmeContent = fs.readFileSync(readmePath, 'utf8');
@@ -214,7 +262,7 @@ async function scrapeMalayalamMovies() {
                 featuredSection += '<table>\n<tr>\n';
                 for (let i = 0; i < featuredCount; i++) {
                     const movie = parsedMovies[i];
-                    const posterUrl = posterImages[i];
+                    const posterUrl = getPoster(movie.url);
                     const posterHtml = posterUrl 
                         ? `<img src="${posterUrl}" alt="${movie.title}" width="250" />`
                         : `<div style="width:250px;height:350px;background:#1a1a2e;display:flex;align-items:center;justify-content:center;border-radius:8px;color:#888;">No Poster</div>`;
@@ -231,12 +279,16 @@ async function scrapeMalayalamMovies() {
                 }
                 featuredSection += '</tr>\n</table>\n';
                 
-                // Build the table (without Year and Quality columns)
-                const tableHeader = '\n## 📋 All Releases\n\n| 🎬 Movie | 🔗 Link |\n| :--- | :---: |';
+                // Build the main table — show poster thumbnails for movies that have them
+                const tableHeader = '\n## 📋 All Releases\n\n| | 🎬 Movie | 🔗 Link |\n| :---: | :--- | :---: |';
                 
                 const formattedMovies = parsedMovies.map(movie => {
                     const linkCol = movie.url ? `[⬇️ Download](${movie.url})` : 'No Link';
-                    return `| **${movie.title}** | ${linkCol} |`;
+                    const poster = getPoster(movie.url);
+                    const posterCol = poster
+                        ? `<img src="${poster}" alt="${movie.title}" width="45" />`
+                        : '🎬';
+                    return `| ${posterCol} | **${movie.title}** | ${linkCol} |`;
                 }).join('\n');
                 
                 const dateStr = new Date().toUTCString();
