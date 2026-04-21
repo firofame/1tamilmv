@@ -246,48 +246,8 @@ async function scrapeMalayalamMovies() {
         // Build poster lookup for easy access
         const getPoster = (url) => posterCache[url] || null;
         
-        // ─── Build README ───────────────────────────────────────────────
-        const readmePath = 'README.md';
-        if (fs.existsSync(readmePath)) {
-            let readmeContent = fs.readFileSync(readmePath, 'utf8');
-            const startMarker = '# Latest Malayalam Movies';
-            
-            if (readmeContent.includes(startMarker)) {
-                const before = readmeContent.substring(0, readmeContent.indexOf(startMarker) + startMarker.length);
-                
-                // Build an HTML grid — poster + title per cell, 5 columns per row
-                const COLS = 5;
-                let grid = '\n\n<table>\n';
-                
-                for (let i = 0; i < parsedMovies.length; i += COLS) {
-                    grid += '<tr>\n';
-                    for (let j = i; j < i + COLS && j < parsedMovies.length; j++) {
-                        const movie = parsedMovies[j];
-                        const posterUrl = getPoster(movie.url);
-                        const posterHtml = posterUrl
-                            ? `<img src="${posterUrl}" alt="${movie.title}" width="120" />`
-                            : `🎬`;
-                        const titleHtml = movie.url
-                            ? `<a href="${movie.url}">${movie.title}</a>`
-                            : movie.title;
-                        
-                        grid += `<td align="center" width="20%">${posterHtml}<br/><sub>${titleHtml}</sub></td>\n`;
-                    }
-                    grid += '</tr>\n';
-                }
-                grid += '</table>\n';
-                
-                const dateStr = new Date().toUTCString();
-                readmeContent = `${before}\n\n*Last updated: ${dateStr}*\n${grid}\n`;
-                fs.writeFileSync(readmePath, readmeContent);
-                console.log('\nSaved movies with poster images to README.md');
-            } else {
-                console.error('\nCould not find "# Latest Malayalam Movies" in README.md to insert movies.');
-            }
-        } else {
-            console.error('\nREADME.md not found.');
-        }
-        
+
+
         // ─── Build data.json ─────────────────────────────────────────────
         const dataJson = {
             updated: new Date().toUTCString(),
