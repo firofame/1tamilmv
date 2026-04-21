@@ -68,7 +68,7 @@ async function fetchPosterImage(detailUrl) {
         let match;
         while ((match = posterRegex.exec(html)) !== null) {
             const fullTag = match[0];
-            const imgUrl = match[1];
+            const imgUrl = match[1].replace(/&amp;/g, '&');
             
             // Check data-ratio for portrait orientation (ratio > 100 means height > width)
             const ratioMatch = fullTag.match(/data-ratio="([\d.]+)"/);
@@ -90,7 +90,7 @@ async function fetchPosterImage(detailUrl) {
         // Strategy 2: Look for any external image hosting (not site assets)
         const externalImgRegex = /<img[^>]*src="(https?:\/\/(?!www\.1tamilmv\.frl)[^"]+)"[^>]*>/gi;
         while ((match = externalImgRegex.exec(html)) !== null) {
-            const imgUrl = match[1];
+            const imgUrl = match[1].replace(/&amp;/g, '&');
             // Skip known non-poster domains
             if (imgUrl.includes('googletagmanager') || imgUrl.includes('i2symbol') || imgUrl.includes('istockphoto')) continue;
             // Skip screenshots
