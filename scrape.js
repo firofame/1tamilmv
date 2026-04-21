@@ -255,44 +255,30 @@ async function scrapeMalayalamMovies() {
             if (readmeContent.includes(startMarker)) {
                 const before = readmeContent.substring(0, readmeContent.indexOf(startMarker) + startMarker.length);
                 
-                // Build the featured movies section (first 3 with posters)
-                let featuredSection = '\n\n## 🔥 Featured Releases\n\n';
-                const featuredCount = Math.min(3, parsedMovies.length);
+                // Build an HTML grid — poster + title per cell, 5 columns per row
+                const COLS = 5;
+                let grid = '\n\n<table>\n';
                 
-                featuredSection += '<table>\n<tr>\n';
-                for (let i = 0; i < featuredCount; i++) {
-                    const movie = parsedMovies[i];
-                    const posterUrl = getPoster(movie.url);
-                    const posterHtml = posterUrl 
-                        ? `<img src="${posterUrl}" alt="${movie.title}" width="250" />`
-                        : `<div style="width:250px;height:350px;background:#1a1a2e;display:flex;align-items:center;justify-content:center;border-radius:8px;color:#888;">No Poster</div>`;
-                    
-                    const downloadLink = movie.url 
-                        ? `<a href="${movie.url}">⬇️ Download</a>`
-                        : 'No Link';
-                    
-                    featuredSection += `<td align="center" width="33%">\n`;
-                    featuredSection += `${posterHtml}<br/>\n`;
-                    featuredSection += `<strong>${movie.title}</strong><br/>\n`;
-                    featuredSection += `${downloadLink}\n`;
-                    featuredSection += `</td>\n`;
+                for (let i = 0; i < parsedMovies.length; i += COLS) {
+                    grid += '<tr>\n';
+                    for (let j = i; j < i + COLS && j < parsedMovies.length; j++) {
+                        const movie = parsedMovies[j];
+                        const posterUrl = getPoster(movie.url);
+                        const posterHtml = posterUrl
+                            ? `<img src="${posterUrl}" alt="${movie.title}" width="120" />`
+                            : `🎬`;
+                        const titleHtml = movie.url
+                            ? `<a href="${movie.url}">${movie.title}</a>`
+                            : movie.title;
+                        
+                        grid += `<td align="center" width="20%">${posterHtml}<br/><sub>${titleHtml}</sub></td>\n`;
+                    }
+                    grid += '</tr>\n';
                 }
-                featuredSection += '</tr>\n</table>\n';
-                
-                // Build the main table — show poster thumbnails for movies that have them
-                const tableHeader = '\n## 📋 All Releases\n\n| | 🎬 Movie | 🔗 Link |\n| :---: | :--- | :---: |';
-                
-                const formattedMovies = parsedMovies.map(movie => {
-                    const linkCol = movie.url ? `[⬇️ Download](${movie.url})` : 'No Link';
-                    const poster = getPoster(movie.url);
-                    const posterCol = poster
-                        ? `<img src="${poster}" alt="${movie.title}" width="45" />`
-                        : '🎬';
-                    return `| ${posterCol} | **${movie.title}** | ${linkCol} |`;
-                }).join('\n');
+                grid += '</table>\n';
                 
                 const dateStr = new Date().toUTCString();
-                readmeContent = `${before}\n\n*Last updated: ${dateStr}*\n${featuredSection}${tableHeader}\n${formattedMovies}\n`;
+                readmeContent = `${before}\n\n*Last updated: ${dateStr}*\n${grid}\n`;
                 fs.writeFileSync(readmePath, readmeContent);
                 console.log('\nSaved movies with poster images to README.md');
             } else {
