@@ -288,6 +288,19 @@ async function scrapeMalayalamMovies() {
             console.error('\nREADME.md not found.');
         }
         
+        // ─── Build data.json ─────────────────────────────────────────────
+        const dataJson = {
+            updated: new Date().toUTCString(),
+            count: parsedMovies.length,
+            movies: parsedMovies.map(movie => ({
+                title: movie.title,
+                url: movie.url || null,
+                poster: getPoster(movie.url) || null,
+            }))
+        };
+        fs.writeFileSync('data.json', JSON.stringify(dataJson, null, 2));
+        console.log(`Saved data.json (${dataJson.count} movies)`);
+        
     } catch (error) {
         console.error('Error scraping:', error.message);
     }

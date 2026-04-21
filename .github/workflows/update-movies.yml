@@ -36,8 +36,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Only commit if there are changes
-          if [[ -n "$(git status --porcelain README.md posters.json)" ]]; then
-            git add README.md posters.json
+          if [[ -n "$(git status --porcelain README.md posters.json data.json)" ]]; then
+            git add README.md posters.json data.json
             git commit -m "docs: automated update of Malayalam movie list"
             git push
             echo "Successfully updated README.md"

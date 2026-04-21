@@ -1,6 +1,6 @@
 # Latest Malayalam Movies
 
-*Last updated: Tue, 21 Apr 2026 01:56:52 GMT*
+*Last updated: Tue, 21 Apr 2026 02:11:35 GMT*
 
 
 <table>
@@ -34,17 +34,17 @@
 </tr>
 <tr>
 <td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197570-thaai-kizhavi-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-telugu-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Thaai Kizhavi</a></sub></td>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197581-kanimangalam-kovilakam-2026-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Kanimangalam Kovilakam</a></sub></td>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197485-madhura-kanakku-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-esub/#comment-404677">Madhura Kanakku</a></sub></td>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197457-ma-ka-sum%C2%A02025-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-dd51-192kbps-5gb-35gb-1gb-esub/">Ma Ka Sum</a></sub></td>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197455-velleppam-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Velleppam</a></sub></td>
+<td align="center" width="20%"><img src="https://www.pixelbb.com/images/2026/04/09/1464063-kanimangalam-kovilakam-0-2000-0-3000-crop.jpg" alt="Kanimangalam Kovilakam" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197581-kanimangalam-kovilakam-2026-malayalam%C2%A0true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Kanimangalam Kovilakam</a></sub></td>
+<td align="center" width="20%"><img src="https://www.pixelbb.com/images/2026/04/04/Madhura-Kanakku-poster-2d5f63f0-c9c2-11f0-982f-25ba3e846418.jpg" alt="Madhura Kanakku" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197485-madhura-kanakku-2025-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-esub/#comment-404677">Madhura Kanakku</a></sub></td>
+<td align="center" width="20%"><img src="https://www.pixelbb.com/images/2026/04/02/Zi00MGIzLWJlN.jpg" alt="Ma Ka Sum" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197457-ma-ka-sum%C2%A02025-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-dd51-192kbps-5gb-35gb-1gb-esub/">Ma Ka Sum</a></sub></td>
+<td align="center" width="20%"><img src="https://www.pixelbb.com/images/2026/04/02/velleppam.webp" alt="Velleppam" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197455-velleppam-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Velleppam</a></sub></td>
 </tr>
 <tr>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197450-mrithyunjay-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Mrithyunjay</a></sub></td>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197458-sampradayani-suppini-sudhapoosani-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Sampradayani Suppini Sudhapoosani</a></sub></td>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197430-crime-101-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/">Crime 101</a></sub></td>
+<td align="center" width="20%"><img src="https://www.pixelbb.com/images/2026/04/02/HDcK3iaaYAE4n15.jpg" alt="Mrithyunjay" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197450-mrithyunjay-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Mrithyunjay</a></sub></td>
+<td align="center" width="20%"><img src="https://cdn.district.in/movies-assets/images/cinema/Sampradayini-Suppini-Suddapoosani-poster-12350c60-1148-11f1-a57b-5bff48fad14c.jpg" alt="Sampradayani Suppini Sudhapoosani" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197458-sampradayani-suppini-sudhapoosani-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Sampradayani Suppini Sudhapoosani</a></sub></td>
+<td align="center" width="20%"><img src="https://m.media-amazon.com/images/S/pv-target-images/13e37a01e172cca4c07c3c3497cd70ba5f5c5d530d5d6f3f627eba4bb8ac724d.png" alt="Crime 101" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197430-crime-101-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/">Crime 101</a></sub></td>
 <td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197345-muthu-alias-kaattaan-2025-s01-ep-01-10-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/">Muthu Alias Kaattaan</a></sub></td>
-<td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197348-masthishka-maranam-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Masthishka Maranam</a></sub></td>
+<td align="center" width="20%"><img src="https://image.tmdb.org/t/p/original/AnZbXNXTaAvwXZYgDf9w5orGSzd.jpg" alt="Masthishka Maranam" width="120" /><br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197348-masthishka-maranam-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Masthishka Maranam</a></sub></td>
 </tr>
 <tr>
 <td align="center" width="20%">🎬<br/><sub><a href="https://www.1tamilmv.frl/index.php?/forums/topic/197346-valathu-vashathe-kallan-2026-malayalam%C2%A0true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/">Valathu Vashathe Kallan</a></sub></td>
