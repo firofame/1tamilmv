@@ -58,7 +58,7 @@ async function fetchPosterImage(detailUrl) {
     try {
         console.log(`  Fetching poster from: ${detailUrl}`);
         const response = await fetchWithRetry(detailUrl);
-        if (!response) return null;
+        if (!response) return 'FETCH_FAILED';
         
         const html = await response.text();
         
@@ -88,7 +88,7 @@ async function fetchPosterImage(detailUrl) {
         if (allMatches.length > 0) return allMatches[0].url;
         
         // Strategy 2: Look for any external image hosting (not site assets)
-        const externalImgRegex = /<img[^>]*src="(https?:\/\/(?!www\.1tamilmv\.frl)[^"]*\.(?:jpg|jpeg|png|webp))"[^>]*>/gi;
+        const externalImgRegex = /<img[^>]*src="(https?:\/\/(?!www\.1tamilmv\.frl)[^"]+)"[^>]*>/gi;
         while ((match = externalImgRegex.exec(html)) !== null) {
             const imgUrl = match[1];
             // Skip known non-poster domains
@@ -101,7 +101,7 @@ async function fetchPosterImage(detailUrl) {
         return null;
     } catch (err) {
         console.log(`  Error fetching poster: ${err.message}`);
-        return null;
+        return 'FETCH_FAILED';
     }
 }
 
@@ -229,8 +229,15 @@ async function scrapeMalayalamMovies() {
             if (newFetchCount >= MAX_NEW_FETCHES_PER_RUN) continue;
             
             const posterUrl = await fetchPosterImage(movie.url);
-            // Store result (even null) so we don't re-fetch failures
-            posterCache[movie.url] = posterUrl || null;
+            
+            if (posterUrl === 'FETCH_FAILED') {
+                console.log(`  Skipping cache for ${movie.title} due to network error`);
+                newFetchCount++;
+                continue; // Don't cache, retry next run
+            }
+            
+            // Store result (even null if page loaded but no poster found)
+            posterCache[movie.url] = posterUrl;
             newFetchCount++;
             console.log(`  ${movie.title}: ${posterUrl || 'No poster found'}`);
             
