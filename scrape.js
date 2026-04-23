@@ -204,8 +204,20 @@ async function scrapeMalayalamMovies() {
                 title = yearMatch[1].trim();
                 // Remove common leading language tags
                 title = title.replace(/^(Malayalam|Tamil|Telugu|Hindi)\s*[-:]?\s*/i, '').trim();
+                title = title.replace(/^S\.Saraswathi\s*[-:]?\s*/i, '').trim();
             } else {
                 title = cleanText.split('-')[0].trim();
+                title = title.replace(/^S\.Saraswathi\s*[-:]?\s*/i, '').trim();
+            }
+            
+            // If title became empty because of stripping, or is still just the uploader name, try to extract from URL
+            if ((!title || title.toLowerCase() === 's.saraswathi') && url) {
+                const urlMatch = url.match(/\/topic\/\d+-([a-zA-Z0-9-]+)-\d{4}/);
+                if (urlMatch) {
+                    title = urlMatch[1].split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+                } else {
+                    title = 'Unknown Title';
+                }
             }
             
             // Truncate title if it's too long
