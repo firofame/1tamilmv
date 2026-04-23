@@ -92,7 +92,7 @@ async function fetchPosterImage(detailUrl) {
         while ((match = externalImgRegex.exec(html)) !== null) {
             const imgUrl = match[1].replace(/&amp;/g, '&');
             // Skip known non-poster domains
-            if (imgUrl.includes('googletagmanager') || imgUrl.includes('i2symbol') || imgUrl.includes('istockphoto')) continue;
+            if (imgUrl.includes('googletagmanager') || imgUrl.includes('i2symbol') || imgUrl.includes('istockphoto') || imgUrl.includes('pinimg.com')) continue;
             // Skip screenshots
             if (imgUrl.includes('vlcsnap') || imgUrl.includes('.md.')) continue;
             return imgUrl;
