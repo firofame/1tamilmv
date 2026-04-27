@@ -1,6 +1,7 @@
 const fs = require('fs');
 
 const POSTER_CACHE_PATH = 'posters.json';
+const SITE_BASE_URL = 'https://www.1tamilmv.ltd/';
 // Max NEW poster fetches per run (to avoid spamming the site)
 const MAX_NEW_FETCHES_PER_RUN = 5;
 // Delay between detail-page requests (ms)
@@ -8,12 +9,38 @@ const FETCH_DELAY_MS = 2000;
 
 // ─── Poster Cache ───────────────────────────────────────────────────────────
 
+function normalizeThreadUrl(url) {
+    if (!url) return url;
+
+    try {
+        const parsed = new URL(url, SITE_BASE_URL);
+        if (/(^|\.)1tamilmv\.[a-z]+$/i.test(parsed.hostname)) {
+            return `${parsed.pathname}${parsed.search}`;
+        }
+        return parsed.toString();
+    } catch {
+        return url;
+    }
+}
+
 function loadPosterCache() {
     try {
         if (fs.existsSync(POSTER_CACHE_PATH)) {
             const data = JSON.parse(fs.readFileSync(POSTER_CACHE_PATH, 'utf8'));
-            console.log(`Loaded poster cache with ${Object.keys(data).length} entries.`);
-            return data;
+            const normalizedCache = {};
+
+            for (const [key, value] of Object.entries(data)) {
+                const normalizedKey = normalizeThreadUrl(key);
+                const existingValue = normalizedCache[normalizedKey];
+
+                // Prefer a real poster URL over a cached miss when duplicate keys collapse.
+                if (existingValue === undefined || (existingValue == null && value != null)) {
+                    normalizedCache[normalizedKey] = value;
+                }
+            }
+
+            console.log(`Loaded poster cache with ${Object.keys(normalizedCache).length} entries.`);
+            return normalizedCache;
         }
     } catch (err) {
         console.log(`Warning: could not read poster cache: ${err.message}`);
@@ -61,43 +88,59 @@ async function fetchPosterImage(detailUrl) {
         if (!response) return 'FETCH_FAILED';
         
         const html = await response.text();
-        
-        // Strategy 1: Look for pixelbb.com images with high data-ratio (portrait poster)
-        const posterRegex = /<img[^>]*src="(https?:\/\/www\.pixelbb\.com\/images\/[^"]*\.(?:jpg|jpeg|png|webp))"[^>]*>/gi;
-        const allMatches = [];
+
+        // Score all image candidates so cached forum uploads survive domain changes
+        // and direct forum-hosted poster attachments remain eligible.
+        const imgRegex = /<img[^>]*src=["']([^"']+)["'][^>]*>/gi;
+        const candidates = [];
         let match;
-        while ((match = posterRegex.exec(html)) !== null) {
+
+        while ((match = imgRegex.exec(html)) !== null) {
             const fullTag = match[0];
-            const imgUrl = match[1].replace(/&amp;/g, '&');
-            
-            // Check data-ratio for portrait orientation (ratio > 100 means height > width)
-            const ratioMatch = fullTag.match(/data-ratio="([\d.]+)"/);
+            const rawSrc = match[1].replace(/&amp;/g, '&');
+            let imgUrl;
+            let parsedUrl;
+
+            try {
+                imgUrl = new URL(rawSrc, detailUrl).toString();
+                parsedUrl = new URL(imgUrl);
+            } catch {
+                continue;
+            }
+
+            const host = parsedUrl.hostname.toLowerCase();
+            const path = parsedUrl.pathname.toLowerCase();
+            const isForumHost = /(^|\.)1tamilmv\.[a-z]+$/.test(host);
+            const isForumUpload = isForumHost && path.startsWith('/uploads/');
+            const isPixelbb = host === 'www.pixelbb.com' && path.startsWith('/images/');
+            const ratioMatch = fullTag.match(/data-ratio=["']([\d.]+)["']/i);
             const ratio = ratioMatch ? parseFloat(ratioMatch[1]) : 0;
-            
-            // Skip screenshot thumbnails (they have .md. in filename and low ratio)
-            const isScreenshot = imgUrl.includes('.md.') || imgUrl.includes('vlcsnap');
-            
-            if (!isScreenshot) {
-                allMatches.push({ url: imgUrl, ratio, isPortrait: ratio > 80 });
+            const isPortrait = ratio > 80;
+            const isScreenshot = path.includes('vlcsnap') || path.includes('.md.');
+            const isKnownNonPoster = imgUrl.includes('googletagmanager') ||
+                imgUrl.includes('i2symbol') ||
+                imgUrl.includes('istockphoto') ||
+                imgUrl.includes('pinimg.com') ||
+                path.endsWith('/logo.png') ||
+                path.includes('/emoticons/');
+
+            if (isScreenshot || isKnownNonPoster) continue;
+            if (isForumHost && !isForumUpload) continue;
+
+            let score = 0;
+            if (isPixelbb) score += 4;
+            if (isForumUpload) score += 3;
+            if (!isForumHost) score += 1;
+            if (isPortrait) score += 2;
+
+            if (score > 0) {
+                candidates.push({ url: imgUrl, score });
             }
         }
-        
-        // Prefer portrait images (posters), otherwise take the first non-screenshot
-        const portrait = allMatches.find(m => m.isPortrait);
-        if (portrait) return portrait.url;
-        if (allMatches.length > 0) return allMatches[0].url;
-        
-        // Strategy 2: Look for any external image hosting (not site assets)
-        const externalImgRegex = /<img[^>]*src="(https?:\/\/(?!www\.1tamilmv\.frl)[^"]+)"[^>]*>/gi;
-        while ((match = externalImgRegex.exec(html)) !== null) {
-            const imgUrl = match[1].replace(/&amp;/g, '&');
-            // Skip known non-poster domains
-            if (imgUrl.includes('googletagmanager') || imgUrl.includes('i2symbol') || imgUrl.includes('istockphoto') || imgUrl.includes('pinimg.com')) continue;
-            // Skip screenshots
-            if (imgUrl.includes('vlcsnap') || imgUrl.includes('.md.')) continue;
-            return imgUrl;
-        }
-        
+
+        candidates.sort((a, b) => b.score - a.score);
+        if (candidates.length > 0) return candidates[0].url;
+
         return null;
     } catch (err) {
         console.log(`  Error fetching poster: ${err.message}`);
@@ -109,8 +152,8 @@ async function fetchPosterImage(detailUrl) {
 
 async function scrapeMalayalamMovies() {
     try {
-        console.log('Fetching https://www.1tamilmv.frl/ ...');
-        const response = await fetchWithRetry('https://www.1tamilmv.frl/');
+        console.log('Fetching https://www.1tamilmv.ltd/ ...');
+        const response = await fetchWithRetry('https://www.1tamilmv.ltd/');
         
         if (!response) {
             throw new Error('Failed to fetch the main page after retries.');
@@ -233,9 +276,10 @@ async function scrapeMalayalamMovies() {
         // Resolve posters for ALL movies: use cache first, fetch only if missing
         for (const movie of parsedMovies) {
             if (!movie.url) continue;
+            const cacheKey = normalizeThreadUrl(movie.url);
             
             // Already cached — skip
-            if (posterCache[movie.url] !== undefined) continue;
+            if (posterCache[cacheKey] !== undefined) continue;
             
             // Budget exhausted for this run — skip (will be fetched next run)
             if (newFetchCount >= MAX_NEW_FETCHES_PER_RUN) continue;
@@ -249,7 +293,7 @@ async function scrapeMalayalamMovies() {
             }
             
             // Store result (even null if page loaded but no poster found)
-            posterCache[movie.url] = posterUrl;
+            posterCache[cacheKey] = posterUrl;
             newFetchCount++;
             console.log(`  ${movie.title}: ${posterUrl || 'No poster found'}`);
             
@@ -263,7 +307,7 @@ async function scrapeMalayalamMovies() {
         savePosterCache(posterCache);
         
         // Build poster lookup for easy access
-        const getPoster = (url) => posterCache[url] || null;
+        const getPoster = (url) => posterCache[normalizeThreadUrl(url)] || null;
         
 
 
