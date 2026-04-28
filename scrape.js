@@ -122,7 +122,8 @@ async function fetchPosterImage(detailUrl) {
                 imgUrl.includes('istockphoto') ||
                 imgUrl.includes('pinimg.com') ||
                 path.endsWith('/logo.png') ||
-                path.includes('/emoticons/');
+                path.includes('/emoticons/') ||
+                path.includes('utorrent.png');
 
             if (isScreenshot || isKnownNonPoster) continue;
             if (isForumHost && !isForumUpload) continue;
