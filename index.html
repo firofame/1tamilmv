@@ -147,7 +147,12 @@ header h1 span{color:var(--accent)}
     const data = await res.json();
 
     badge.textContent = `${data.count} titles`;
-    updated.textContent = `Updated ${data.updated}`;
+    const istTime = new Date(data.updated).toLocaleString('en-IN', {
+      timeZone: 'Asia/Kolkata',
+      dateStyle: 'medium',
+      timeStyle: 'short'
+    });
+    updated.textContent = `Updated ${istTime} IST`;
     loading.classList.add('hidden');
 
     // Render cards

@@ -121,7 +121,7 @@ async function fetchPosterImage(detailUrl) {
                 imgUrl.includes('i2symbol') ||
                 imgUrl.includes('istockphoto') ||
                 imgUrl.includes('pinimg.com') ||
-                path.endsWith('/logo.png') ||
+                path.includes('/logo.png') ||
                 path.includes('/emoticons/') ||
                 path.includes('utorrent.png');
 
