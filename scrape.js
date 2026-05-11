@@ -3,7 +3,7 @@ const fs = require('fs');
 const POSTER_CACHE_PATH = 'posters.json';
 const SITE_BASE_URL = 'https://www.1tamilmv.ltd/';
 // Max NEW poster fetches per run (to avoid spamming the site)
-const MAX_NEW_FETCHES_PER_RUN = 5;
+const MAX_NEW_FETCHES_PER_RUN = 5; // Increased to fix null posters
 // Delay between detail-page requests (ms)
 const FETCH_DELAY_MS = 2000;
 
@@ -122,6 +122,8 @@ async function fetchPosterImage(detailUrl) {
                 imgUrl.includes('istockphoto') ||
                 imgUrl.includes('pinimg.com') ||
                 imgUrl.includes('freepik.com') ||
+                imgUrl.includes('tenor.com') ||
+                imgUrl.includes('giphy.com') ||
                 imgUrl.includes('mikka-nandri') ||
                 path.includes('/set_resources_') ||
                 path.includes('/logo.png') ||
@@ -281,7 +283,8 @@ async function scrapeMalayalamMovies() {
             const cacheKey = normalizeThreadUrl(movie.url);
             
             // Already cached — skip
-            if (posterCache[cacheKey] !== undefined) continue;
+            // Already cached — skip (unless it was null, in which case we retry once)
+            if (posterCache[cacheKey]) continue;
             
             // Budget exhausted for this run — skip (will be fetched next run)
             if (newFetchCount >= MAX_NEW_FETCHES_PER_RUN) continue;
