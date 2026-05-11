@@ -121,8 +121,15 @@ async function fetchPosterImage(detailUrl) {
                 imgUrl.includes('i2symbol') ||
                 imgUrl.includes('istockphoto') ||
                 imgUrl.includes('pinimg.com') ||
+                imgUrl.includes('freepik.com') ||
+                imgUrl.includes('mikka-nandri') ||
+                path.includes('/set_resources_') ||
                 path.includes('/logo.png') ||
                 path.includes('/emoticons/') ||
+                path.includes('/reactions/') ||
+                path.includes('.thumb.') ||
+                path.endsWith('.svg') ||
+                path.endsWith('.gif') ||
                 path.includes('utorrent.png');
 
             if (isScreenshot || isKnownNonPoster) continue;
