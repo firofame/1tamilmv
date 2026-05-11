@@ -116,7 +116,7 @@ async function fetchPosterImage(detailUrl) {
             const ratioMatch = fullTag.match(/data-ratio=["']([\d.]+)["']/i);
             const ratio = ratioMatch ? parseFloat(ratioMatch[1]) : 0;
             const isPortrait = ratio > 80;
-            const isScreenshot = path.includes('vlcsnap') || path.includes('.md.');
+            const isScreenshot = path.includes('vlcsnap') || (path.includes('.md.') && !isPortrait);
             const isKnownNonPoster = imgUrl.includes('googletagmanager') ||
                 imgUrl.includes('i2symbol') ||
                 imgUrl.includes('istockphoto') ||
@@ -144,7 +144,12 @@ async function fetchPosterImage(detailUrl) {
             if (isPortrait) score += 2;
 
             if (score > 0) {
-                candidates.push({ url: imgUrl, score });
+                // If it's a PixelBB thumbnail, try to get the full-size version
+                let finalUrl = imgUrl;
+                if (isPixelbb && finalUrl.includes('.md.')) {
+                    finalUrl = finalUrl.replace('.md.', '.');
+                }
+                candidates.push({ url: finalUrl, score });
             }
         }
 
