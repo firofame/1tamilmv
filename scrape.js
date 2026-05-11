@@ -162,63 +162,52 @@ async function scrapeMalayalamMovies() {
         
         const html = await response.text();
         
-        // Remove scripts and styles to avoid parsing their content
-        const cleanHtml = html.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, ' ')
-                              .replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, ' ');
-                              
-        // Convert <a href="URL">TEXT</a> to [TEXT](URL)
-        const htmlWithLinks = cleanHtml.replace(/<a\s+(?:[^>]*?\s+)?href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi, '[$2]($1)');
-        
-        // Strip HTML tags to get plain text
-        // Replace closing tags or common block tags with newlines to keep lines separate
-        const textWithNewlines = htmlWithLinks.replace(/<\/(div|p|li|tr|h\d|section|article)>/gi, '\n')
-                                          .replace(/<br\s*\/?>/gi, '\n')
-                                          .replace(/<[^>]+>/g, ' ');
-        
-        // Split by lines, trim whitespace, and decode basic HTML entities
-        const decodeEntities = (text) => text.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/&nbsp;/g, ' ').replace(/\u200b/g, '').replace(/&hellip;/g, '...');
-        
-        const lines = textWithNewlines.split('\n')
-            .map(line => decodeEntities(line.trim()).replace(/\s+/g, ' ').replace(/\[\s*\[/g, '[').replace(/\]\s*\]/g, ']'))
-            .filter(line => line.length > 0);
-        
-        // Regex rules similar to the Tampermonkey script
+        const cheerio = require('cheerio');
+        const $ = cheerio.load(html);
+
+        // Regex rules for filtering and deduping
         const malRegex = /(malayalam|\bmal\b)/i;
         const preDvdRegex = /pre[- ]?dvd/i;
         const yearRegex = /\(20\d{2}\)/;
-        // Extract "Movie Title (YEAR)" as a dedup key
         const movieKeyRegex = /^(.*?\(\d{4}\))/;
 
         // Quality rank: higher = better. Used to keep the best version per title.
-        function qualityRank(line) {
-            const l = line.toLowerCase();
+        function qualityRank(text) {
+            const l = text.toLowerCase();
             if (l.includes('bluray') || l.includes('blu-ray')) return 4;
             if (l.includes('uhd') || l.includes('4k')) return 3;
             if (l.includes(' hd ') || l.includes(' hd+') || l.includes('web-dl') || l.includes('web dl') || l.includes('webhd')) return 2;
             return 1;
         }
 
-        // Map from dedup key -> best line seen so far
+        // Map from dedup key -> best entry seen so far
         const movieMap = new Map();
 
-        for (const line of lines) {
-            // Skip PreDVD entries entirely
-            if (preDvdRegex.test(line)) continue;
+        $('a').each((_, el) => {
+            const $el = $(el);
+            const text = $el.text().trim().replace(/\s+/g, ' ');
+            let url = $el.attr('href');
 
-            if (malRegex.test(line) && line.length > 10 && yearRegex.test(line)) {
-                // Strip leading brackets and spaces from the line before extracting the key
-                const cleanLineForMatch = line.replace(/^\[\s*/, '');
-                const keyMatch = cleanLineForMatch.match(movieKeyRegex);
-                if (!keyMatch) continue;
-                // Normalize key: lowercase, strip markdown link syntax for comparison
-                const key = keyMatch[1].replace(/\[|\]/g, '').toLowerCase().trim();
+            if (!url || !text) return;
+
+            // Only consider links pointing to a topic
+            if (!url.includes('/topic/')) return;
+
+            // Skip PreDVD entries entirely
+            if (preDvdRegex.test(text)) return;
+
+            if (malRegex.test(text) && text.length > 10 && yearRegex.test(text)) {
+                const keyMatch = text.match(movieKeyRegex);
+                if (!keyMatch) return;
+                
+                const key = keyMatch[1].toLowerCase().trim();
 
                 const existing = movieMap.get(key);
-                if (!existing || qualityRank(line) > qualityRank(existing)) {
-                    movieMap.set(key, line);
+                if (!existing || qualityRank(text) > existing.quality) {
+                    movieMap.set(key, { text, url, quality: qualityRank(text) });
                 }
             }
-        }
+        });
 
         const movies = Array.from(movieMap.values());
         console.log(`Found ${movies.length} Malayalam titles.`);
@@ -228,21 +217,14 @@ async function scrapeMalayalamMovies() {
             process.exit(1);
         }
         
-        movies.forEach(m => console.log(`- ${m}`));
+        movies.forEach(m => console.log(`- ${m.text}`));
         
         // Parse movie data
         const parsedMovies = movies.map(m => {
-            const linkMatch = m.match(/\[(.*?)\]\((.*?)\)/);
-            let url = '';
-            if (linkMatch) {
-                url = linkMatch[2];
-            }
+            let title = m.text;
+            const url = m.url;
             
-            // Remove markdown link formatting to get clean text for parsing
-            let cleanText = m.replace(/\[(.*?)\]\(.*?\)/, ' $1 ').replace(/\[|\]/g, '').replace(/\|/g, '-');
-            
-            const yearMatch = cleanText.match(/^(.*?)\s*\((\d{4})\)/);
-            let title = cleanText;
+            const yearMatch = title.match(/^(.*?)\s*\((\d{4})\)/);
             
             if (yearMatch) {
                 title = yearMatch[1].trim();
@@ -250,7 +232,7 @@ async function scrapeMalayalamMovies() {
                 title = title.replace(/^(Malayalam|Tamil|Telugu|Hindi)\s*[-:]?\s*/i, '').trim();
                 title = title.replace(/^S\.Saraswathi\s*[-:]?\s*/i, '').trim();
             } else {
-                title = cleanText.split('-')[0].trim();
+                title = title.split('-')[0].trim();
                 title = title.replace(/^S\.Saraswathi\s*[-:]?\s*/i, '').trim();
             }
             
