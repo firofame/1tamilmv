@@ -192,8 +192,20 @@ async function scrapeMalayalamMovies() {
 
         $('a').each((_, el) => {
             const $el = $(el);
-            const text = $el.text().trim().replace(/\s+/g, ' ');
+            let text = $el.text().trim().replace(/\s+/g, ' ');
             let url = $el.attr('href');
+
+            // Sometimes the link text is just "[4K, 1080p...]" and the title is in the preceding sibling nodes
+            if (text.startsWith('[')) {
+                let prev = el.prev;
+                let prevText = '';
+                while (prev && prev.name !== 'br') {
+                    if (prev.type === 'text') prevText = prev.data + prevText;
+                    else if (prev.type === 'tag') prevText = $(prev).text() + prevText;
+                    prev = prev.prev;
+                }
+                text = prevText.trim().replace(/\s+/g, ' ') + ' ' + text;
+            }
 
             if (!url || !text) return;
 
