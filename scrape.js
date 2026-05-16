@@ -125,14 +125,18 @@ async function fetchPosterImage(detailUrl) {
                 imgUrl.includes('tenor.com') ||
                 imgUrl.includes('giphy.com') ||
                 imgUrl.includes('mikka-nandri') ||
+                imgUrl.includes('mikkanandri') ||
                 path.includes('/set_resources_') ||
                 path.includes('/logo.png') ||
                 path.includes('/emoticons/') ||
                 path.includes('/reactions/') ||
                 path.includes('.thumb.') ||
                 path.endsWith('.svg') ||
+                imgUrl.startsWith('data:image') ||
                 path.endsWith('.gif') ||
-                path.includes('utorrent.png');
+                path.includes('utorrent.png') ||
+                path.includes('megaphone') ||
+                path.includes('.p.jpeg');
 
             if (isScreenshot || isKnownNonPoster) continue;
             if (isForumHost && !isForumUpload) continue;
