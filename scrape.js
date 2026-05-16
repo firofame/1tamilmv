@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const POSTER_CACHE_PATH = 'posters.json';
-const SITE_BASE_URL = 'https://www.1tamilmv.ltd/';
+const SITE_BASE_URL = 'https://www.1tamilmv.futbol/';
 // Max NEW poster fetches per run (to avoid spamming the site)
 const MAX_NEW_FETCHES_PER_RUN = 10;
 // Delay between detail-page requests (ms)
@@ -167,8 +167,8 @@ async function fetchPosterImage(detailUrl) {
 
 async function scrapeMalayalamMovies() {
     try {
-        console.log('Fetching https://www.1tamilmv.ltd/ ...');
-        const response = await fetchWithRetry('https://www.1tamilmv.ltd/');
+        console.log('Fetching https://www.1tamilmv.futbol/ ...');
+        const response = await fetchWithRetry('https://www.1tamilmv.futbol/');
         
         if (!response) {
             throw new Error('Failed to fetch the main page after retries.');
