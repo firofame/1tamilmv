@@ -1,17 +1,7 @@
 {
-  "updated": "Sun, 05 Jul 2026 21:33:21 GMT",
-  "count": 193,
+  "updated": "Mon, 06 Jul 2026 21:53:36 GMT",
+  "count": 194,
   "movies": [
-    {
-      "title": "Mollywood Times",
-      "url": "https://www.1tamilmv.report/index.php?/forums/topic/198683-mollywood-times-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-768kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HKFjILTawAArIw6?format=jpg&name=large"
-    },
-    {
-      "title": "Karakkam",
-      "url": "https://www.1tamilmv.report/index.php?/forums/topic/198678-karakkam-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-448kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HMDGvvnWgAAXjjR?format=jpg&name=medium"
-    },
     {
       "title": "Vikram On Duty",
       "url": "https://www.1tamilmv.report/index.php?/forums/topic/197001-vikram-on-duty-2025-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-5gb-35gb-1gb-esub/",
@@ -21,6 +11,16 @@
       "title": "LBW - Love Beyond Wicket",
       "url": "https://www.1tamilmv.report/index.php?/forums/topic/195455-lbw-love-beyond-wicket-2025-s01-ep-01-32-true-web-dl-4k-1080p-720p-avc-aac-20-tamil-telugu-hindi-malayalam-kannada-81gb-3gb-12gb-600mb-esub/",
       "poster": "https://www.pixelbb.com/images/2025/12/31/maxresdefault.jpg"
+    },
+    {
+      "title": "Mollywood Times",
+      "url": "https://www.1tamilmv.report/index.php?/forums/topic/198683-mollywood-times-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-768kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HKFjILTawAArIw6?format=jpg&name=large"
+    },
+    {
+      "title": "Karakkam",
+      "url": "https://www.1tamilmv.report/index.php?/forums/topic/198678-karakkam-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-448kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HMDGvvnWgAAXjjR?format=jpg&name=medium"
     },
     {
       "title": "Pritam and Pedro",
@@ -966,6 +966,11 @@
       "title": "Mark",
       "url": "https://www.1tamilmv.report/index.php?/forums/topic/196001-mark-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/01/22/G-8LrXEWcAEuTrw.jpg"
+    },
+    {
+      "title": "Jailer",
+      "url": "https://www.1tamilmv.report/index.php?/forums/topic/198719-jailer-2023-4k-1080p-720p-amzn-web-dl-avc-hevc-tamil-telugu-hindi-malayalam-kannada-dd-51-640kbps-262gb-131gb-73gb-49gb-23gb-18gb-gdrive-esub/",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/7fd38ccc1e95ba39698c62c875b17867f7e09a744e56d9a53753b672b3ce4b96.jpg"
     }
   ]
 }
