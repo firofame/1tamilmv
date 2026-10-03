@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const POSTER_CACHE_PATH = 'posters.json';
-const SITE_BASE_URL = 'https://www.1tamilmv.futbol/';
+const SITE_BASE_URL = 'https://www.1tamilmv.fi/';
 // Max NEW poster fetches per run (to avoid spamming the site)
 const MAX_NEW_FETCHES_PER_RUN = 10;
 // Delay between detail-page requests (ms)
