@@ -23,6 +23,30 @@ function normalizeThreadUrl(url) {
     }
 }
 
+function selectFeaturedMovies($, movies) {
+    const featuredSection = $('.banger-container').filter((_, container) => {
+        const heading = $(container).find('.banger-header').first().text().replace(/\s+/g, ' ').trim();
+        return heading.toLowerCase() === 'top releases this week';
+    }).first();
+
+    if (!featuredSection.length) return movies.slice(0, 6);
+
+    const moviesByUrl = new Map(movies.map(movie => [normalizeThreadUrl(movie.url), movie]));
+    const featuredMovies = [];
+    const seenUrls = new Set();
+
+    featuredSection.find('.banger-row a[href*="/topic/"]').each((_, link) => {
+        const url = normalizeThreadUrl($(link).attr('href'));
+        const movie = moviesByUrl.get(url);
+        if (movie && !seenUrls.has(url)) {
+            featuredMovies.push(movie);
+            seenUrls.add(url);
+        }
+    });
+
+    return featuredMovies.length ? featuredMovies : movies.slice(0, 6);
+}
+
 function loadPosterCache() {
     try {
         if (fs.existsSync(POSTER_CACHE_PATH)) {
@@ -171,8 +195,8 @@ async function fetchPosterImage(detailUrl) {
 
 async function scrapeMalayalamMovies() {
     try {
-        console.log('Fetching https://www.1tamilmv.futbol/ ...');
-        const response = await fetchWithRetry('https://www.1tamilmv.futbol/');
+        console.log('Fetching https://www.1tamilmv.fi/ ...');
+        const response = await fetchWithRetry('https://www.1tamilmv.fi/');
         
         if (!response) {
             throw new Error('Failed to fetch the main page after retries.');
@@ -248,7 +272,7 @@ async function scrapeMalayalamMovies() {
         }
         
         movies.forEach(m => console.log(`- ${m.text}`));
-        const featuredMovies = movies.slice(0, 6);
+        const featuredMovies = selectFeaturedMovies($, movies);
         
         // Parse movie data
         const parsedMovies = movies.map(m => {
@@ -355,4 +379,8 @@ async function scrapeMalayalamMovies() {
     }
 }
 
-scrapeMalayalamMovies();
+if (require.main === module) {
+    scrapeMalayalamMovies();
+}
+
+module.exports = { selectFeaturedMovies };
