@@ -195,8 +195,8 @@ async function fetchPosterImage(detailUrl) {
 
 async function scrapeMalayalamMovies() {
     try {
-        console.log('Fetching https://www.1tamilmv.fi/ ...');
-        const response = await fetchWithRetry('https://www.1tamilmv.fi/');
+        console.log('Fetching https://www.1tamilmv.futbol/ ...');
+        const response = await fetchWithRetry('https://www.1tamilmv.futbol/');
         
         if (!response) {
             throw new Error('Failed to fetch the main page after retries.');
