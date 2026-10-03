@@ -7,7 +7,7 @@ Automated scraper that tracks the latest Malayalam movie releases from 1TamilMV.
 - **`scrape.js`** — Scrapes movie listings, extracts poster images from detail pages, and outputs structured data
 - **`data.json`** — All movie data (title, URL, poster) updated automatically twice daily via GitHub Actions
 - **`posters.json`** — Poster image cache that grows incrementally (5 new posters per run)
-- **`index.html`** — Mobile-optimized dark-themed movie grid that loads `data.json` at runtime
+- **`index.html`** — Mobile-optimized dark-themed movie grid with a featured “Top Releases This Week” rail that loads `data.json` at runtime
 
 ## Live Page
 
