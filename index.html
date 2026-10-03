@@ -46,6 +46,20 @@ header h1 span{color:var(--accent)}
   font-size:.85rem;pointer-events:none;
 }
 
+/* ── Featured ───────────────────────────────────── */
+.featured{padding:.75rem 1rem 0}
+.featured-header{
+  display:flex;align-items:center;gap:.5rem;
+  font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--text-dim);margin:0 0 .65rem
+}
+.featured-row{
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.6rem;
+}
+@media(min-width:480px){.featured-row{grid-template-columns:repeat(3,minmax(0,1fr));gap:.75rem}}
+@media(min-width:768px){.featured-row{grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem}}
+@media(min-width:1024px){.featured-row{grid-template-columns:repeat(5,minmax(0,1fr));gap:1rem}}
+
 /* ── Grid ──────────────────────────────────────── */
 .grid{
   display:grid;
@@ -128,6 +142,14 @@ header h1 span{color:var(--accent)}
   <input type="search" id="search" placeholder="Search movies…" autocomplete="off" />
 </div>
 
+<section class="featured" aria-label="Top releases this week">
+  <div class="featured-header">
+    <span class="badge">Top</span>
+    <span>Top Releases This Week</span>
+  </div>
+  <div class="featured-row" id="featured-row"></div>
+</section>
+
 <div class="grid" id="grid"></div>
 
 <p class="status" id="loading">Loading movies…</p>
@@ -136,11 +158,44 @@ header h1 span{color:var(--accent)}
 <script>
 (async () => {
   const grid = document.getElementById('grid');
+  const featuredRow = document.getElementById('featured-row');
   const loading = document.getElementById('loading');
   const empty = document.getElementById('empty');
   const search = document.getElementById('search');
   const badge = document.getElementById('count');
   const updated = document.getElementById('updated');
+
+  function buildCard(movie, index, extraClass = 'card') {
+    const a = document.createElement('a');
+    a.href = movie.url || '#';
+    a.className = extraClass;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.style.animationDelay = Math.min(index * 30, 600) + 'ms';
+
+    const wrap = document.createElement('div');
+    wrap.className = 'poster-wrap';
+    if (movie.poster) {
+      const img = document.createElement('img');
+      img.src = movie.poster;
+      img.alt = movie.title;
+      img.loading = 'lazy';
+      wrap.appendChild(img);
+    } else {
+      const ph = document.createElement('div');
+      ph.className = 'placeholder-icon';
+      ph.textContent = '🎬';
+      wrap.appendChild(ph);
+    }
+    a.appendChild(wrap);
+
+    const p = document.createElement('p');
+    p.className = 'title';
+    p.textContent = movie.title;
+    a.appendChild(p);
+
+    return a;
+  }
 
   try {
     const res = await fetch('data.json?v=' + Date.now());
@@ -155,38 +210,17 @@ header h1 span{color:var(--accent)}
     updated.textContent = `Updated ${istTime} IST`;
     loading.classList.add('hidden');
 
+    const featuredMovies = Array.isArray(data.featured) && data.featured.length ? data.featured : data.movies.slice(0, 5);
+    const featuredFragment = document.createDocumentFragment();
+    featuredMovies.forEach((m, i) => {
+      featuredFragment.appendChild(buildCard(m, i, 'card'));
+    });
+    featuredRow.appendChild(featuredFragment);
+
     // Render cards
     const fragment = document.createDocumentFragment();
     data.movies.forEach((m, i) => {
-      const a = document.createElement('a');
-      a.href = m.url || '#';
-      a.className = 'card';
-      a.target = '_blank';
-      a.rel = 'noopener';
-      a.style.animationDelay = Math.min(i * 30, 600) + 'ms';
-
-      const wrap = document.createElement('div');
-      wrap.className = 'poster-wrap';
-      if (m.poster) {
-        const img = document.createElement('img');
-        img.src = m.poster;
-        img.alt = m.title;
-        img.loading = 'lazy';
-        wrap.appendChild(img);
-      } else {
-        const ph = document.createElement('div');
-        ph.className = 'placeholder-icon';
-        ph.textContent = '🎬';
-        wrap.appendChild(ph);
-      }
-      a.appendChild(wrap);
-
-      const p = document.createElement('p');
-      p.className = 'title';
-      p.textContent = m.title;
-      a.appendChild(p);
-
-      fragment.appendChild(a);
+      fragment.appendChild(buildCard(m, i, 'card'));
     });
     grid.appendChild(fragment);
 

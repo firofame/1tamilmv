@@ -248,6 +248,7 @@ async function scrapeMalayalamMovies() {
         }
         
         movies.forEach(m => console.log(`- ${m.text}`));
+        const featuredMovies = movies.slice(0, 6);
         
         // Parse movie data
         const parsedMovies = movies.map(m => {
@@ -329,6 +330,17 @@ async function scrapeMalayalamMovies() {
         const dataJson = {
             updated: new Date().toUTCString(),
             count: parsedMovies.length,
+            featured: featuredMovies.map(movie => {
+                const title = movie.text;
+                const url = movie.url;
+                const match = title.match(/^(.*?)\s*\((\d{4})\)/);
+                const cleanTitle = match ? match[1].trim().replace(/^(Malayalam|Tamil|Telugu|Hindi)\s*[-:]?\s*/i, '').trim() : title.split('-')[0].trim();
+                return {
+                    title: cleanTitle.length > 50 ? cleanTitle.substring(0, 47) + '...' : cleanTitle,
+                    url: url || null,
+                    poster: getPoster(url) || null,
+                };
+            }),
             movies: parsedMovies.map(movie => ({
                 title: movie.title,
                 url: movie.url || null,
