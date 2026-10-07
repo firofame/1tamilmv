@@ -98,7 +98,9 @@ The GitHub Pages site is a lightweight static page: no framework, build step,
 tracking, or external fonts. It reads `movies.json` from the same directory.
 It has two-column poster cards, 44px touch targets, search, movie/TV filters,
 weekly/recent tabs, episode labels, lazy-loaded posters, and explicit loading,
-empty, stale-data, and error states. The layout is designed for 320-430px
+empty, stale-data, and error states. Supported image hosts serve smaller
+mobile-sized artwork; original poster URLs remain unchanged in the JSON.
+The layout is designed for 320-430px
 mobile screens; wider screens retain a phone-width layout.
 
 Serve locally (do not open the HTML directly as a file):

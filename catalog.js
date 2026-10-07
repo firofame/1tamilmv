@@ -31,6 +31,20 @@ export function safeUrl(value) {
   }
 }
 
+export function posterUrl(value) {
+  const safe = safeUrl(value);
+  if (!safe) throw new Error('Invalid poster URL.');
+  const url = new URL(safe);
+  if (url.hostname === 'pbs.twimg.com') {
+    url.searchParams.set('name', 'small');
+  } else if (url.hostname === 'image.tmdb.org') {
+    url.pathname = url.pathname.replace(/\/t\/p\/(?:original|w\d+)\//, '/t/p/w500/');
+  } else if (url.hostname === 'm.media-amazon.com') {
+    url.pathname = url.pathname.replace(/\._V1_\./, '._V1_SX500_.');
+  }
+  return url.href;
+}
+
 export function filterEntries(entries, { section = 'recent', type = 'all', query = '' } = {}) {
   const search = query.trim().toLocaleLowerCase();
   return entries.filter((entry) => entry.sections.includes(SECTION_NAMES[section])

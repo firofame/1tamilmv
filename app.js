@@ -1,4 +1,4 @@
-import { episodeLabel, filterEntries, safeUrl, validateCatalog } from './catalog.js';
+import { episodeLabel, filterEntries, posterUrl, safeUrl, validateCatalog } from './catalog.js';
 
 const get = (id) => document.getElementById(id);
 const state = { section: 'recent', type: 'all', query: '', entries: [] };
@@ -21,7 +21,8 @@ function makeCard(entry, index) {
   placeholder.className = 'poster-placeholder';
   const initial = document.createElement('strong');
   initial.textContent = entry.title.charAt(0).toLocaleUpperCase();
-  placeholder.append(initial, document.createTextNode('Poster unavailable'));
+  const posterStatus = document.createTextNode(entry.poster ? 'Loading poster...' : 'Poster unavailable');
+  placeholder.append(initial, posterStatus);
   poster.append(placeholder);
   if (entry.poster) {
     const image = document.createElement('img');
@@ -32,8 +33,12 @@ function makeCard(entry, index) {
     image.decoding = 'async';
     image.referrerPolicy = 'no-referrer';
     image.addEventListener('load', () => { placeholder.hidden = true; });
-    image.addEventListener('error', () => { image.remove(); placeholder.hidden = false; }, { once: true });
-    image.src = safeUrl(entry.poster);
+    image.addEventListener('error', () => {
+      image.remove();
+      posterStatus.textContent = 'Poster unavailable';
+      placeholder.hidden = false;
+    }, { once: true });
+    image.src = posterUrl(entry.poster);
     poster.append(image);
   }
   const badge = document.createElement('span');
