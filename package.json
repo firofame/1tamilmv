@@ -1,0 +1,23 @@
+{
+  "name": "malayalam-release-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape Malayalam release metadata from two TamilMV homepage sections.",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "scrape": "node cli.js",
+    "update": "node update.js",
+    "test": "node --test test/*.test.js",
+    "test:ui": "playwright test",
+    "check": "node --check scraper.js && node --check cli.js && node --check update.js && node --check app.js && node --check catalog.js"
+  },
+  "dependencies": {
+    "cheerio": "1.1.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
