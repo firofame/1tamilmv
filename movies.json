@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.capital/",
-  "scrapedAt": "2026-10-07T14:23:05.313Z",
+  "scrapedAt": "2026-10-07T20:36:01.435Z",
   "topUpdatedAt": "2026-10-07T14:23:05.313Z",
   "movies": [
     {
@@ -9,12 +9,26 @@
       "type": "movie",
       "language": "Malayalam",
       "sections": [
-        "TOP RELEASES THIS WEEK"
+        "TOP RELEASES THIS WEEK",
+        "RECENTLY ADDED"
       ],
       "releaseTitle": "Spider Man: Brand New Day (2026) (HD + Org Auds) - [4K, 1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + Eng) - 27GB + Rips]",
       "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200143-spider-man-brand-new-day-2026%C2%A0hd-original-audios-1080p-720p-x264-dd51-384kbps-tamil-telugu-hindi-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
       "poster": "https://pbs.twimg.com/media/HOdVaQAasAEJBp-?format=jpg&name=large",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "Mandaadi",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Mandaadi (2026) TRUE UHD + Soft ESub - [4K, 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 19GB + Rips]",
+      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200185-mandaadi-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HR1lSjcbkAAg08A?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T20:36:01.435Z"
     },
     {
       "title": "Bethlehem Kudumba Unit",
@@ -1519,7 +1533,8 @@
       "type": "tv_show",
       "language": "Malayalam",
       "sections": [
-        "TOP RELEASES THIS WEEK"
+        "TOP RELEASES THIS WEEK",
+        "RECENTLY ADDED"
       ],
       "releaseTitle": "Carrie (2026) S01 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - (DD+5.1 - 192Kbps) - 5GB + Rips]",
       "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200175-carrie-2026-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
