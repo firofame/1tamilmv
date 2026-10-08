@@ -1,8 +1,21 @@
 {
   "source": "https://www.1tamilmv.capital/",
-  "scrapedAt": "2026-10-08T07:21:41.789Z",
+  "scrapedAt": "2026-10-08T21:18:11.248Z",
   "topUpdatedAt": "2026-10-08T00:58:40.778Z",
   "movies": [
+    {
+      "title": "Epic",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Epic (2026) UHD + ESub - [4K, 1080p & 720p - AVC - [HIN + MAL + KAN] - 25GB + Rips]",
+      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200216-epic-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HUHycRwbQAEDuXZ?format=jpg&name=large",
+      "firstSeenAt": "2026-10-08T21:18:11.248Z"
+    },
     {
       "title": "Mandaadi",
       "year": 2026,
