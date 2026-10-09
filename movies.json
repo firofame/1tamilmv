@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.capital/",
-  "scrapedAt": "2026-10-09T09:00:09.735Z",
+  "scrapedAt": "2026-10-09T16:10:08.909Z",
   "topUpdatedAt": "2026-10-09T02:07:39.347Z",
   "movies": [
     {
@@ -1584,12 +1584,26 @@
       "type": "tv_show",
       "language": "Malayalam",
       "sections": [
-        "TOP RELEASES THIS WEEK"
+        "TOP RELEASES THIS WEEK",
+        "RECENTLY ADDED"
       ],
       "releaseTitle": "Eyes (2026) S01 EP(01-07) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 8.5GB + Rips]",
       "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200204-eyes-2026-s01-ep-01-07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-dd51-256kbps-87gb-4gb-1gb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/10/08/836882308_2221016835131076_8771974365834157236_n.jpg",
       "firstSeenAt": "2026-10-09T02:07:39.347Z"
+    },
+    {
+      "title": "Least Eligible Bachelor",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Least Eligible Bachelor (2026) S01 EP(01-06) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 4.2GB + Rips]",
+      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200241-least-eligible-bachelor-2026-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/10/09/Warning--Bachelor-madness-ahead-Least-Eligible-Bachelor-is-streaming-NOW-on-etvwinFirs.jpg",
+      "firstSeenAt": "2026-10-09T16:10:08.909Z"
     },
     {
       "title": "Prince of Mollywood",
