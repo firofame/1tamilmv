@@ -1,21 +1,8 @@
 {
   "source": "https://www.1tamilmv.capital/",
-  "scrapedAt": "2026-10-09T16:10:08.909Z",
-  "topUpdatedAt": "2026-10-09T02:07:39.347Z",
+  "scrapedAt": "2026-10-10T00:48:23.398Z",
+  "topUpdatedAt": "2026-10-10T00:48:23.398Z",
   "movies": [
-    {
-      "title": "Khalifa: The Ruler",
-      "year": 2026,
-      "type": "movie",
-      "language": "Malayalam",
-      "sections": [
-        "TOP RELEASES THIS WEEK"
-      ],
-      "releaseTitle": "Khalifa: The Ruler (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 19GB + Rips]",
-      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200207-khalifa-the-ruler-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HQInMb7bYAEs1Sg?format=jpg&name=large",
-      "firstSeenAt": "2026-10-09T02:07:39.347Z"
-    },
     {
       "title": "Pradhama Drishtiya Kuttakkar",
       "year": 2026,
@@ -27,6 +14,19 @@
       "releaseTitle": "Pradhama Drishtiya Kuttakkar (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.4GB + Rips]",
       "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200213-pradhama-drishtiya-kuttakkar-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://primemediaus.com/storage/movies/01M2E59BD10AZ6KNWH0A0H7FKW.jpg",
+      "firstSeenAt": "2026-10-09T02:07:39.347Z"
+    },
+    {
+      "title": "Khalifa: The Ruler",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "TOP RELEASES THIS WEEK"
+      ],
+      "releaseTitle": "Khalifa: The Ruler (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 19GB + Rips]",
+      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200207-khalifa-the-ruler-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HQInMb7bYAEs1Sg?format=jpg&name=large",
       "firstSeenAt": "2026-10-09T02:07:39.347Z"
     },
     {
@@ -1579,20 +1579,6 @@
   ],
   "tvShows": [
     {
-      "title": "Eyes",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "TOP RELEASES THIS WEEK",
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Eyes (2026) S01 EP(01-07) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 8.5GB + Rips]",
-      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200204-eyes-2026-s01-ep-01-07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-dd51-256kbps-87gb-4gb-1gb-esub/",
-      "poster": "https://www.pixelbb.com/images/2026/10/08/836882308_2221016835131076_8771974365834157236_n.jpg",
-      "firstSeenAt": "2026-10-09T02:07:39.347Z"
-    },
-    {
       "title": "Least Eligible Bachelor",
       "year": 2026,
       "type": "tv_show",
@@ -1604,6 +1590,19 @@
       "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200241-least-eligible-bachelor-2026-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/10/09/Warning--Bachelor-madness-ahead-Least-Eligible-Bachelor-is-streaming-NOW-on-etvwinFirs.jpg",
       "firstSeenAt": "2026-10-09T16:10:08.909Z"
+    },
+    {
+      "title": "Eyes",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Eyes (2026) S01 EP(01-07) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam] - 8.5GB + Rips]",
+      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200204-eyes-2026-s01-ep-01-07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-dd51-256kbps-87gb-4gb-1gb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/10/08/836882308_2221016835131076_8771974365834157236_n.jpg",
+      "firstSeenAt": "2026-10-09T02:07:39.347Z"
     },
     {
       "title": "Prince of Mollywood",
