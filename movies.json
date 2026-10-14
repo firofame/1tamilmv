@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.capital/",
-  "scrapedAt": "2026-10-14T01:56:15.999Z",
+  "scrapedAt": "2026-10-14T07:35:54.197Z",
   "topUpdatedAt": "2026-10-14T01:56:15.999Z",
   "movies": [
     {
@@ -1592,6 +1592,19 @@
   ],
   "tvShows": [
     {
+      "title": "Brothers And Sisters",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Brothers And Sisters (2026) S01 EP (01-84) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - (AAC 2.0) - 2.2GB]",
+      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/198255-brothers-and-sisters-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-37gb-15gb-700mb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/05/26/HJRAN8Ya8AA32y1.jpg",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "Least Eligible Bachelor",
       "year": 2026,
       "type": "tv_show",
@@ -1693,19 +1706,6 @@
       "releaseTitle": "Carrie (2026) S01 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - (DD+5.1 - 192Kbps) - 5GB + Rips]",
       "url": "https://www.1tamilmv.capital/index.php?/forums/topic/200175-carrie-2026-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
       "poster": "https://pbs.twimg.com/media/HTJ866UaIAA7MQ5?format=jpg&name=4096x4096",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "Brothers And Sisters",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Brothers And Sisters (2026) S01 EP (01-80) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - (AAC 2.0) - 2.2GB]",
-      "url": "https://www.1tamilmv.capital/index.php?/forums/topic/198255-brothers-and-sisters-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-37gb-15gb-700mb-esub/",
-      "poster": "https://www.pixelbb.com/images/2026/05/26/HJRAN8Ya8AA32y1.jpg",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
