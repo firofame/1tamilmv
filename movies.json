@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.solar/",
-  "scrapedAt": "2026-10-15T01:27:09.316Z",
+  "scrapedAt": "2026-10-15T07:24:04.451Z",
   "topUpdatedAt": "2026-10-15T01:27:09.316Z",
   "movies": [
     {
@@ -9,7 +9,8 @@
       "type": "movie",
       "language": "Malayalam",
       "sections": [
-        "TOP RELEASES THIS WEEK"
+        "TOP RELEASES THIS WEEK",
+        "RECENTLY ADDED"
       ],
       "releaseTitle": "It's A Medical Miracle (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 10GB + Rips]",
       "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200316-its-a-medical-miracle-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
@@ -22,7 +23,8 @@
       "type": "movie",
       "language": "Malayalam",
       "sections": [
-        "TOP RELEASES THIS WEEK"
+        "TOP RELEASES THIS WEEK",
+        "RECENTLY ADDED"
       ],
       "releaseTitle": "Love of Your Life (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4.5GB + Rips]",
       "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200314-love-of-your-life-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
@@ -1631,6 +1633,45 @@
   ],
   "tvShows": [
     {
+      "title": "Kappi Squad",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Kappi Squad (2026) S01 EP(01-04) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200323-kappi-squad-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-2gb-950mb-500mb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/10/15/HUnGdi_aQAAXG50.jpg",
+      "firstSeenAt": "2026-10-15T07:24:04.451Z"
+    },
+    {
+      "title": "Heart Beat",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Heart Beat (2026) S03 EP(01-48) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.6GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/199088-heart-beat-2026-s03-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-26gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HOcMl8xbMAAsmMI?format=jpg&name=medium",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "Batchmates",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Batchmates (2026) S01 EP (01-100) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/197892-batchmates-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-5gb-35gb-1gb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/04/29/HDbI5MOa4AAeAr6.jpg",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "Brothers And Sisters",
       "year": 2026,
       "type": "tv_show",
@@ -1706,32 +1747,6 @@
       "releaseTitle": "Part Timers (2026) S01 EP (01-28) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.4GB + Rips]",
       "url": "https://www.1tamilmv.solar/index.php?/forums/topic/199482-part-timers-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-24gb-1gb-500mb-esub/",
       "poster": "https://pbs.twimg.com/media/HQx8YsxasAA7lRT?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "Heart Beat",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Heart Beat (2026) S03 EP(01-44) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.6GB + Rips]",
-      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/199088-heart-beat-2026-s03-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-26gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HOcMl8xbMAAsmMI?format=jpg&name=medium",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "Batchmates",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Batchmates (2026) S01 EP (01-96) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/197892-batchmates-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-5gb-35gb-1gb-esub/",
-      "poster": "https://www.pixelbb.com/images/2026/04/29/HDbI5MOa4AAeAr6.jpg",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
