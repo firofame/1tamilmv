@@ -1,8 +1,34 @@
 {
   "source": "https://www.1tamilmv.solar/",
-  "scrapedAt": "2026-10-21T07:35:54.616Z",
+  "scrapedAt": "2026-10-21T22:19:00.807Z",
   "topUpdatedAt": "2026-10-21T01:33:28.092Z",
   "movies": [
+    {
+      "title": "The Paradise",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Paradise (2026) UHD + ESub - [4K, 1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 27GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200474-the-paradise-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HS-CGCGaMAAsbFL?format=jpg&name=large",
+      "firstSeenAt": "2026-10-21T22:19:00.807Z"
+    },
+    {
+      "title": "Nishaanchi",
+      "year": 2025,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Nishaanchi (2025) UHD + ESub - [1080p & 720p - AVC / HEVC - [Malayalam + Kannada] - 3.7GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200473-nishaanchi-2025-true-web-dl-1080p-720p-avc%C2%A0-malayalam-kannada-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://image.tmdb.org/t/p/original/aDI8pTr7QDs1QnDKCKsAoEampZj.jpg",
+      "firstSeenAt": "2026-10-21T22:19:00.807Z"
+    },
     {
       "title": "Masterplan",
       "year": 2026,
@@ -1656,6 +1682,19 @@
     }
   ],
   "tvShows": [
+    {
+      "title": "The Terminal List",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Terminal List (2026) S02 EP(01-08) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 7GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200459-the-terminal-list-2026-s02-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/10/21/847747678_2264421347839534_2029197602133733959_n.jpg",
+      "firstSeenAt": "2026-10-21T22:19:00.807Z"
+    },
     {
       "title": "Brothers And Sisters",
       "year": 2026,
