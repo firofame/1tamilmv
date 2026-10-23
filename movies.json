@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.solar/",
-  "scrapedAt": "2026-10-23T07:28:52.006Z",
+  "scrapedAt": "2026-10-23T13:23:32.057Z",
   "topUpdatedAt": "2026-10-23T01:28:55.247Z",
   "movies": [
     {
@@ -1736,6 +1736,32 @@
   ],
   "tvShows": [
     {
+      "title": "The Court",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Court (2026) S01 EP (01-28) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "Prince of Mollywood",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-28) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "The Legend of Hanuman",
       "year": 2026,
       "type": "tv_show",
@@ -1785,32 +1811,6 @@
       "releaseTitle": "Brothers And Sisters (2026) S01 EP (01-88) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - (AAC 2.0) - 2.2GB]",
       "url": "https://www.1tamilmv.solar/index.php?/forums/topic/198255-brothers-and-sisters-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-37gb-15gb-700mb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/05/26/HJRAN8Ya8AA32y1.jpg",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "Prince of Mollywood",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-24) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.3GB + Rips]",
-      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "The Court",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "The Court (2026) S01 EP (01-28) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2GB + Rips]",
-      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-5gb-35gb-1gb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
