@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.solar/",
-  "scrapedAt": "2026-10-23T01:28:55.247Z",
+  "scrapedAt": "2026-10-23T07:28:52.006Z",
   "topUpdatedAt": "2026-10-23T01:28:55.247Z",
   "movies": [
     {
@@ -9,12 +9,26 @@
       "type": "movie",
       "language": "Malayalam",
       "sections": [
-        "TOP RELEASES THIS WEEK"
+        "TOP RELEASES THIS WEEK",
+        "RECENTLY ADDED"
       ],
       "releaseTitle": "Dhoomakethu (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.7GB + Rips]",
       "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200496-dhoomakethu-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/10/22/LTkzZDAtM2Jma59f663eaa50fd92.jpg",
       "firstSeenAt": "2026-10-23T01:28:55.247Z"
+    },
+    {
+      "title": "Dorothy",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Dorothy (2026) UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 15GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200513-dorothy-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HT-eVCgaMAANHAi?format=jpg&name=large",
+      "firstSeenAt": "2026-10-23T07:28:52.006Z"
     },
     {
       "title": "Aaru Aanugal",
@@ -1721,6 +1735,19 @@
     }
   ],
   "tvShows": [
+    {
+      "title": "The Legend of Hanuman",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Legend of Hanuman (2026) S07 HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 5.4GB + Rips]",
+      "url": "https://www.1tamilmv.solar/index.php?/forums/topic/200516-the-legend-of-hanuman-2026-s07-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-dd51-192kbps-5gb-18gb-750mb-esub/",
+      "poster": "https://bingeddata.s3.amazonaws.com/uploads/2026/10/5PBsrG43twpomowfSHjNfug7FWF-768x1152.jpg",
+      "firstSeenAt": "2026-10-23T07:28:52.006Z"
+    },
     {
       "title": "Heart Beat",
       "year": 2026,
