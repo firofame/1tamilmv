@@ -96,9 +96,12 @@ console.log(JSON.stringify(result, null, 2));
 
 The GitHub Pages site is a lightweight static page: no framework, build step,
 tracking, or external fonts. It reads `movies.json` from the same directory.
-It has two-column poster cards, 44px touch targets, search, movie/TV filters,
-weekly/recent tabs, episode labels, lazy-loaded posters, and explicit loading,
-empty, stale-data, and error states. Supported image hosts serve smaller
+It has a compact header, two-column poster cards, 44px touch targets, search,
+movie/TV filters, episode labels, lazy-loaded posters, and explicit loading,
+empty, stale-data, and error states. Weekly top picks lead a single combined
+list, followed by recently added titles; entries in both sections appear only
+once. Top picks retain their badges, and update timestamps sit in the footer
+to keep the cards close to the top of the screen. Supported image hosts serve smaller
 mobile-sized artwork; original poster URLs remain unchanged in the JSON.
 The layout is designed for 320-430px
 mobile screens; wider screens retain a phone-width layout.

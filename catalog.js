@@ -45,11 +45,12 @@ export function posterUrl(value) {
   return url.href;
 }
 
-export function filterEntries(entries, { section = 'recent', type = 'all', query = '' } = {}) {
+export function filterEntries(entries, { type = 'all', query = '' } = {}) {
   const search = query.trim().toLocaleLowerCase();
-  return entries.filter((entry) => entry.sections.includes(SECTION_NAMES[section])
+  return entries.filter((entry) => entry.sections.some((section) => Object.values(SECTION_NAMES).includes(section))
     && (type === 'all' || entry.type === type)
-    && `${entry.title} ${entry.year ?? ''}`.toLocaleLowerCase().includes(search));
+    && `${entry.title} ${entry.year ?? ''}`.toLocaleLowerCase().includes(search))
+    .sort((a, b) => Number(b.sections.includes(SECTION_NAMES.top)) - Number(a.sections.includes(SECTION_NAMES.top)));
 }
 
 export function episodeLabel(releaseTitle = '') {

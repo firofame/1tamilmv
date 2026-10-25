@@ -1,7 +1,7 @@
 import { episodeLabel, filterEntries, posterUrl, safeUrl, validateCatalog } from './catalog.js';
 
 const get = (id) => document.getElementById(id);
-const state = { section: 'recent', type: 'all', query: '', entries: [] };
+const state = { type: 'all', query: '', entries: [] };
 let catalog;
 
 function formattedDate(value) {
@@ -70,18 +70,17 @@ function makeCard(entry, index) {
 function render() {
   if (!catalog) return;
   const filtered = filterEntries(state.entries, state);
-  const sectionEntries = filterEntries(state.entries, { section: state.section });
-  get('all-count').textContent = sectionEntries.length;
-  get('movie-count').textContent = sectionEntries.filter((entry) => entry.type === 'movie').length;
-  get('tv-count').textContent = sectionEntries.filter((entry) => entry.type === 'tv_show').length;
-  get('results-heading').textContent = state.section === 'top' ? 'Top releases this week' : 'Recently added';
+  const allEntries = filterEntries(state.entries);
+  get('all-count').textContent = allEntries.length;
+  get('movie-count').textContent = allEntries.filter((entry) => entry.type === 'movie').length;
+  get('tv-count').textContent = allEntries.filter((entry) => entry.type === 'tv_show').length;
   get('result-count').textContent = `${filtered.length} ${filtered.length === 1 ? 'title' : 'titles'}`;
   const fragment = document.createDocumentFragment();
   filtered.forEach((entry, index) => fragment.append(makeCard(entry, index)));
   get('cards').replaceChildren(fragment);
   get('empty').hidden = filtered.length > 0;
-  get('top-updated').hidden = state.section !== 'top';
-  if (catalog) get('top-updated').textContent = `Top picks refreshed ${formattedDate(catalog.topUpdatedAt ?? catalog.scrapedAt)}`;
+  get('top-updated').hidden = false;
+  get('top-updated').textContent = `Top picks refreshed ${formattedDate(catalog.topUpdatedAt ?? catalog.scrapedAt)}`;
 }
 
 async function loadCatalog() {
@@ -120,13 +119,6 @@ async function loadCatalog() {
   }
 }
 
-for (const button of document.querySelectorAll('[data-section]')) {
-  button.addEventListener('click', () => {
-    state.section = button.dataset.section;
-    for (const tab of document.querySelectorAll('[data-section]')) tab.setAttribute('aria-pressed', String(tab === button));
-    render();
-  });
-}
 for (const button of document.querySelectorAll('[data-type]')) {
   button.addEventListener('click', () => {
     state.type = button.dataset.type;

@@ -5,13 +5,24 @@ import { episodeLabel, filterEntries, posterUrl, safeUrl, validateCatalog } from
 const recent = { title: 'River', year: 2026, type: 'movie', sections: ['RECENTLY ADDED'], url: 'https://example.com/movie', poster: null };
 const top = { title: 'Sky', year: 2025, type: 'tv_show', sections: ['TOP RELEASES THIS WEEK', 'RECENTLY ADDED'], url: 'https://example.com/show', poster: 'https://example.com/poster.jpg' };
 
-test('filters by section, type, case-insensitive title and year', () => {
+test('combines both sections with top picks first, preserving order within each group', () => {
+  const topOnly = { ...recent, title: 'Hill', sections: ['TOP RELEASES THIS WEEK'] };
+  const recentShow = { ...top, title: 'Forest', sections: ['RECENTLY ADDED'] };
+  const entries = [recent, topOnly, recentShow, top];
+  assert.deepEqual(filterEntries(entries), [topOnly, top, recent, recentShow]);
+  assert.deepEqual(entries, [recent, topOnly, recentShow, top]);
+  assert.deepEqual(filterEntries([recent, recentShow]), [recent, recentShow]);
+  assert.deepEqual(filterEntries([topOnly, top]), [topOnly, top]);
+  assert.deepEqual(filterEntries([]), []);
+});
+
+test('filters the combined list by type, case-insensitive title and year', () => {
   const entries = [recent, top];
-  assert.equal(filterEntries(entries).length, 2);
-  assert.deepEqual(filterEntries(entries, { section: 'top' }), [top]);
+  assert.deepEqual(filterEntries(entries), [top, recent]);
   assert.deepEqual(filterEntries(entries, { type: 'movie', query: ' RIVER ' }), [recent]);
   assert.deepEqual(filterEntries(entries, { query: '2025' }), [top]);
-  assert.deepEqual(filterEntries(entries, { section: 'top', type: 'movie' }), []);
+  assert.deepEqual(filterEntries(entries, { type: 'tv_show' }), [top]);
+  assert.deepEqual(filterEntries(entries, { type: 'movie', query: 'Sky' }), []);
 });
 
 test('validates data, rejecting invalid dates, unsupported URLs and malformed entries', () => {
