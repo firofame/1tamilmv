@@ -1,21 +1,8 @@
 {
   "source": "https://www.1tamilmv.style/",
-  "scrapedAt": "2026-10-28T23:12:48.925Z",
-  "topUpdatedAt": "2026-10-28T05:38:08.556Z",
+  "scrapedAt": "2026-10-29T02:26:02.846Z",
+  "topUpdatedAt": "2026-10-29T02:26:02.846Z",
   "movies": [
-    {
-      "title": "Drive The Pretenders",
-      "year": 2026,
-      "type": "movie",
-      "language": "Malayalam",
-      "sections": [
-        "TOP RELEASES THIS WEEK"
-      ],
-      "releaseTitle": "Drive The Pretenders (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]",
-      "url": "https://www.1tamilmv.style/index.php?/forums/topic/200592-drive-the-pretenders-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
-      "poster": "https://m.media-amazon.com/images/I/81wj2-gPIaL._AC_UY950_.jpg",
-      "firstSeenAt": "2026-10-28T05:38:08.556Z"
-    },
     {
       "title": "Baththa",
       "year": 2026,
@@ -28,6 +15,32 @@
       "url": "https://www.1tamilmv.style/index.php?/forums/topic/200605-baththa-2026-true-web-dl-4k-1080p-720p-avc-hevc-%C2%A0hindi-malayalam-kannada-dd51-640kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/10/03/02_10_2026_P_348.jpg",
       "firstSeenAt": "2026-10-28T23:12:48.925Z"
+    },
+    {
+      "title": "Ali G: Who Iz I?",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Ali G: Who Iz I? (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 3.5GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/200595-ali-g-who-iz-i-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
+      "poster": "https://image.tmdb.org/t/p/original/e0hUYHJyLuOQTjTEITPYAbVORd1.jpg",
+      "firstSeenAt": "2026-10-29T02:26:02.846Z"
+    },
+    {
+      "title": "Drive The Pretenders",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Drive The Pretenders (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/200592-drive-the-pretenders-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
+      "poster": "https://m.media-amazon.com/images/I/81wj2-gPIaL._AC_UY950_.jpg",
+      "firstSeenAt": "2026-10-28T05:38:08.556Z"
     },
     {
       "title": "Adinaasam Vellapokkam",
@@ -1774,16 +1787,16 @@
   ],
   "tvShows": [
     {
-      "title": "Brothers And Sisters",
+      "title": "Heart Beat",
       "year": 2026,
       "type": "tv_show",
       "language": "Malayalam",
       "sections": [
         "RECENTLY ADDED"
       ],
-      "releaseTitle": "Brothers And Sisters (2026) S01 EP (01-88) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.7GB + Rips]",
-      "url": "https://www.1tamilmv.style/index.php?/forums/topic/198255-brothers-and-sisters-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-37gb-15gb-700mb-esub/",
-      "poster": "https://www.pixelbb.com/images/2026/05/26/HJRAN8Ya8AA32y1.jpg",
+      "releaseTitle": "Heart Beat (2026) S01 EP (01-56) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 1.3GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/199088-heart-beat-2026-s03-ep-01-56-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-26gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HOcMl8xbMAAsmMI?format=jpg&name=medium",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
@@ -1798,6 +1811,19 @@
       "url": "https://www.1tamilmv.style/index.php?/forums/topic/200550-varam-2026-s01-ep-01-02-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-17gb-650mb-350mb-esub/",
       "poster": "https://pbs.twimg.com/media/HVEOIAla4AA0h0_?format=jpg&name=large",
       "firstSeenAt": "2026-10-25T06:04:55.036Z"
+    },
+    {
+      "title": "Brothers And Sisters",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Brothers And Sisters (2026) S01 EP (01-88) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.7GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/198255-brothers-and-sisters-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-37gb-15gb-700mb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/05/26/HJRAN8Ya8AA32y1.jpg",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
       "title": "Part Timers",
@@ -1850,19 +1876,6 @@
       "url": "https://www.1tamilmv.style/index.php?/forums/topic/200516-the-legend-of-hanuman-2026-s07-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-dd51-192kbps-5gb-18gb-750mb-esub/",
       "poster": "https://bingeddata.s3.amazonaws.com/uploads/2026/10/5PBsrG43twpomowfSHjNfug7FWF-768x1152.jpg",
       "firstSeenAt": "2026-10-23T07:28:52.006Z"
-    },
-    {
-      "title": "Heart Beat",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Heart Beat (2026) S03 EP(01-48) TRUE WEB-DL - [1080p - 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.6GB + Rips]",
-      "url": "https://www.1tamilmv.style/index.php?/forums/topic/199088-heart-beat-2026-s03-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-26gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HOcMl8xbMAAsmMI?format=jpg&name=medium",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
       "title": "The Terminal List",
