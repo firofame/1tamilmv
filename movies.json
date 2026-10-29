@@ -1,8 +1,21 @@
 {
   "source": "https://www.1tamilmv.style/",
-  "scrapedAt": "2026-10-29T02:26:02.846Z",
+  "scrapedAt": "2026-10-29T16:54:57.446Z",
   "topUpdatedAt": "2026-10-29T02:26:02.846Z",
   "movies": [
+    {
+      "title": "Immortal",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Immortal (2026) UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 16GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/200622-immortal-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRWsJaqacAA0upZ?format=jpg&name=medium",
+      "firstSeenAt": "2026-10-29T16:54:57.446Z"
+    },
     {
       "title": "Baththa",
       "year": 2026,
