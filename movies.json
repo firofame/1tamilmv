@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.style/",
-  "scrapedAt": "2026-10-30T01:56:47.432Z",
+  "scrapedAt": "2026-10-30T08:36:35.133Z",
   "topUpdatedAt": "2026-10-30T01:56:47.432Z",
   "movies": [
     {
@@ -28,6 +28,19 @@
       "url": "https://www.1tamilmv.style/index.php?/forums/topic/200638-dont-trouble-the-trouble-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-19gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/10/29/jQtYzY4Y2Q0.jpg",
       "firstSeenAt": "2026-10-30T01:56:47.432Z"
+    },
+    {
+      "title": "Sl Yugandhar",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Sl Yugandhar (2026) UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - [MAL + KAN] - 15GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/200630-si-yugandhar-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzYxYjQ2MDItZTQ2OC00NjkyLTgyMWQtY2JlZTRjMzVlNjY2XkEyXkFqcGc@._V1_.jpg",
+      "firstSeenAt": "2026-10-30T08:36:35.133Z"
     },
     {
       "title": "Sigma",
@@ -1838,6 +1851,32 @@
     }
   ],
   "tvShows": [
+    {
+      "title": "Akka",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Akka (2026) S01 EP (01-05) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 5GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/200666-akka-2026-s01-ep-01-05-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/10/30/HV3Fh-ebcAAbJfD.jpg",
+      "firstSeenAt": "2026-10-30T08:36:35.133Z"
+    },
+    {
+      "title": "Love Always",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Love Always (2026) S01 EP (01-08) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 8GB + Rips]",
+      "url": "https://www.1tamilmv.style/index.php?/forums/topic/200668-love-always-2026-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/10/30/HVx6PSKb0AA0Oqr.jpg",
+      "firstSeenAt": "2026-10-30T08:36:35.133Z"
+    },
     {
       "title": "Heart Beat",
       "year": 2026,
