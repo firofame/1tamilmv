@@ -1,8 +1,21 @@
 {
   "source": "https://www.1tamilmv.insure/",
-  "scrapedAt": "2026-11-04T06:13:31.417Z",
+  "scrapedAt": "2026-11-04T21:17:58.606Z",
   "topUpdatedAt": "2026-11-04T06:13:31.417Z",
   "movies": [
+    {
+      "title": "Tula Pahta",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Tula Pahta (2026) HD + ESub - [1080p & 720p - AVC - [HIN + MAL + KAN] - 5.9GB + Rips]",
+      "url": "https://www.1tamilmv.insure/index.php?/forums/topic/200762-tula-pahta-2026-true-web-dl-1080p-720p-avc-hevc-hindi-malayalam-kannada-dd51-640kbps-59gb-21gb-12gb-950mb-x264-700mb-400mb-esub/",
+      "poster": "https://image.tmdb.org/t/p/original/iYaivVOAflK4kcJDUNNxkyminxZ.jpg",
+      "firstSeenAt": "2026-11-04T21:17:58.606Z"
+    },
     {
       "title": "Jennifer",
       "year": 2026,
