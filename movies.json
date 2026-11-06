@@ -1,15 +1,40 @@
 {
   "source": "https://www.1tamilmv.insure/",
-  "scrapedAt": "2026-11-05T10:49:29.725Z",
-  "topUpdatedAt": "2026-11-05T02:24:38.888Z",
+  "scrapedAt": "2026-11-06T00:13:15.204Z",
+  "topUpdatedAt": "2026-11-06T00:13:15.204Z",
   "movies": [
+    {
+      "title": "I'm Game",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "TOP RELEASES THIS WEEK"
+      ],
+      "releaseTitle": "I'm Game (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 768Kbps) - 23GB + Rips]",
+      "url": "https://www.1tamilmv.insure/index.php?/forums/topic/200794-im-game-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRQzXvtaoAAZStE?format=jpg&name=large",
+      "firstSeenAt": "2026-11-06T00:13:15.204Z"
+    },
+    {
+      "title": "ICU",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "ICU (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 3.9GB + Rips]",
+      "url": "https://www.1tamilmv.insure/index.php?/forums/topic/200804-icu-2026-malayalam-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://cdn.district.in/movies-assets/images/cinema/ICU-3f7a6450-122d-11f1-aade-1359edf51e76.jpg?im=Resize,width=920",
+      "firstSeenAt": "2026-11-06T00:13:15.204Z"
+    },
     {
       "title": "The Mongoose",
       "year": 2026,
       "type": "movie",
       "language": "Malayalam",
       "sections": [
-        "TOP RELEASES THIS WEEK",
         "RECENTLY ADDED"
       ],
       "releaseTitle": "The Mongoose (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4GB + Rips]",
