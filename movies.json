@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.io/",
-  "scrapedAt": "2026-11-11T02:50:00.069Z",
+  "scrapedAt": "2026-11-11T10:52:51.240Z",
   "topUpdatedAt": "2026-11-11T02:50:00.069Z",
   "movies": [
     {
@@ -1930,6 +1930,32 @@
   ],
   "tvShows": [
     {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Lord of the Rings: The Rings of Power (2026) S03 EP (01-04) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 4GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200898-the-lord-of-the-rings-the-rings-of-power-2026-s03-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
+      "poster": "https://pbs.twimg.com/media/HW1G-Y7bUAAY3Im?format=jpg&name=medium",
+      "firstSeenAt": "2026-11-11T10:52:51.240Z"
+    },
+    {
+      "title": "Brothers And Sisters",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Brothers And Sisters (2026) S01 EP (01-100) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.7GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/198255-brothers-and-sisters-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-37gb-15gb-700mb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/05/26/HJRAN8Ya8AA32y1.jpg",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "Campus Drivers",
       "year": 2026,
       "type": "tv_show",
@@ -2006,19 +2032,6 @@
       "url": "https://www.1tamilmv.io/index.php?/forums/topic/200550-varam-2026-s01-ep-01-02-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-17gb-650mb-350mb-esub/",
       "poster": "https://pbs.twimg.com/media/HVEOIAla4AA0h0_?format=jpg&name=large",
       "firstSeenAt": "2026-10-25T06:04:55.036Z"
-    },
-    {
-      "title": "Brothers And Sisters",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Brothers And Sisters (2026) S01 EP (01-96) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN] - 2.7GB + Rips]",
-      "url": "https://www.1tamilmv.io/index.php?/forums/topic/198255-brothers-and-sisters-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-37gb-15gb-700mb-esub/",
-      "poster": "https://www.pixelbb.com/images/2026/05/26/HJRAN8Ya8AA32y1.jpg",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
       "title": "Akka",
