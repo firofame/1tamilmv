@@ -1,8 +1,21 @@
 {
   "source": "https://www.1tamilmv.io/",
-  "scrapedAt": "2026-11-11T10:52:51.240Z",
-  "topUpdatedAt": "2026-11-11T02:50:00.069Z",
+  "scrapedAt": "2026-11-12T01:31:47.956Z",
+  "topUpdatedAt": "2026-11-12T01:31:47.956Z",
   "movies": [
+    {
+      "title": "Jailer 2",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "TOP RELEASES THIS WEEK"
+      ],
+      "releaseTitle": "Jailer 2 (2026) Malayalam TRUE UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 15GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200911-jailer-2-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://www.1tamilmv.io/uploads/monthly_2026_11/j2.jpg.99f40ee0a20dc18cb8c8a6d7838744af.jpg",
+      "firstSeenAt": "2026-11-12T01:31:47.956Z"
+    },
     {
       "title": "I'm Game",
       "year": 2026,
