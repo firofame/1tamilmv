@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.io/",
-  "scrapedAt": "2026-11-12T09:47:14.784Z",
+  "scrapedAt": "2026-11-12T23:41:00.626Z",
   "topUpdatedAt": "2026-11-12T01:31:47.956Z",
   "movies": [
     {
@@ -16,6 +16,71 @@
       "url": "https://www.1tamilmv.io/index.php?/forums/topic/200911-jailer-2-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://www.1tamilmv.io/uploads/monthly_2026_11/j2.jpg.99f40ee0a20dc18cb8c8a6d7838744af.jpg",
       "firstSeenAt": "2026-11-12T01:31:47.956Z"
+    },
+    {
+      "title": "Daayra",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Daayra (2026) UHD + ESub - [4K, 1080p & 720p - AVC - [Hindi + Malayalam] - 6GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200942-daayra-2026-true-web-dl-1080p-720p-avc-dd51-640kbps-hindi-malayalam-28gb-14gb-950mb-x264-750mb-450mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HSKKqTCacAA0Xai?format=jpg&name=large",
+      "firstSeenAt": "2026-11-12T23:41:00.626Z"
+    },
+    {
+      "title": "The Third Murder",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Third Murder (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD5.1 - 384Kbps) - 10GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200935-the-third-murder-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://cdn.district.in/movies-assets/images/cinema/_Poster%20(37)-e4bcedc0-bbce-11f1-8a95-830114cb60b9.jpg",
+      "firstSeenAt": "2026-11-12T23:41:00.626Z"
+    },
+    {
+      "title": "Madhurame Jeevitham",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Madhurame Jeevitham (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD5.1 - 640Kbps) - 3.6GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200953-madhurame-jeevitham-2026-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-36gb-19gb-850mb-x264-500mb-350mb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/11/12/maduramee_jeevitham_poster01.jpg",
+      "firstSeenAt": "2026-11-12T23:41:00.626Z"
+    },
+    {
+      "title": "Ranabaali",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Ranabaali (2026) UHD + ESub - [4K, 1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 15GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200944-ranabaali-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HCOMtdMbEAA04SL?format=webp&name=large",
+      "firstSeenAt": "2026-11-12T23:41:00.626Z"
+    },
+    {
+      "title": "Bandra",
+      "year": 2023,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Bandra (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200948-bandra-2023-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-2gb-1gb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjUxMmQ2OGQtMTVjOC00OGIwLWE3MjAtMjE4MmJhYTAwNTQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "firstSeenAt": "2026-11-12T23:41:00.626Z"
     },
     {
       "title": "I'm Game",
