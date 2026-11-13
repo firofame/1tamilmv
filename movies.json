@@ -1,22 +1,8 @@
 {
   "source": "https://www.1tamilmv.io/",
-  "scrapedAt": "2026-11-12T23:41:00.626Z",
-  "topUpdatedAt": "2026-11-12T01:31:47.956Z",
+  "scrapedAt": "2026-11-13T06:39:38.956Z",
+  "topUpdatedAt": "2026-11-13T06:39:38.956Z",
   "movies": [
-    {
-      "title": "Jailer 2",
-      "year": 2026,
-      "type": "movie",
-      "language": "Malayalam",
-      "sections": [
-        "TOP RELEASES THIS WEEK",
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Jailer 2 (2026) Malayalam TRUE UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20GB + Rips]",
-      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200911-jailer-2-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
-      "poster": "https://www.1tamilmv.io/uploads/monthly_2026_11/j2.jpg.99f40ee0a20dc18cb8c8a6d7838744af.jpg",
-      "firstSeenAt": "2026-11-12T01:31:47.956Z"
-    },
     {
       "title": "Daayra",
       "year": 2026,
@@ -41,6 +27,19 @@
       "releaseTitle": "The Third Murder (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD5.1 - 384Kbps) - 10GB + Rips]",
       "url": "https://www.1tamilmv.io/index.php?/forums/topic/200935-the-third-murder-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-17gb-4gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://cdn.district.in/movies-assets/images/cinema/_Poster%20(37)-e4bcedc0-bbce-11f1-8a95-830114cb60b9.jpg",
+      "firstSeenAt": "2026-11-12T23:41:00.626Z"
+    },
+    {
+      "title": "Bandra",
+      "year": 2023,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Bandra (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200948-bandra-2023-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-2gb-1gb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjUxMmQ2OGQtMTVjOC00OGIwLWE3MjAtMjE4MmJhYTAwNTQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "firstSeenAt": "2026-11-12T23:41:00.626Z"
     },
     {
@@ -70,17 +69,17 @@
       "firstSeenAt": "2026-11-12T23:41:00.626Z"
     },
     {
-      "title": "Bandra",
-      "year": 2023,
+      "title": "Jailer 2",
+      "year": 2026,
       "type": "movie",
       "language": "Malayalam",
       "sections": [
         "RECENTLY ADDED"
       ],
-      "releaseTitle": "Bandra (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
-      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200948-bandra-2023-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-2gb-1gb-x264-700mb-400mb-250mb-esub/",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjUxMmQ2OGQtMTVjOC00OGIwLWE3MjAtMjE4MmJhYTAwNTQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "firstSeenAt": "2026-11-12T23:41:00.626Z"
+      "releaseTitle": "Jailer 2 (2026) Malayalam TRUE UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 20GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200911-jailer-2-2026-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://www.1tamilmv.io/uploads/monthly_2026_11/j2.jpg.99f40ee0a20dc18cb8c8a6d7838744af.jpg",
+      "firstSeenAt": "2026-11-12T01:31:47.956Z"
     },
     {
       "title": "I'm Game",
@@ -2009,6 +2008,45 @@
   ],
   "tvShows": [
     {
+      "title": "The Court",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Court (2026) S01 EP (01-44) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "Student of the Year: After Dark",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Student of the Year: After Dark (2026) S01 EP (01-06) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 7.5GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200962-student-of-the-year-after-dark-2026-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-75gb-29gb-13gb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/11/13/HW8YBQ7a0AADddu.jpg",
+      "firstSeenAt": "2026-11-13T06:39:38.956Z"
+    },
+    {
+      "title": "Part Timers",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Part Timers (2026) S01 EP (01-48) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/199482-part-timers-2026-s01-ep-01-40-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-24gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HQx8YsxasAA7lRT?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "Heart Beat",
       "year": 2026,
       "type": "tv_show",
@@ -2074,19 +2112,6 @@
       "firstSeenAt": "2026-11-06T15:00:00.104Z"
     },
     {
-      "title": "The Court",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "The Court (2026) S01 EP (01-40) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.io/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
       "title": "Prince of Mollywood",
       "year": 2026,
       "type": "tv_show",
@@ -2097,19 +2122,6 @@
       "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-36) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
       "url": "https://www.1tamilmv.io/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
       "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "Part Timers",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Part Timers (2026) S01 EP (01-44) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.io/index.php?/forums/topic/199482-part-timers-2026-s01-ep-01-40-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-24gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HQx8YsxasAA7lRT?format=jpg&name=large",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
