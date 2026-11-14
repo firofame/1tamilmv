@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.io/",
-  "scrapedAt": "2026-11-14T02:25:49.311Z",
+  "scrapedAt": "2026-11-14T10:20:18.203Z",
   "topUpdatedAt": "2026-11-14T02:25:49.311Z",
   "movies": [
     {
@@ -2021,6 +2021,19 @@
   ],
   "tvShows": [
     {
+      "title": "Prince of Mollywood",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-40) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "The Court",
       "year": 2026,
       "type": "tv_show",
@@ -2123,19 +2136,6 @@
       "url": "https://www.1tamilmv.io/index.php?/forums/topic/200829-campus-drivers-2026-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
       "poster": "https://m.media-amazon.com/images/M/MV5BZTJmZmM1MjctNDE0Mi00Y2I3LWFmNGEtZDJlNWM0MjQ2YjVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "firstSeenAt": "2026-11-06T15:00:00.104Z"
-    },
-    {
-      "title": "Prince of Mollywood",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-36) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.io/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
       "title": "Varam",
