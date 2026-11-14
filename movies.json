@@ -1,8 +1,21 @@
 {
   "source": "https://www.1tamilmv.io/",
-  "scrapedAt": "2026-11-13T06:39:38.956Z",
-  "topUpdatedAt": "2026-11-13T06:39:38.956Z",
+  "scrapedAt": "2026-11-14T02:25:49.311Z",
+  "topUpdatedAt": "2026-11-14T02:25:49.311Z",
   "movies": [
+    {
+      "title": "Obsession",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "TOP RELEASES THIS WEEK"
+      ],
+      "releaseTitle": "Obsession (2026) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 2.4GB + Rips]",
+      "url": "https://www.1tamilmv.io/index.php?/forums/topic/200980-obsession-2026-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
+      "poster": "https://i.postimg.cc/jCY24fJK/1.jpg",
+      "firstSeenAt": "2026-11-14T02:25:49.311Z"
+    },
     {
       "title": "Daayra",
       "year": 2026,
