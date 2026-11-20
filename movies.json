@@ -1,7 +1,7 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-19T21:29:10.631Z",
-  "topUpdatedAt": "2026-11-19T03:22:56.484Z",
+  "scrapedAt": "2026-11-20T03:10:00.647Z",
+  "topUpdatedAt": "2026-11-20T03:10:00.647Z",
   "movies": [
     {
       "title": "Our Girls",
@@ -30,6 +30,19 @@
       "firstSeenAt": "2026-11-19T21:29:10.631Z"
     },
     {
+      "title": "Oru Vadakkan Velicham",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Oru Vadakkan Velicham (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.2GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201171-oru-vadakkan-velicham-2026-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-950mb-esub/",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDgzNWRhMGItNjllNC00ZGE4LTk0YzgtNTdmZTExOWM5YWQzXkEyXkFqcGc@._V1_.jpg",
+      "firstSeenAt": "2026-11-20T03:10:00.647Z"
+    },
+    {
       "title": "Haiku",
       "year": 2026,
       "type": "movie",
@@ -41,6 +54,19 @@
       "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201149-haiku-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
       "poster": "https://pbs.twimg.com/media/HVcL5vsaIAAUgzE?format=jpg&name=large",
       "firstSeenAt": "2026-11-19T21:29:10.631Z"
+    },
+    {
+      "title": "418",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "418 (2026) UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 20GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201153-418-2026-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HVWCmotbUAAbJHG?format=jpg&name=large",
+      "firstSeenAt": "2026-11-20T03:10:00.647Z"
     },
     {
       "title": "Drones",
