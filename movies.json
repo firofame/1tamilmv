@@ -1,8 +1,21 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-20T03:10:00.647Z",
+  "scrapedAt": "2026-11-20T11:31:38.803Z",
   "topUpdatedAt": "2026-11-20T03:10:00.647Z",
   "movies": [
+    {
+      "title": "Perfectos Mentirosos",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Perfectos Mentirosos (2026) (HD + Org Auds) - [1080p & 720p - x264 - (TAM + TEL + HIN + MAL + KAN + ENG) - 4.4GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201179-perfectos-mentirosos-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-malayalam-kannada-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
+      "poster": "https://m.media-amazon.com/images/I/91QGqrGinnL._AC_UY950_.jpg",
+      "firstSeenAt": "2026-11-20T11:31:38.803Z"
+    },
     {
       "title": "Our Girls",
       "year": 2025,
@@ -2099,6 +2112,32 @@
   ],
   "tvShows": [
     {
+      "title": "Prince of Mollywood",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-44) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "The Court",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Court (2026) S01 EP (01-48) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "Heart Beat",
       "year": 2026,
       "type": "tv_show",
@@ -2149,32 +2188,6 @@
       "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201093-mr-mrs-office-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-18gb-850mb-450mb-esub/",
       "poster": "https://pbs.twimg.com/media/HXWKSLgbgAAgSud?format=jpg&name=4096x4096",
       "firstSeenAt": "2026-11-18T04:15:52.533Z"
-    },
-    {
-      "title": "Prince of Mollywood",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-40) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "The Court",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "The Court (2026) S01 EP (01-44) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
       "title": "Student of the Year: After Dark",
