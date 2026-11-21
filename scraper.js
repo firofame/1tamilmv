@@ -1,5 +1,6 @@
 import { load } from 'cheerio';
 import { setTimeout as delay } from 'node:timers/promises';
+import { classifyAudio } from './catalog.js';
 
 export const DEFAULT_URL = 'https://www.1tamilmv.capital/';
 export const SECTIONS = ['TOP RELEASES THIS WEEK', 'RECENTLY ADDED'];
@@ -118,6 +119,7 @@ export function parseHomepage(html, baseUrl = DEFAULT_URL) {
             year: info.year,
             type: info.type,
             language: 'Malayalam',
+            ...classifyAudio(row.text),
             sections: [section],
             releaseTitle: row.text,
             url: topic.url,
@@ -262,6 +264,9 @@ export async function scrape({
       entry.poster = saved.poster;
       if (saved.type === 'tv_show') entry.type = 'tv_show';
     }
+    // Re-derive from the listing text so entries reused from older JSON get
+    // the audio classification too.
+    Object.assign(entry, classifyAudio(entry.releaseTitle));
   }
   const errors = [];
   const excluded = new Set();

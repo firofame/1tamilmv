@@ -7,9 +7,17 @@ export function needsTopRefresh(previous, now = new Date()) {
   return !previous.topUpdatedAt || lastUpdate.slice(0, 10) !== now.toISOString().slice(0, 10);
 }
 
+function canonical(value) {
+  if (Array.isArray(value)) return value.map(canonical);
+  if (value && typeof value === 'object') {
+    return Object.fromEntries(Object.keys(value).sort().map((key) => [key, canonical(value[key])]));
+  }
+  return value;
+}
+
 export function hasChanges(previous, next) {
-  const comparable = ({ scrapedAt, ...data }) => data;
-  return JSON.stringify(comparable(previous)) !== JSON.stringify(comparable(next));
+  const comparable = ({ scrapedAt, ...data }) => JSON.stringify(canonical(data));
+  return comparable(previous) !== comparable(next);
 }
 
 export async function updateFile({

@@ -44,7 +44,7 @@ for (const width of [320, 360, 390, 430]) {
     }));
     expect(measurements.page).toBeLessThanOrEqual(measurements.viewport);
     expect(measurements.columns).toBe(2);
-    expect(measurements.firstCardTop).toBeLessThanOrEqual(240);
+    expect(measurements.firstCardTop).toBeLessThanOrEqual(300);
     expect(measurements.controls.every((rect) => rect.height >= 44 && rect.width >= 44)).toBe(true);
     const brokenPoster = page.locator('.card').filter({ has: page.getByRole('heading', { name: 'River & Rain' }) });
     await expect(brokenPoster.locator('.poster-placeholder')).toHaveText('RPoster unavailable');
@@ -88,6 +88,30 @@ test('type and search filters cover both sections on a touch viewport', async ({
   await expect(page.locator('.card')).toHaveCount(0);
   await page.getByRole('searchbox').fill('');
   await expect(page.locator('.card')).toHaveCount(6);
+});
+
+test('audio filter and card labels separate original from dubbed releases', async ({ page }) => {
+  const mixed = data();
+  mixed.movies[0].dubbed = true;
+  mixed.movies[0].audioLanguages = ['Hindi', 'Malayalam'];
+  await page.route('**/movies.json', (route) => route.fulfill({ json: mixed }));
+  await page.goto('/');
+  await expect(page.getByRole('button', { name: 'Any audio 6' })).toBeVisible();
+  await expect(page.getByRole('button', { name: 'Original 5' })).toBeVisible();
+  await expect(page.getByRole('button', { name: 'Dubbed 1' })).toBeVisible();
+  await expect(page.locator('.card').filter({ has: page.getByRole('heading', { name: 'River & Rain' }) }).locator('.card-meta')).toContainText('Dubbed');
+  await expect(page.locator('.card').filter({ has: page.getByRole('heading', { name: 'Green Valley' }) }).locator('.card-meta')).toContainText('Original');
+  await page.getByRole('button', { name: /^Dubbed/ }).tap();
+  await expect(page.locator('.card h3')).toHaveText(['River & Rain']);
+  await expect(page.locator('#result-count')).toHaveText('1 title');
+  await page.getByRole('button', { name: /^Original/ }).tap();
+  await expect(page.locator('.card')).toHaveCount(5);
+  await expect(page.getByRole('button', { name: /^Any audio/ })).toHaveAttribute('aria-pressed', 'false');
+  await page.getByRole('button', { name: /^Any audio/ }).tap();
+  await expect(page.locator('.card')).toHaveCount(6);
+  await page.getByRole('searchbox').fill('valley');
+  await page.getByRole('button', { name: /^Dubbed/ }).tap();
+  await expect(page.locator('#empty')).toBeVisible();
 });
 
 test('load failures are explicit and retry recovers the list', async ({ page }) => {

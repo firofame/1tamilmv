@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { episodeLabel, filterEntries, posterUrl, safeUrl, validateCatalog } from '../catalog.js';
+import { classifyAudio, episodeLabel, filterEntries, posterUrl, safeUrl, validateCatalog } from '../catalog.js';
 
 const recent = { title: 'River', year: 2026, type: 'movie', sections: ['RECENTLY ADDED'], url: 'https://example.com/movie', poster: null };
 const top = { title: 'Sky', year: 2025, type: 'tv_show', sections: ['TOP RELEASES THIS WEEK', 'RECENTLY ADDED'], url: 'https://example.com/show', poster: 'https://example.com/poster.jpg' };
@@ -27,14 +27,44 @@ test('filters the combined list by type, case-insensitive title and year', () =>
 
 test('validates data, rejecting invalid dates, unsupported URLs and malformed entries', () => {
   const data = { movies: [recent], tvShows: [top], errors: [], scrapedAt: new Date().toISOString() };
-  assert.deepEqual(validateCatalog(data), [recent, top]);
+  assert.deepEqual(validateCatalog(data), [
+    { ...recent, dubbed: false, audioLanguages: [] },
+    { ...top, dubbed: false, audioLanguages: [] },
+  ]);
   assert.throws(() => validateCatalog({ ...data, scrapedAt: 'invalid' }), /invalid/);
   assert.throws(() => validateCatalog({ ...data, topUpdatedAt: 'invalid' }), /invalid/);
   assert.throws(() => validateCatalog({ ...data, movies: [{ ...recent, url: 'javascript:alert(1)' }] }), /invalid entry/);
   assert.throws(() => validateCatalog({ ...data, movies: [{ ...recent, poster: '/relative.jpg' }] }), /invalid entry/);
+  assert.throws(() => validateCatalog({ ...data, movies: [{ ...recent, dubbed: 'yes' }] }), /invalid entry/);
+  assert.throws(() => validateCatalog({ ...data, movies: [{ ...recent, audioLanguages: 'Malayalam' }] }), /invalid entry/);
   assert.equal(safeUrl('https://example.com/poster.jpg'), 'https://example.com/poster.jpg');
   assert.equal(safeUrl('file:///etc/passwd'), null);
   assert.equal(safeUrl(undefined), null);
+});
+
+test('classifies dubbed audio only when languages appear inside a bracketed list', () => {
+  assert.deepEqual(classifyAudio('Chiram (2026) Malayalam UHD + ESub - [4K - (DD+5.1) - 5.7GB]'), {
+    dubbed: false, audioLanguages: ['Malayalam'],
+  });
+  assert.deepEqual(classifyAudio('418 (2026) UHD + ESub - [4K - [HIN + MAL + KAN] - 20GB]'), {
+    dubbed: true, audioLanguages: ['Hindi', 'Malayalam', 'Kannada'],
+  });
+  assert.deepEqual(classifyAudio('Madden (2026) (HD + Org Auds) - [1080p - (TAM + TEL + HIN + MAL + KAN + ENG)]'), {
+    dubbed: true, audioLanguages: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada', 'English'],
+  });
+  assert.deepEqual(classifyAudio('Daayra (2026) UHD + ESub - [4K - [Hindi + Malayalam] - 6GB]'), {
+    dubbed: true, audioLanguages: ['Hindi', 'Malayalam'],
+  });
+  assert.deepEqual(classifyAudio('Undated Malayalam HD'), { dubbed: false, audioLanguages: ['Malayalam'] });
+});
+
+test('filters by original versus dubbed audio', () => {
+  const dubbed = { ...recent, title: 'Dub', dubbed: true, audioLanguages: ['Hindi', 'Malayalam'] };
+  const entries = [dubbed, recent, top];
+  assert.deepEqual(filterEntries(entries, { audio: 'dubbed' }), [dubbed]);
+  assert.deepEqual(filterEntries(entries, { audio: 'original' }), [top, recent]);
+  assert.deepEqual(filterEntries(entries, { audio: 'all' }), [top, dubbed, recent]);
+  assert.deepEqual(filterEntries(entries, { type: 'movie', audio: 'original', query: 'river' }), [recent]);
 });
 
 test('extracts episode labels without assuming every entry is episodic', () => {
