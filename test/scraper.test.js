@@ -33,6 +33,25 @@ test('reads complete rows, only target sections, Malayalam audio, and merges dup
   assert.equal(entries[0].url, new URL(topic(1), DEFAULT_URL).href);
   assert.equal(entries[1].type, 'tv_show');
   assert.equal(entries[1].poster, null);
+  assert.equal(entries[0].dubbed, false);
+  assert.deepEqual(entries[0].audioLanguages, ['Malayalam']);
+  assert.equal(entries[1].dubbed, true);
+  assert.deepEqual(entries[1].audioLanguages, ['Tamil', 'Malayalam', 'English']);
+});
+
+test('classifies original and dubbed audio from release titles', () => {
+  const entries = parseHomepage(home(
+    `${link(1, 'Original (2026) Malayalam UHD + ESub - [4K - (DD+5.1)]')}<br>
+    ${link(2, 'Dubbed (2026) UHD + ESub - [4K - [HIN + MAL + KAN]]')}<br>
+    ${link(3, 'Spelled Dub (2026) UHD - [Hindi + Malayalam]')}`,
+    link(99, 'Other (2026) Tamil'),
+  ));
+  assert.deepEqual(entries.map((entry) => entry.dubbed), [false, true, true]);
+  assert.deepEqual(entries.map((entry) => entry.audioLanguages), [
+    ['Malayalam'],
+    ['Hindi', 'Malayalam', 'Kannada'],
+    ['Hindi', 'Malayalam'],
+  ]);
 });
 
 test('skips PreDVD variants in row text and URLs but preserves legitimate HD releases', () => {

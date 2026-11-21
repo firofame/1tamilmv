@@ -16,7 +16,7 @@ const response = (html, address = DEFAULT_URL, status = 200) => ({
 const entry = (id, sections) => ({
   title: `Title ${id}`, year: 2026, type: 'movie', language: 'Malayalam', sections,
   releaseTitle: `Title ${id} (2026) Malayalam HD`, url: url(id), poster: `https://images.example/${id}.jpg`,
-  firstSeenAt: '2026-01-01T00:00:00.000Z',
+  firstSeenAt: '2026-01-01T00:00:00.000Z', dubbed: false, audioLanguages: ['Malayalam'],
 });
 const previous = () => ({
   source: DEFAULT_URL, scrapedAt: '2026-01-01T00:00:00.000Z', topUpdatedAt: new Date().toISOString(),
@@ -61,6 +61,21 @@ test('daily checks replace top membership without refetching cached posters', as
   assert.deepEqual(result.movies[0].sections, ['TOP RELEASES THIS WEEK']);
   assert.deepEqual(result.movies[1].sections, ['RECENTLY ADDED']);
   assert.equal(result.topUpdatedAt, result.scrapedAt);
+});
+
+test('backfills audio classification for entries reused from older JSON', async () => {
+  const saved = previous();
+  saved.movies[0].releaseTitle = 'Title 1 (2026) UHD - [HIN + MAL + KAN]';
+  delete saved.movies[0].dubbed;
+  delete saved.movies[0].audioLanguages;
+  const result = await scrape({
+    previous: saved,
+    refreshTop: false,
+    fetchImpl: async (address) => response(home(row(4), row(2))),
+  });
+  const first = result.movies.find((movie) => movie.title === 'Title 1');
+  assert.equal(first.dubbed, true);
+  assert.deepEqual(first.audioLanguages, ['Hindi', 'Malayalam', 'Kannada']);
 });
 
 test('known missing posters are cached, while previously failed details are retried', async () => {

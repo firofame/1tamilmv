@@ -1,7 +1,7 @@
 import { episodeLabel, filterEntries, posterUrl, safeUrl, validateCatalog } from './catalog.js';
 
 const get = (id) => document.getElementById(id);
-const state = { type: 'all', query: '', entries: [] };
+const state = { type: 'all', audio: 'all', query: '', entries: [] };
 let catalog;
 
 function formattedDate(value) {
@@ -55,7 +55,7 @@ function makeCard(entry, index) {
   title.append(link);
   const meta = document.createElement('p');
   meta.className = 'card-meta';
-  meta.textContent = `${entry.year ?? 'Year unknown'} / ${entry.type === 'tv_show' ? 'TV show' : 'Movie'} / MAL`;
+  meta.textContent = `${entry.year ?? 'Year unknown'} / ${entry.type === 'tv_show' ? 'TV show' : 'Movie'} / MAL / ${entry.dubbed ? 'Dubbed' : 'Original'}`;
   card.append(poster, title, meta);
   const episode = episodeLabel(entry.releaseTitle);
   if (episode) {
@@ -74,6 +74,9 @@ function render() {
   get('all-count').textContent = allEntries.length;
   get('movie-count').textContent = allEntries.filter((entry) => entry.type === 'movie').length;
   get('tv-count').textContent = allEntries.filter((entry) => entry.type === 'tv_show').length;
+  get('audio-all-count').textContent = allEntries.length;
+  get('original-count').textContent = allEntries.filter((entry) => !entry.dubbed).length;
+  get('dubbed-count').textContent = allEntries.filter((entry) => entry.dubbed).length;
   get('result-count').textContent = `${filtered.length} ${filtered.length === 1 ? 'title' : 'titles'}`;
   const fragment = document.createDocumentFragment();
   filtered.forEach((entry, index) => fragment.append(makeCard(entry, index)));
@@ -123,6 +126,13 @@ for (const button of document.querySelectorAll('[data-type]')) {
   button.addEventListener('click', () => {
     state.type = button.dataset.type;
     for (const filter of document.querySelectorAll('[data-type]')) filter.setAttribute('aria-pressed', String(filter === button));
+    render();
+  });
+}
+for (const button of document.querySelectorAll('[data-audio]')) {
+  button.addEventListener('click', () => {
+    state.audio = button.dataset.audio;
+    for (const filter of document.querySelectorAll('[data-audio]')) filter.setAttribute('aria-pressed', String(filter === button));
     render();
   });
 }

@@ -26,10 +26,11 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid 
 .search-wrap svg { width: 18px; height: 18px; stroke: var(--muted); stroke-width: 1.6; flex-shrink: 0; }
 input { min-width: 0; width: 100%; min-height: 48px; border: 0; background: transparent; color: var(--text); font-size: 16px; }
 input::placeholder { color: var(--muted); font-size: 13px; }
-.type-filters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 5px; }
-.type-filters button { display: flex; align-items: center; justify-content: center; gap: 5px; min-height: 44px; padding: 5px 2px; font-size: 12px; color: var(--muted); background: transparent; border: 1px solid transparent; border-radius: 8px; white-space: nowrap; }
-.type-filters button[aria-pressed="true"] { color: var(--accent); background: #242e1d; border-color: #3a4a2a; }
-.type-filters span { font-size: 10px; opacity: .8; }
+.type-filters, .audio-filters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 5px; }
+.audio-filters { margin-top: 5px; }
+.type-filters button, .audio-filters button { display: flex; align-items: center; justify-content: center; gap: 5px; min-height: 44px; padding: 5px 2px; font-size: 12px; color: var(--muted); background: transparent; border: 1px solid transparent; border-radius: 8px; white-space: nowrap; }
+.type-filters button[aria-pressed="true"], .audio-filters button[aria-pressed="true"] { color: var(--accent); background: #242e1d; border-color: #3a4a2a; }
+.type-filters span, .audio-filters span { font-size: 10px; opacity: .8; }
 .results-header { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 16px 0 12px; }
 h2 { margin: 0; font-size: 17px; font-weight: 750; letter-spacing: -.4px; }
 #result-count { color: var(--muted); font-size: 11px; white-space: nowrap; }
@@ -56,5 +57,5 @@ footer a { color: var(--accent); display: inline-flex; align-items: center; min-
 @media (max-width: 340px) {
   main { padding-left: 12px; padding-right: 12px; }
   .cards { gap: 18px 10px; }
-  .type-filters button { font-size: 11px; gap: 3px; }
+  .type-filters button, .audio-filters button { font-size: 11px; gap: 3px; }
 }

@@ -42,6 +42,8 @@ or poster image files; `poster` is an image URL from the detail page.
       "year": 2026,
       "type": "movie",
       "language": "Malayalam",
+      "dubbed": false,
+      "audioLanguages": ["Malayalam"],
       "sections": ["RECENTLY ADDED"],
       "releaseTitle": "Example Movie (2026) Malayalam HD - [1080p]",
       "url": "https://www.1tamilmv.capital/index.php?/forums/topic/123-example/",
@@ -56,6 +58,11 @@ or poster image files; `poster` is an image URL from the detail page.
 - Includes entries advertising **Malayalam audio**, including multilingual
   releases with `MAL`. This is not a filter for original production language:
   the homepage does not reliably provide that information.
+- Adds `dubbed` and `audioLanguages` from the release title. A language named
+  inside a bracketed group (`[HIN + MAL + KAN]`, `(TAM + TEL + HIN + MAL)`) marks
+  a dubbed audio track, even when spelled `Malayalam`. A standalone language
+  after the year (`Title (2026) Malayalam HD`) marks the original. Spot checks
+  against Wikipedia agree, but this is a heuristic, not a database lookup.
 - Reconstructs full rows across nested formatting and line breaks, including
   titles outside quality links. Reads only the two named section containers.
 - Excludes `PreDVD`, `Pre-DVD`, and `Pre DVD` in row text, topic URLs, or
@@ -103,6 +110,7 @@ list, followed by recently added titles; entries in both sections appear only
 once. Top picks retain their badges, and update timestamps sit in the footer
 to keep the cards close to the top of the screen. Supported image hosts serve smaller
 mobile-sized artwork; original poster URLs remain unchanged in the JSON.
+Audio filters separate original from dubbed releases, and cards label both.
 The layout is designed for 320-430px
 mobile screens; wider screens retain a phone-width layout.
 
