@@ -1,8 +1,45 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-22T03:08:01.755Z",
+  "scrapedAt": "2026-11-22T18:32:32.642Z",
   "topUpdatedAt": "2026-11-22T03:08:01.755Z",
   "movies": [
+    {
+      "title": "Happy Journey",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Malayalam"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Happy Journey (2026) HD + ESub - [1080p & 720p - AVC / HEVC - [Tamil + Malayalam] - 2.4GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201241-happy-journey-2026-true-web-dl-1080p-720p-avc-dd51-192kbps-tamil-malayalam-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWJkODc5NWUtYjk2Yi00MmM0LThkOWUtNDhmN2RhZTk2NjQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "firstSeenAt": "2026-11-22T18:32:32.642Z"
+    },
+    {
+      "title": "Mayookha",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Mayookha (2026) HD + ESub - [1080p & 720p - AVC - [Hindi + Malayalam + Kannada] - 4GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201239-mayookha-2026-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjc5MTM2YTUtNDc0ZS00M2I3LWJkODEtM2JkYmNmOGExNTU0XkEyXkFqcGc@._V1_.jpg",
+      "firstSeenAt": "2026-11-22T18:32:32.642Z"
+    },
     {
       "title": "Perfectos Mentirosos",
       "year": 2026,
