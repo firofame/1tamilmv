@@ -1,8 +1,25 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-23T20:10:45.499Z",
-  "topUpdatedAt": "2026-11-23T00:17:07.658Z",
+  "scrapedAt": "2026-11-24T04:45:53.094Z",
+  "topUpdatedAt": "2026-11-24T04:45:53.094Z",
   "movies": [
+    {
+      "title": "Kla Kla Klee Klee Nazriya Thirinjunokkii",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "dubbed": false,
+      "audioLanguages": [
+        "Malayalam"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Kla Kla Klee Klee Nazriya Thirinjunokkii (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.8GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201273-kla-kla-klee-klee-nazriya-thirinjunokkii-2026-malayalam-true-web-dl-1080p-720p-avc-dd51-384kbps-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWEwYjk5NDEtM2U2Ni00YTdjLWI3YTEtYWZjMTYyN2FhNjlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "firstSeenAt": "2026-11-24T04:45:53.094Z"
+    },
     {
       "title": "1 by Two",
       "year": 2014,
