@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-25T00:40:54.960Z",
+  "scrapedAt": "2026-11-25T09:49:55.566Z",
   "topUpdatedAt": "2026-11-25T00:40:54.960Z",
   "movies": [
     {
@@ -3119,6 +3119,50 @@
   ],
   "tvShows": [
     {
+      "title": "Blade Runner 2099",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada",
+        "English"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Blade Runner 2099 (2026) S01 EP (01-08) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada + Eng] - 5GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201297-blade-runner-2099-2026-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
+      "poster": "https://pbs.twimg.com/media/HX5n5lDXMAA5AXk?format=jpg&name=large",
+      "firstSeenAt": "2026-11-25T09:49:55.566Z"
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada",
+        "English"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Lord of the Rings: The Rings of Power (2026) S03 EP (01-08) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 4GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/200898-the-lord-of-the-rings-the-rings-of-power-2026-s03-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
+      "poster": "https://pbs.twimg.com/media/HW1G-Y7bUAAY3Im?format=jpg&name=medium",
+      "firstSeenAt": "2026-11-11T10:52:51.240Z"
+    },
+    {
       "title": "Mr & Mrs Office",
       "year": 2026,
       "type": "tv_show",
@@ -3222,28 +3266,6 @@
       "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/200922-pushpaka-vimanam-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-34gb-14gb-600mb-esub/",
       "poster": "https://pbs.twimg.com/media/HW4yoeObsAAiAmF?format=jpg&name=large",
       "firstSeenAt": "2026-11-12T09:47:14.784Z"
-    },
-    {
-      "title": "The Lord of the Rings: The Rings of Power",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "dubbed": true,
-      "audioLanguages": [
-        "Tamil",
-        "Telugu",
-        "Hindi",
-        "Malayalam",
-        "Kannada",
-        "English"
-      ],
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "The Lord of the Rings: The Rings of Power (2026) S03 EP (01-06) HD + ESub - [1080p & 720p - AVC - [TAM + TEL + HIN + MAL + KAN + ENG] - 4GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/200898-the-lord-of-the-rings-the-rings-of-power-2026-s03-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-dd51-192kbps-5gb-35gb-1gb-esub/",
-      "poster": "https://pbs.twimg.com/media/HW1G-Y7bUAAY3Im?format=jpg&name=medium",
-      "firstSeenAt": "2026-11-11T10:52:51.240Z"
     },
     {
       "title": "Student of the Year: After Dark",
