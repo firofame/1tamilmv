@@ -1,8 +1,26 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-26T12:25:21.218Z",
+  "scrapedAt": "2026-11-26T22:19:25.613Z",
   "topUpdatedAt": "2026-11-26T02:49:32.566Z",
   "movies": [
+    {
+      "title": "Garividi Lakshmi",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Garividi Lakshmi (2026) HD + ESub - [1080p & 720p - AVC - [Malayalam + Kannada] - 2.7GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201334-garividi-lakshmi-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-malayalam-kannada-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/11/25/HX82lddaIAAt-IG.jpg",
+      "firstSeenAt": "2026-11-26T22:19:25.613Z"
+    },
     {
       "title": "Iniyum",
       "year": 2026,
