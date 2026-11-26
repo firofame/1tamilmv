@@ -1,6 +1,6 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-26T02:49:32.566Z",
+  "scrapedAt": "2026-11-26T12:25:21.218Z",
   "topUpdatedAt": "2026-11-26T02:49:32.566Z",
   "movies": [
     {
@@ -3119,6 +3119,48 @@
   ],
   "tvShows": [
     {
+      "title": "Heart Beat",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Heart Beat (2026) S01 EP (01-72) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 1.3GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199088-heart-beat-2026-s03-ep-01-56-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-26gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HOcMl8xbMAAsmMI?format=jpg&name=medium",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "Pushpaka Vimanam",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Pushpaka Vimanam (2026) S01 EP (01-12) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 3GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/200922-pushpaka-vimanam-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-34gb-14gb-600mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HW4yoeObsAAiAmF?format=jpg&name=large",
+      "firstSeenAt": "2026-11-12T09:47:14.784Z"
+    },
+    {
       "title": "Blade Runner 2099",
       "year": 2026,
       "type": "tv_show",
@@ -3224,48 +3266,6 @@
       "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
       "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "Heart Beat",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "dubbed": true,
-      "audioLanguages": [
-        "Tamil",
-        "Telugu",
-        "Hindi",
-        "Malayalam",
-        "Kannada"
-      ],
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Heart Beat (2026) S01 EP (01-68) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 1.3GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199088-heart-beat-2026-s03-ep-01-56-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-26gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HOcMl8xbMAAsmMI?format=jpg&name=medium",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "Pushpaka Vimanam",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "dubbed": true,
-      "audioLanguages": [
-        "Tamil",
-        "Telugu",
-        "Hindi",
-        "Malayalam",
-        "Kannada"
-      ],
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Pushpaka Vimanam (2026) S01 EP (01-08) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 3GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/200922-pushpaka-vimanam-2026-s01-ep-01-04-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-34gb-14gb-600mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HW4yoeObsAAiAmF?format=jpg&name=large",
-      "firstSeenAt": "2026-11-12T09:47:14.784Z"
     },
     {
       "title": "Student of the Year: After Dark",
