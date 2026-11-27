@@ -1,8 +1,44 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-27T05:01:27.581Z",
+  "scrapedAt": "2026-11-27T15:01:26.568Z",
   "topUpdatedAt": "2026-11-27T05:01:27.581Z",
   "movies": [
+    {
+      "title": "Aadarsha Kutumbam House No: 47",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Aadarsha Kutumbam House No: 47 (2026) UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - [HIN + MAL + KAN] - 15GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201165-aadarsha-kutumbam-house-no-47-2026-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-hindi-malayalam-kannada-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HV3VHMKakAAEXkX?format=jpg&name=large",
+      "firstSeenAt": "2026-11-27T15:01:26.568Z"
+    },
+    {
+      "title": "Pantham",
+      "year": 2026,
+      "type": "movie",
+      "language": "Malayalam",
+      "dubbed": false,
+      "audioLanguages": [
+        "Malayalam"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Pantham (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.6GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201366-pantham-2026-malayalam%C2%A0true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/",
+      "poster": "https://www.pixelbb.com/images/2026/11/27/nuidkvmnu9k.jpeg",
+      "firstSeenAt": "2026-11-27T15:01:26.568Z"
+    },
     {
       "title": "Garividi Lakshmi",
       "year": 2026,
@@ -3137,6 +3173,27 @@
   ],
   "tvShows": [
     {
+      "title": "The Court",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "The Court (2026) S01 EP (01-52) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "Heart Beat",
       "year": 2026,
       "type": "tv_show",
@@ -3262,27 +3319,6 @@
       "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-44) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
       "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
       "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
-      "title": "The Court",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "dubbed": true,
-      "audioLanguages": [
-        "Tamil",
-        "Telugu",
-        "Hindi",
-        "Malayalam",
-        "Kannada"
-      ],
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "The Court (2026) S01 EP (01-48) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
