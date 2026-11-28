@@ -194,6 +194,11 @@ narrow what is posted:
 - `TELEGRAM_AUDIO`: `all` (default), `original` or `dubbed`
 - `TELEGRAM_TYPE`: `all` (default), `movie` or `tv_show`
 
+To check the setup, run the workflow manually with **telegram_test** ticked.
+It posts a test message to the chat; the **Send Telegram test message** step
+log shows the Telegram error if it fails (for example, the bot is not a
+channel admin or the chat ID is wrong).
+
 Preview messages locally without sending anything:
 
 ```sh
