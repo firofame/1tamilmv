@@ -1,7 +1,7 @@
 {
   "source": "https://www.1tamilmv.ceo/",
-  "scrapedAt": "2026-11-27T15:01:26.568Z",
-  "topUpdatedAt": "2026-11-27T05:01:27.581Z",
+  "scrapedAt": "2026-11-28T07:42:52.573Z",
+  "topUpdatedAt": "2026-11-28T07:42:52.573Z",
   "movies": [
     {
       "title": "Aadarsha Kutumbam House No: 47",
@@ -3173,6 +3173,48 @@
   ],
   "tvShows": [
     {
+      "title": "Prince of Mollywood",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-48) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "Part Timers",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": true,
+      "audioLanguages": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Part Timers (2026) S01 EP (01-56) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199482-part-timers-2026-s01-ep-01-40-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-24gb-1gb-500mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HQx8YsxasAA7lRT?format=jpg&name=large",
+      "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
       "title": "The Court",
       "year": 2026,
       "type": "tv_show",
@@ -3192,6 +3234,23 @@
       "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199602-the-court-2026-s01-ep-01-32-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-19gb-900mb-450mb-esub/",
       "poster": "https://pbs.twimg.com/media/HRT-j2zbAAEDlBh?format=jpg&name=large",
       "firstSeenAt": "2026-10-07T14:04:51.478Z"
+    },
+    {
+      "title": "Sathyameva",
+      "year": 2026,
+      "type": "tv_show",
+      "language": "Malayalam",
+      "dubbed": false,
+      "audioLanguages": [
+        "Malayalam"
+      ],
+      "sections": [
+        "RECENTLY ADDED"
+      ],
+      "releaseTitle": "Sathyameva (2026) S01 EP (01-06) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.8GB + Rips]",
+      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/201390-sathyameva-2026-s01-ep-01-06-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-18gb-800mb-350mb-esub/",
+      "poster": "https://pbs.twimg.com/media/HYLv6e3a0AASE7z?format=jpg&name=large",
+      "firstSeenAt": "2026-11-28T07:42:52.573Z"
     },
     {
       "title": "Heart Beat",
@@ -3301,27 +3360,6 @@
       "firstSeenAt": "2026-11-18T04:15:52.533Z"
     },
     {
-      "title": "Prince of Mollywood",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "dubbed": true,
-      "audioLanguages": [
-        "Tamil",
-        "Telugu",
-        "Hindi",
-        "Malayalam",
-        "Kannada"
-      ],
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Prince of Mollywood (2026) S01 EP (01-44) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199722-prince-of-mollywood-2026-s01-ep-01-28-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-23gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HRYqIUja0AAPPt8?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
-    },
-    {
       "title": "Student of the Year: After Dark",
       "year": 2026,
       "type": "tv_show",
@@ -3341,27 +3379,6 @@
       "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/200962-student-of-the-year-after-dark-2026-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-75gb-29gb-13gb-esub/",
       "poster": "https://www.pixelbb.com/images/2026/11/13/HW8YBQ7a0AADddu.jpg",
       "firstSeenAt": "2026-11-13T06:39:38.956Z"
-    },
-    {
-      "title": "Part Timers",
-      "year": 2026,
-      "type": "tv_show",
-      "language": "Malayalam",
-      "dubbed": true,
-      "audioLanguages": [
-        "Tamil",
-        "Telugu",
-        "Hindi",
-        "Malayalam",
-        "Kannada"
-      ],
-      "sections": [
-        "RECENTLY ADDED"
-      ],
-      "releaseTitle": "Part Timers (2026) S01 EP (01-48) HD + ESub - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.5GB + Rips]",
-      "url": "https://www.1tamilmv.ceo/index.php?/forums/topic/199482-part-timers-2026-s01-ep-01-40-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-aac-20-24gb-1gb-500mb-esub/",
-      "poster": "https://pbs.twimg.com/media/HQx8YsxasAA7lRT?format=jpg&name=large",
-      "firstSeenAt": "2026-10-07T14:04:51.478Z"
     },
     {
       "title": "Brothers And Sisters",
