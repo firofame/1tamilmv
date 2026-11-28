@@ -60,6 +60,10 @@ export function summaryMessage(updates, siteUrl = SITE_URL) {
     '', `<a href="${escapeHtml(siteUrl)}">All releases</a>`].join('\n');
 }
 
+export function testMessage(siteUrl = SITE_URL) {
+  return `✅ <b>Test message</b>\nThe bot can post here. New releases will appear automatically.\n\n<a href="${escapeHtml(siteUrl)}">All releases</a>`;
+}
+
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 export async function callTelegram(method, body, { token, fetchImpl = globalThis.fetch, wait = sleep } = {}) {
@@ -132,11 +136,16 @@ if (process.argv[1] && import.meta.url === new URL(process.argv[1], 'file:').hre
         previous: { type: 'string' },
         current: { type: 'string', default: 'movies.json' },
         'dry-run': { type: 'boolean', default: false },
+        test: { type: 'boolean', default: false },
       },
     });
     const token = process.env.TELEGRAM_BOT_TOKEN;
     const chatId = process.env.TELEGRAM_CHAT_ID;
-    if (!values['dry-run'] && (!token || !chatId)) {
+    if (values.test) {
+      if (!token || !chatId) throw new Error('Test message not sent: TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID secrets are both required.');
+      await callTelegram('sendMessage', { chat_id: chatId, text: testMessage(process.env.SITE_URL || SITE_URL), parse_mode: 'HTML' }, { token });
+      console.log('Telegram test message sent.');
+    } else if (!values['dry-run'] && (!token || !chatId)) {
       console.log('TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID is not set; skipping Telegram notifications.');
     } else {
       if (!values.previous) throw new Error('--previous <file> is required.');

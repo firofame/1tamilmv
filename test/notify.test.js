@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { findUpdates, formatCaption, sendUpdates, topicId } from '../notify.js';
+import { findUpdates, formatCaption, sendUpdates, testMessage, topicId } from '../notify.js';
 
 const url = (id, domain = 'capital') => `https://www.1tamilmv.${domain}/index.php?/forums/topic/${id}-example/`;
 const movie = (id, extra = {}) => ({
@@ -70,4 +70,8 @@ test('errors never contain the bot token', async () => {
   await assert.rejects(
     sendUpdates([{ kind: 'new', entry: movie(1, { poster: null }) }], { token: 'SECRET123', chatId: 'c', fetchImpl, wait: async () => {} }),
     (error) => !error.message.includes('SECRET123') && /Unauthorized/.test(error.message));
+});
+
+test('test message links to the site', () => {
+  assert.match(testMessage('https://example.com/?a=1&b=2'), /href="https:\/\/example\.com\/\?a=1&amp;b=2"/);
 });
