@@ -38,6 +38,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test && npm run check
+      - name: Keep previous data for notifications
+        run: cp movies.json "$RUNNER_TEMP/previous-movies.json"
       - name: Refresh release data
         env:
           REFRESH_TOP: ${{ github.event_name == 'workflow_dispatch' && inputs.refresh_top }}
@@ -60,6 +62,15 @@ jobs:
             git push origin HEAD:main
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+      - name: Notify Telegram
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_AUDIO: ${{ vars.TELEGRAM_AUDIO }}
+          TELEGRAM_TYPE: ${{ vars.TELEGRAM_TYPE }}
+        run: node notify.js --previous "$RUNNER_TEMP/previous-movies.json" --current movies.json
 
   build:
     needs: update

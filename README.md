@@ -165,3 +165,37 @@ No scraper secrets are required. In repository settings, Pages must use
 repository contents. GitHub disables scheduled workflows in public
 repositories after 60 days without repository activity; re-enable the
 workflow if that occurs. No-change checks intentionally create no commits.
+
+## Telegram notifications
+
+After each update that changes `movies.json`, the workflow posts new releases
+to Telegram: one message per new topic (poster, title, year, original/dubbed,
+audio languages, top-pick badge, links), plus TV shows whose episode range
+moved. Topics are matched by topic ID, so a domain change does not re-announce
+everything. More than 10 updates in one run are sent as 9 messages plus a
+summary list. A Telegram failure is reported in the job log but never blocks
+the data commit or the Pages deploy.
+
+Setup:
+
+1. Message **@BotFather** in Telegram, send `/newbot`, and copy the token.
+2. Add the bot to your channel or group as an admin (or send it a message for a
+   private chat).
+3. Find the chat ID: `@yourchannel` for a public channel, otherwise send the
+   bot a message and read `chat.id` from
+   `https://api.telegram.org/bot<TOKEN>/getUpdates`.
+4. In **Settings → Secrets and variables → Actions**, add the secrets
+   `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
+
+Without both secrets the step is skipped. Optional repository **variables**
+narrow what is posted:
+
+- `TELEGRAM_AUDIO`: `all` (default), `original` or `dubbed`
+- `TELEGRAM_TYPE`: `all` (default), `movie` or `tv_show`
+
+Preview messages locally without sending anything:
+
+```sh
+git show HEAD~5:movies.json > /tmp/previous.json
+node notify.js --dry-run --previous /tmp/previous.json
+```
