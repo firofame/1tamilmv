@@ -4,7 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '17 * * * *'
+    # 02:17 and 13:17 UTC = 07:47 and 18:47 IST
+    - cron: '17 2,13 * * *'
   workflow_dispatch:
     inputs:
       refresh_top:

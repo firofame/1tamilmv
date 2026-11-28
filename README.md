@@ -129,10 +129,11 @@ npm run test:ui
 
 ## Automatic updates and deployment
 
-[The GitHub Actions workflow](.github/workflows/publish.yml) runs every hour
-at minute **17** (UTC). It checks **RECENTLY ADDED** each run and refreshes
-**TOP RELEASES THIS WEEK** on the first successful run of each new UTC date
-(normally 00:17 UTC / 05:47 IST). GitHub may delay scheduled jobs.
+[The GitHub Actions workflow](.github/workflows/publish.yml) runs twice a
+day, at **02:17** and **13:17** UTC (07:47 and 18:47 IST). It checks **RECENTLY
+ADDED** each run and refreshes **TOP RELEASES THIS WEEK** on the first
+successful run of each new UTC date (normally the 02:17 UTC run). Change the
+`cron` line in the workflow to run more or less often. GitHub may delay scheduled jobs.
 
 ```sh
 npm run update
@@ -143,7 +144,7 @@ The updater:
 
 - Fetches the homepage, reuses detail data by topic ID, and fetches detail
   pages only for new entries or previously failed details. Known absent
-  posters are cached too; episode/listing text still updates hourly.
+  posters are cached too; episode/listing text still updates every run.
 - Keeps yesterday's top membership between daily refreshes. Each refreshed
   section is a current snapshot, so vanished listings are removed rather
   than accumulated forever.
